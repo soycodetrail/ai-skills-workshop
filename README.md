@@ -2,14 +2,14 @@
 
 > 精选全球爆火的 Agent Skill 合集——绘图、写作、剪视频，让 AI 为你打工
 >
-> 🌐 **主站入口**：https://soycodetrail.top/skills  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
+> 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 01:53:25
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 02:11:22
 
-## 📚 系列展示站（更多精选内容）
+## 📚 系列展示站（更多精选内容，互相导流）
 
-- [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
-- [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
+- [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
+- [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
 ## 📑 内容导航（221 个条目 / 16 个分类）
 
