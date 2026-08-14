@@ -1,0 +1,3255 @@
+{
+  "updatedAt": "2026-08-14T00:32:22.665Z",
+  "items": [
+    {
+      "name": "归藏 PPT",
+      "desc": "横向翻页网页 PPT（杂志风/瑞士风），22 个锁定版式",
+      "url": "https://github.com/op7418/guizang-ppt-skill",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "HTML",
+        "WebGL",
+        "Swiss Style"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 23864
+    },
+    {
+      "name": "Codex PPT",
+      "desc": "文章转整页图片式 PPTX，12 种风格模板",
+      "url": "https://github.com/ningzimu/codex-ppt-skill",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "PPTX",
+        "Codex",
+        "Multi-Agent"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 4799
+    },
+    {
+      "name": "NanoBanana PPT",
+      "desc": "AI 生图+转场视频一体化 PPT",
+      "url": "https://github.com/op7418/NanoBanana-PPT-Skills",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "AI 生图",
+        "视频",
+        "HTML"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 3200
+    },
+    {
+      "name": "PPT Master",
+      "desc": "原生可编辑 PowerPoint（母版/形状/图表）",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "PPTX",
+        "Office"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 45618
+    },
+    {
+      "name": "Make Slide",
+      "desc": "10 套主题单文件 HTML 演示稿",
+      "url": "https://github.com/Kuneosu/make-slide",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "HTML",
+        "主题"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 114
+    },
+    {
+      "name": "PowerPoint Skill",
+      "desc": "学术论文转 PPTX（公式/图表管线）",
+      "url": "https://github.com/Noi1r/powerpoint-skill",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "学术",
+        "公式"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 107
+    },
+    {
+      "name": "Deckset Skill",
+      "desc": "Deckset Markdown 演示助手（macOS）",
+      "url": "https://github.com/doudou1337/deckset-claude-skill",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "Markdown",
+        "macOS"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 10
+    },
+    {
+      "name": "赛博朋克 PPT",
+      "desc": "赛博朋克霓虹风 PPT/封面/海报",
+      "url": "https://github.com/soycodetrail/cyberpunk-ppt-maker",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "赛博朋克",
+        "霓虹",
+        "海报"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 9
+    },
+    {
+      "name": "Manim Skill",
+      "desc": "3Blue1Brown 风格数学动画",
+      "url": "https://github.com/adithya-s-k/manim_skill",
+      "category": "animation",
+      "tags": [
+        "动画",
+        "数学",
+        "Manim",
+        "3B1B"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1055
+    },
+    {
+      "name": "Motion Design Skill",
+      "desc": "Lottie 官方动效设计原则（迪士尼十二原则）",
+      "url": "https://github.com/LottieFiles/motion-design-skill",
+      "category": "animation",
+      "tags": [
+        "动效",
+        "Lottie",
+        "CSS",
+        "GSAP"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 955
+    },
+    {
+      "name": "Motion Skills 合集",
+      "desc": "51 个动画 skill 合集（15 子 pack）",
+      "url": "https://github.com/iart-ai/motion-skills",
+      "category": "animation",
+      "tags": [
+        "动画",
+        "合集",
+        "多风格"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 350
+    },
+    {
+      "name": "AI Animation Skill",
+      "desc": "科普文本转炫酷 HTML 演示动画",
+      "url": "https://github.com/Unclecheng-li/AI-Animation-Skill",
+      "category": "animation",
+      "tags": [
+        "动画",
+        "HTML",
+        "科普"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 518
+    },
+    {
+      "name": "AI Animation 合集",
+      "desc": "6 个 HTML 动画 skill 集合",
+      "url": "https://github.com/Unclecheng-li/AI_Animation",
+      "category": "animation",
+      "tags": [
+        "动画",
+        "HTML",
+        "合集"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1104
+    },
+    {
+      "name": "Generative Illustration",
+      "desc": "AI 生成素材+代码逐帧动画",
+      "url": "https://github.com/iart-ai/generative-illustration-skills",
+      "category": "animation",
+      "tags": [
+        "动画",
+        "AI 生图",
+        "逐帧"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 0
+    },
+    {
+      "name": "WebGL Animation",
+      "desc": "Three.js / GLSL Shader / 粒子系统",
+      "url": "https://github.com/iart-ai/webgl-animation-skills",
+      "category": "animation",
+      "tags": [
+        "动画",
+        "WebGL",
+        "Three.js",
+        "Shader"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 5
+    },
+    {
+      "name": "Pixel Art Studio",
+      "desc": "Pillow 逐像素画像素画（不依赖扩散模型）",
+      "url": "https://github.com/Gamezxz/pixel-art-studio",
+      "category": "animation",
+      "tags": [
+        "像素画",
+        "Pillow",
+        "GIF",
+        "精灵表"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 31
+    },
+    {
+      "name": "Blender Skills",
+      "desc": "Blender 3D 产品工作流（Meshy+6 种运镜）",
+      "url": "https://github.com/kevinbadi/blender-skills",
+      "category": "animation",
+      "tags": [
+        "3D",
+        "Blender",
+        "Meshy",
+        "运镜"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 59
+    },
+    {
+      "name": "Nano Banana Pro Prompts",
+      "desc": "10000+ Nano Banana Pro 提示词库（带样图）",
+      "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "category": "image-gen",
+      "tags": [
+        "AI 绘画",
+        "提示词",
+        "Nano Banana"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1821
+    },
+    {
+      "name": "Ultimate AI Media Generator",
+      "desc": "多模型图/视/音一站式生成",
+      "url": "https://github.com/ZeroLu/Ultimate-AI-Media-Generator-Skill",
+      "category": "image-gen",
+      "tags": [
+        "AI 绘画",
+        "视频",
+        "音频",
+        "多模型"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 81
+    },
+    {
+      "name": "ComfyUI Workflow Skill",
+      "desc": "自然语言→ComfyUI 工作流（34 模板+360 节点）",
+      "url": "https://github.com/LingyiChen-AI/comfyui-workflow-skill",
+      "category": "image-gen",
+      "tags": [
+        "ComfyUI",
+        "工作流",
+        "AI 绘画",
+        "JSON"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 359
+    },
+    {
+      "name": "ComfyUI Skills (OpenClaw)",
+      "desc": "ComfyUI 工作流转可调用 skill（CLI+WebUI）",
+      "url": "https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw",
+      "category": "image-gen",
+      "tags": [
+        "ComfyUI",
+        "CLI",
+        "WebUI",
+        "OpenClaw"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 389
+    },
+    {
+      "name": "Design Image Studio",
+      "desc": "火山引擎 Seedream 设计编译器",
+      "url": "https://github.com/kangarooking/design-image-studio",
+      "category": "image-gen",
+      "tags": [
+        "AI 绘画",
+        "Seedream",
+        "设计"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 97
+    },
+    {
+      "name": "Excalidraw Diagram Skill",
+      "desc": "「会论证」的 Excalidraw 手绘图",
+      "url": "https://github.com/coleam00/excalidraw-diagram-skill",
+      "category": "excalidraw",
+      "tags": [
+        "Excalidraw",
+        "手绘",
+        "论证"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 4398
+    },
+    {
+      "name": "Axton Obsidian Visual",
+      "desc": "Obsidian Canvas/Excalidraw/Mermaid 三件套",
+      "url": "https://github.com/axtonliu/axton-obsidian-visual-skills",
+      "category": "excalidraw",
+      "tags": [
+        "Excalidraw",
+        "Obsidian",
+        "Mermaid",
+        "Canvas"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 3298
+    },
+    {
+      "name": "Excalidraw Skill (Robonuggets)",
+      "desc": "MCP 实时画布+截图自检迭代",
+      "url": "https://github.com/robonuggets/excalidraw-skill",
+      "category": "excalidraw",
+      "tags": [
+        "Excalidraw",
+        "MCP",
+        "实时",
+        "自检"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 74
+    },
+    {
+      "name": "Mermaid Skill",
+      "desc": "自然语言转 .mmd + 校验 + 导出",
+      "url": "https://github.com/Agents365-ai/mermaid-skill",
+      "category": "diagram",
+      "tags": [
+        "Mermaid",
+        "图表",
+        "导出",
+        "校验"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 173
+    },
+    {
+      "name": "Architecture Diagram Generator",
+      "desc": "暗色主题架构图（语义配色）",
+      "url": "https://github.com/Cocoon-AI/architecture-diagram-generator",
+      "category": "diagram",
+      "tags": [
+        "架构图",
+        "暗色主题",
+        "SVG",
+        "HTML"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 6893
+    },
+    {
+      "name": "Fireworks Tech Graph",
+      "desc": "几何安全技术图+语义 GIF 动画",
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "category": "diagram",
+      "tags": [
+        "技术图",
+        "GIF",
+        "SVG",
+        "几何"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 9858
+    },
+    {
+      "name": "Best Skills 合集",
+      "desc": "14 个高质量 skill（drawio/excalidraw/codegen/PPT）",
+      "url": "https://github.com/xstongxue/best-skills",
+      "category": "diagram",
+      "tags": [
+        "合集",
+        "DrawIO",
+        "Excalidraw",
+        "PPT"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 2526
+    },
+    {
+      "name": "Chart Visualization Skills",
+      "desc": "AntV 官方 7 个可视化 skill",
+      "url": "https://github.com/antvis/chart-visualization-skills",
+      "category": "dataviz",
+      "tags": [
+        "AntV",
+        "可视化",
+        "图表",
+        "数据"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 459
+    },
+    {
+      "name": "Claude Infographic Charts",
+      "desc": "Claude artifact 风格 SVG/HTML 图表",
+      "url": "https://github.com/huangzhenhao90/claude-infographic-charts",
+      "category": "dataviz",
+      "tags": [
+        "信息图",
+        "SVG",
+        "HTML",
+        "Claude"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 24
+    },
+    {
+      "name": "宝玉 Skills 合集",
+      "desc": "21 个内容创作 skill（信息图/图表/封面/幻灯片）",
+      "url": "https://github.com/JimLiu/baoyu-skills",
+      "category": "dataviz",
+      "tags": [
+        "合集",
+        "信息图",
+        "封面",
+        "幻灯片"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 24912
+    },
+    {
+      "name": "Design Buddy",
+      "desc": "19 个视觉生产 skill（封面/海报/Logo/UI）",
+      "url": "https://github.com/SpaceZephyr/design-buddy",
+      "category": "design",
+      "tags": [
+        "设计",
+        "封面",
+        "海报",
+        "Logo",
+        "UI"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 132
+    },
+    {
+      "name": "Anthropic 官方 Skills",
+      "desc": "Anthropic 官方 17 skill（algorithmic-art/gif/canvas）",
+      "url": "https://github.com/anthropics/skills",
+      "category": "design",
+      "tags": [
+        "官方",
+        "创意",
+        "GIF",
+        "Canvas",
+        "合集"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 168541
+    },
+    {
+      "name": "Video Shotcraft",
+      "desc": "Remotion 电影感产品视频（106 镜头+149 SFX）",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "category": "remotion",
+      "tags": [
+        "视频",
+        "Remotion",
+        "电影感",
+        "SFX"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4833
+    },
+    {
+      "name": "Remotion Video Skill",
+      "desc": "Remotion 编程视频 + TTS 语音合成",
+      "url": "https://github.com/wshuyi/remotion-video-skill",
+      "category": "remotion",
+      "tags": [
+        "视频",
+        "Remotion",
+        "TTS",
+        "编程"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 334
+    },
+    {
+      "name": "Visual Skills",
+      "desc": "AI 影视导演提示词（戏剧冲突优先）",
+      "url": "https://github.com/smixs/visual-skills",
+      "category": "prompting",
+      "tags": [
+        "视频",
+        "导演",
+        "提示词",
+        "影视"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 160
+    },
+    {
+      "name": "Video Prompting",
+      "desc": "T2V/I2V 提示词+角色表（Sora/Veo3/Wan2.2）",
+      "url": "https://github.com/Square-Zero-Labs/video-prompting-skill",
+      "category": "prompting",
+      "tags": [
+        "视频",
+        "T2V",
+        "I2V",
+        "Sora"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 144
+    },
+    {
+      "name": "AI Video Skill (AITuber)",
+      "desc": "AITuber 全链路视频生成（脚本→配音→画面→字幕→MP4→发布）",
+      "url": "https://github.com/aituberapp/ai-video-skill",
+      "category": "fullstack",
+      "tags": [
+        "全链路",
+        "AITuber",
+        "脚本",
+        "配音",
+        "发布"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 0
+    },
+    {
+      "name": "文章转视频",
+      "desc": "王建硕：文章转视频全流程 skill（搜索→文案→分镜→配音→字幕→BGM）",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "fullstack",
+      "tags": [
+        "全链路",
+        "文章转视频",
+        "分镜",
+        "BGM"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "文字转语音",
+      "desc": "王建硕：文字转语音 skill（Edge TTS + mpv 播放）",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "dubbing",
+      "tags": [
+        "TTS",
+        "Edge TTS",
+        "语音",
+        "mpv"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Claude Remotion Skill",
+      "desc": "Claude Code 用 Remotion 生成视频（模板+动画+渲染）",
+      "url": "https://github.com/haidrrrry/claude-remotion-skill",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "Claude",
+        "模板",
+        "动画"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 41
+    },
+    {
+      "name": "Remotion 官方 Skills",
+      "desc": "Remotion 官方 12 个 skill（创建/标记/渲染/字幕/交互/地图/升级）",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "官方",
+        "字幕",
+        "地图",
+        "升级"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "烧字幕",
+      "desc": "王建硕：字幕烧录 skill（SRT 时间码+字体样式+FFmpeg 编码）",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "subtitle",
+      "tags": [
+        "字幕",
+        "SRT",
+        "FFmpeg",
+        "烧录"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "视频配音",
+      "desc": "王建硕：视频配音 skill（TTS 引擎+字幕叠加）",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "dubbing",
+      "tags": [
+        "配音",
+        "TTS",
+        "字幕"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "视频转文字",
+      "desc": "王建硕：视频语音转文字 skill（Whisper+格式化）",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "subtitle",
+      "tags": [
+        "语音转文字",
+        "Whisper",
+        "转录"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "多机位配音",
+      "desc": "王建硕：多机位视频配音 skill（MCP + 多视频源）",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "dubbing",
+      "tags": [
+        "多机位",
+        "MCP",
+        "配音"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "翻译字幕",
+      "desc": "王建硕：字幕翻译 skill（多语言+时间码保持）",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "subtitle",
+      "tags": [
+        "字幕翻译",
+        "多语言",
+        "SRT"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "视频剪辑",
+      "desc": "王建硕：视频剪辑 skill（FFmpeg 无级变速+高保真分割）",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "ai-video",
+      "tags": [
+        "剪辑",
+        "FFmpeg",
+        "无级变速"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Video Skills",
+      "desc": "4 个短视频 skill（Tumblr 风/Lottie 动画/知识科普/xskill API）",
+      "url": "https://github.com/xuliang2024/video_skills",
+      "category": "ai-video",
+      "tags": [
+        "短视频",
+        "Tumblr",
+        "Lottie",
+        "科普"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 33
+    },
+    {
+      "name": "画中画视频",
+      "desc": "王建硕：画中画视频 skill（主画面+小窗叠加+FFmpeg）",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "ai-video",
+      "tags": [
+        "画中画",
+        "FFmpeg",
+        "叠加"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "屏幕录制",
+      "desc": "王建硕：屏幕录制 skill（macOS 原生+FFmpeg 压缩）",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "ai-video",
+      "tags": [
+        "录屏",
+        "macOS",
+        "FFmpeg"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Openwrite",
+      "desc": "长篇小说本地优先 AI 创作工作台（Goethe/Dante 双 Agent）",
+      "url": "https://github.com/LiPu-jpg/Openwrite",
+      "category": "longform",
+      "tags": [
+        "小说",
+        "创作",
+        "Agent",
+        "长篇"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 561
+    },
+    {
+      "name": "oh-story",
+      "desc": "网文写作 skill 包（扫榜-拆文-写作-去AI味-封面图全流程）",
+      "url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "category": "longform",
+      "tags": [
+        "网文",
+        "写作",
+        "全流程",
+        "封面"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 5468
+    },
+    {
+      "name": "AI Fiction Writer",
+      "desc": "长篇网文 10-Skill 工程化工作流（防 OOC/防吃书）",
+      "url": "https://github.com/Wooooooooood/ai-fiction-writer",
+      "category": "longform",
+      "tags": [
+        "网文",
+        "工程化",
+        "OOC",
+        "审稿"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 32
+    },
+    {
+      "name": "Writing Agent",
+      "desc": "Claude Code 全栈「去AI味」写作系统（14 阶段 + 20 subagent）",
+      "url": "https://github.com/dongbeixiaohuo/writing-agent",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "去AI味",
+        "流水线",
+        "公众号"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 371
+    },
+    {
+      "name": "AIWriteX",
+      "desc": "全链路 AI 写作工作台（多模型+多格式导出）",
+      "url": "https://github.com/iniwap/AIWriteX",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "多模型",
+        "导出",
+        "工作台"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1820
+    },
+    {
+      "name": "WeChat Skill",
+      "desc": "公众号文章排版与发布 skill",
+      "url": "https://github.com/843645440/wechat-skill",
+      "category": "longform",
+      "tags": [
+        "公众号",
+        "排版",
+        "发布"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 83
+    },
+    {
+      "name": "Humanizer",
+      "desc": "英文去 AI 写作痕迹标杆 skill（Wikipedia 33 模式）",
+      "url": "https://github.com/blader/humanizer",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "英文",
+        "Wikipedia"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 35297
+    },
+    {
+      "name": "Humanizer-zh",
+      "desc": "humanizer 中文版（24 模式 + 5 维评分）",
+      "url": "https://github.com/op7418/Humanizer-zh",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "中文",
+        "humanizer"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 15168
+    },
+    {
+      "name": "说人话",
+      "desc": "中文优先去 AI 味改写（保真合同+场景分档+长文不缩水）",
+      "url": "https://github.com/MrGeDiao/shuorenhua",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "中文",
+        "说人话"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1044
+    },
+    {
+      "name": "AI Flavor Remover",
+      "desc": "AI 写作痕迹检测与移除工具",
+      "url": "https://github.com/hylarucoder/ai-flavor-remover",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "检测",
+        "移除"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1120
+    },
+    {
+      "name": "De-AI Tone",
+      "desc": "中文去 AI 腔调改写 skill",
+      "url": "https://github.com/allenloves/de-ai-tone",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "中文",
+        "腔调"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 62
+    },
+    {
+      "name": "Remove AI Flavor",
+      "desc": "去 AI 味写作 skill（中英文通用）",
+      "url": "https://github.com/B1lli/remove-ai-flavor-writing-skill",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "中英文"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 207
+    },
+    {
+      "name": "去 AI 味",
+      "desc": "中文去 AI 味改写 skill",
+      "url": "https://github.com/LifelongLazyLearner/qu-ai-wei",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "中文"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 399
+    },
+    {
+      "name": "Speak Human TW",
+      "desc": "繁体中文去 AI 味改写 skill",
+      "url": "https://github.com/Raymondhou0917/speak-human-tw",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "繁体",
+        "台湾"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 804
+    },
+    {
+      "name": "De-AI Prompt Enhancer",
+      "desc": "去 AI 味提示词增强器（写作辅助）",
+      "url": "https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "提示词",
+        "增强"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 622
+    },
+    {
+      "name": "Distilled Novel Toolbox",
+      "desc": "网文全链路创作知识库（13 模块 + 去 AI 腔引擎 v2.0）",
+      "url": "https://github.com/dama-cyber/Distilled-Novel-Toolbox",
+      "category": "methodology",
+      "tags": [
+        "网文",
+        "知识库",
+        "方法论"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 169
+    },
+    {
+      "name": "Chinese WebNovel Skill",
+      "desc": "中文网文创作方法论 skill",
+      "url": "https://github.com/Tomsawyerhu/Chinese-WebNovel-Skill",
+      "category": "methodology",
+      "tags": [
+        "网文",
+        "中文",
+        "方法论"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 594
+    },
+    {
+      "name": "Writer DNA",
+      "desc": "写作风格 DNA 分析与保持 skill",
+      "url": "https://github.com/liangjfblue/writer-dna",
+      "category": "methodology",
+      "tags": [
+        "风格",
+        "DNA",
+        "模仿"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 88
+    },
+    {
+      "name": "3brown1blue",
+      "desc": "<p align=\"center\">",
+      "url": "https://github.com/AmitSubhash/3brown1blue",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 28
+    },
+    {
+      "name": "Agnes Ai Generation Skill",
+      "desc": "Use this skill to call Agnes text, image, and video generati",
+      "url": "https://github.com/Yacey/agnes-ai-generation-skill",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 388
+    },
+    {
+      "name": "Ai Game Art Pipeline Skill",
+      "desc": "Use this skill when a user wants to generate, plan, debug, o",
+      "url": "https://github.com/ybuild-ai/ai-game-art-pipeline-skill",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 294
+    },
+    {
+      "name": "Ai Media Generator Skill",
+      "desc": "> **Codex compatibility:** References that still say “Claude",
+      "url": "https://github.com/Hao0321/ai-media-generator",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 208
+    },
+    {
+      "name": "Ai Shortfilm Prompts Skill",
+      "desc": "> 🌐 **Browse the prompt library online → [prompts.aiolaola.",
+      "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts",
+      "category": "prompting",
+      "tags": [
+        "导演"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 341
+    },
+    {
+      "name": "Ai Visual Director Skill",
+      "desc": "这是给 agent 执行用的主 Skill，不是产品 README。README 负责介绍、安装和能力展示；本文件只定义",
+      "url": "https://github.com/jijiutong/ai-visual-director",
+      "category": "prompting",
+      "tags": [
+        "导演"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 147
+    },
+    {
+      "name": "Bananahub Skill",
+      "desc": "Generate or edit images from non-English or mixed-language r",
+      "url": "https://github.com/bananahub-ai/bananahub-skill",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 118
+    },
+    {
+      "name": "Blender Mcp Skill",
+      "desc": "Control Blender with natural language through MCP. Tell Clau",
+      "url": "https://github.com/sandraschi/blender-mcp",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 33
+    },
+    {
+      "name": "Remotion Skills - Remotion 最佳实践技能库",
+      "desc": "这是一个为 AI 代理提供的 Remotion 最佳实践技能库,包含了使用 Remotion 进行视频创作的详细指南和代",
+      "url": "https://github.com/buainoai/remotion-skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 95
+    },
+    {
+      "name": "Cartoon Synth Skill",
+      "desc": "Act as **CartoonSynth**: a highbrow editorial cartoonist, vi",
+      "url": "https://github.com/derrickxu1220/cartoon-synth",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1
+    },
+    {
+      "name": "Cc Blender Skill",
+      "desc": "A Claude Code skill plugin that lets Claude use Blender like",
+      "url": "https://github.com/RobLe3/cc-blender-skill",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 37
+    },
+    {
+      "name": "Cc Nano Banana",
+      "desc": "Generate professional images via the Gemini CLI's nanobanana",
+      "url": "https://github.com/kkoppenhaver/cc-nano-banana",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 364
+    },
+    {
+      "name": "Character Animation Creator Skill",
+      "desc": "## Overview",
+      "url": "https://github.com/tachikomared/character-animation-creator-skill",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 298
+    },
+    {
+      "name": "Claude Art Skill",
+      "desc": "[![Oathe Security](https://img.shields.io/endpoint?url=https",
+      "url": "https://github.com/aplaceforallmystuff/claude-art-skill",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 107
+    },
+    {
+      "name": "Claude Code Video Toolkit",
+      "desc": "<p align=\"center\">",
+      "url": "https://github.com/digitalsamba/claude-code-video-toolkit",
+      "category": "fullstack",
+      "tags": [
+        "全链路",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1928
+    },
+    {
+      "name": "Claude Real Video",
+      "desc": "[![PyPI](https://img.shields.io/pypi/v/claude-real-video)](h",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "category": "ai-video",
+      "tags": [
+        "视频",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 2009
+    },
+    {
+      "name": "Dashmotion",
+      "desc": "English | [简体中文](https://github.com/csthink/dashmotion/blob/",
+      "url": "https://github.com/csthink/dashmotion",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 151
+    },
+    {
+      "name": "Document Illustrator Skill",
+      "desc": "基于 AI 智能分析的文档配图生成工具。无需依赖特定格式，自动理解内容并生成专业配图。",
+      "url": "https://github.com/op7418/Document-illustrator-skill",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 579
+    },
+    {
+      "name": "Fpv Video Prompting Skill",
+      "desc": "## Overview",
+      "url": "https://github.com/zhouwei713/fpv-immersive-video-prompting",
+      "category": "prompting",
+      "tags": [
+        "导演",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 86
+    },
+    {
+      "name": "Gemini Drawing Skill",
+      "desc": "## ⚠️ 操作优先级（必须遵守）",
+      "url": "https://github.com/WJZ-P/gemini-skill",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 827
+    },
+    {
+      "name": "Generative Media Skills",
+      "desc": "[![Powered by MuAPI](https://img.shields.io/badge/Powered%20",
+      "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 4040
+    },
+    {
+      "name": "Google Genai Skills",
+      "desc": "> **A curated collection of agentic skills for Google AI fra",
+      "url": "https://github.com/cnemri/google-genai-skills",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 125
+    },
+    {
+      "name": "Gpt Image2 Ecommerce",
+      "desc": "Generate e-commerce images using GPT-Image-2 via Codex CLI. ",
+      "url": "https://github.com/buluslan/gpt-image2-ecommerce",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 301
+    },
+    {
+      "name": "Haidrrrry Remotion Skill",
+      "desc": "[![License: MIT](https://img.shields.io/badge/License-MIT-bl",
+      "url": "https://github.com/haidrrrry/claude-remotion-skill",
+      "category": "remotion",
+      "tags": [
+        "Remotion"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 41
+    },
+    {
+      "name": "Heygen Hyperframes Launches",
+      "desc": "Source for HeyGen's HyperFrames launch videos. Each subdirec",
+      "url": "https://github.com/heygen-com/hyperframes-launches",
+      "category": "prompting",
+      "tags": [
+        "导演"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 395
+    },
+    {
+      "name": "HeyGen Skills",
+      "desc": "AI agent skills for creating avatar videos. Your agent gets ",
+      "url": "https://github.com/heygen-com/skills",
+      "category": "dubbing",
+      "tags": [
+        "配音"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 393
+    },
+    {
+      "name": "Hyperframes",
+      "desc": "<p align=\"center\">",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 40744
+    },
+    {
+      "name": "Ad Video Skills",
+      "desc": "> AI coding agent skills for ad / advertising video — turn o",
+      "url": "https://github.com/iart-ai/ad-video-skills",
+      "category": "ai-video",
+      "tags": [
+        "视频",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 3
+    },
+    {
+      "name": "Data Animation Skills",
+      "desc": "> Data animation / animated infographic skills for AI coding",
+      "url": "https://github.com/iart-ai/data-animation-skills",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4
+    },
+    {
+      "name": "E-Commerce Video Skills",
+      "desc": "> Generate ecommerce / product video — product demos, sale p",
+      "url": "https://github.com/iart-ai/ecommerce-video-skills",
+      "category": "ai-video",
+      "tags": [
+        "视频",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 5
+    },
+    {
+      "name": "Explainer Video Skills",
+      "desc": "> Explainer video skills for AI coding agents: script, story",
+      "url": "https://github.com/iart-ai/explainer-video-skills",
+      "category": "ai-video",
+      "tags": [
+        "视频",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 13
+    },
+    {
+      "name": "Kinetic Typography Skills",
+      "desc": "> Kinetic typography skills for AI coding agents — animate h",
+      "url": "https://github.com/iart-ai/kinetic-typography-skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 6
+    },
+    {
+      "name": "Manim Skills",
+      "desc": "> Manim (math animation) skills for AI coding agents — anima",
+      "url": "https://github.com/iart-ai/manim-skills",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 4
+    },
+    {
+      "name": "Map Animation Skills",
+      "desc": "> Map animation skills for AI coding agents — build editoria",
+      "url": "https://github.com/iart-ai/map-animation-skills",
+      "category": "prompting",
+      "tags": [
+        "导演"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 6
+    },
+    {
+      "name": "Motion Design Skills",
+      "desc": "> Motion design fundamentals, engines, and brand elements as",
+      "url": "https://github.com/iart-ai/motion-design-skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 13
+    },
+    {
+      "name": "Text Message Video Skills",
+      "desc": "> Text-message animation skills for AI coding agents — turn ",
+      "url": "https://github.com/iart-ai/text-message-video-skills",
+      "category": "ai-video",
+      "tags": [
+        "视频",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 3
+    },
+    {
+      "name": "TikTok Video Skills",
+      "desc": "> TikTok, Reels, and Shorts skills for AI coding agents — en",
+      "url": "https://github.com/iart-ai/tiktok-video-skills",
+      "category": "ai-video",
+      "tags": [
+        "视频",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 6
+    },
+    {
+      "name": "Web Animation Skills",
+      "desc": "> Web animation skills for AI coding agents — GSAP, SVG, Lot",
+      "url": "https://github.com/iart-ai/web-animation-skills",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 8
+    },
+    {
+      "name": "YouTube Video Skills",
+      "desc": "> YouTube intro/outro and podcast audiogram skills for AI co",
+      "url": "https://github.com/iart-ai/youtube-video-skills",
+      "category": "ai-video",
+      "tags": [
+        "视频",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 2
+    },
+    {
+      "name": "Interactive Class Diagram Generator",
+      "desc": "## Workflow",
+      "url": "https://github.com/soycodetrail/interactive-class-diagram",
+      "category": "diagram",
+      "tags": [
+        "图表"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 0
+    },
+    {
+      "name": "Interactive Sequence Diagram Generator",
+      "desc": "## Workflow",
+      "url": "https://github.com/soycodetrail/interactive-sequence-diagram",
+      "category": "diagram",
+      "tags": [
+        "图表"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 0
+    },
+    {
+      "name": "交互式教学讲解构建器",
+      "desc": "> 全网最好的交互式教学讲解 skill——融合电影级舞台引擎 + 玻璃拟态视觉 + 逐步回放交互。",
+      "url": "https://github.com/soycodetrail/interactive-training-builder",
+      "category": "design",
+      "tags": [
+        "设计"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 0
+    },
+    {
+      "name": "Jianying Editor Skill",
+      "desc": "Use this skill when the user wants to automate video editing",
+      "url": "https://github.com/isYangs/jianying-editor-skill",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 153
+    },
+    {
+      "name": "Lanshu Animated Architecture Diagram",
+      "desc": "Create a polished black-background hand-drawn technical diag",
+      "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+      "category": "diagram",
+      "tags": [
+        "图表"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 882
+    },
+    {
+      "name": "Leoyeai Seedance Skills",
+      "desc": "> **Packaged for OpenClaw + Hermes Agent** from upstream [Em",
+      "url": "https://github.com/LeoYeAI/seedance-skills",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 31
+    },
+    {
+      "name": "Lovart",
+      "desc": "<p align=\"center\">",
+      "url": "https://github.com/lovartai/lovart-skill",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 116
+    },
+    {
+      "name": "Motion Anything",
+      "desc": "<p align=\"center\"><sub>A project in the <a href=\"https://git",
+      "url": "https://github.com/nexu-io/motion-anything",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 679
+    },
+    {
+      "name": "Motion Dev Animations Skill",
+      "desc": "> **Motion.dev** - 10M+ downloads/month, successor to Framer",
+      "url": "https://github.com/199-biotechnologies/motion-dev-animations-skill",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 85
+    },
+    {
+      "name": "Nano Banana Pro Prompts Skill",
+      "desc": "> 📖 Prompts curated by [YouMind](https://youmind.com/nano-b",
+      "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1821
+    },
+    {
+      "name": "Nano Image Generator Skill",
+      "desc": "Generate images using Nano Banana Pro (Gemini 3 Pro Preview)",
+      "url": "https://github.com/lxfater/nano-image-generator-skill",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 126
+    },
+    {
+      "name": "纸片分层动画生成Skill",
+      "desc": "Current workflow level: **V4.8 voice-palette quality gate**.",
+      "url": "https://github.com/majiabin2020/paper-cutout-layered-animation-skill",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 19
+    },
+    {
+      "name": "Pixel2Motion (v2)",
+      "desc": "**Pixel → Vector → Motion.** This skill fuses two discipline",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1930
+    },
+    {
+      "name": "Portrait Prompt Generator Skill",
+      "desc": "> 🎉 **v2.0 已发布！** 新增跨domain查询和设计系统集成。[查看升级指南 →](UPGRADE_GUI",
+      "url": "https://github.com/huangserva/skill-prompt-generator",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1453
+    },
+    {
+      "name": "Power Design Skill",
+      "desc": "You are an expert designer powered by two pillars:",
+      "url": "https://github.com/ItsssssJack/power-design",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 608
+    },
+    {
+      "name": "Mondo Style Design Generator",
+      "desc": "Generate AI image prompts AND create actual designs in Mondo",
+      "url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1075
+    },
+    {
+      "name": "Remotion Bits",
+      "desc": "https://github.com/user-attachments/assets/2a5760fe-1886-449",
+      "url": "https://github.com/av/remotion-bits",
+      "category": "remotion",
+      "tags": [
+        "Remotion"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 440
+    },
+    {
+      "name": "Remotion Custom Transitions",
+      "desc": "This skill teaches you how to build **production-grade, high",
+      "url": "https://github.com/Ashad001/remotion-transitions",
+      "category": "remotion",
+      "tags": [
+        "Remotion"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 68
+    },
+    {
+      "name": "Robonuggets Seedance Skill",
+      "desc": "Generate cinematic motion graphics videos using ByteDance's ",
+      "url": "https://github.com/robonuggets/seedance-skill",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 97
+    },
+    {
+      "name": "Seedance Prompt Skill for Claude Code",
+      "desc": "[English](./README.md) | [中文](./README_zh.md)",
+      "url": "https://github.com/songguoxs/seedance-prompt-skill",
+      "category": "prompting",
+      "tags": [
+        "导演"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 2645
+    },
+    {
+      "name": "Seedance Viral Forge",
+      "desc": "Reusable AI video prompt skills for builders who need Chines",
+      "url": "https://github.com/11Yuxuanyang/seedance-viral-forge",
+      "category": "prompting",
+      "tags": [
+        "导演"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 17
+    },
+    {
+      "name": "Seedance2 Skill Dexhunter",
+      "desc": "## Description",
+      "url": "https://github.com/dexhunter/seedance2-skill",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 3270
+    },
+    {
+      "name": "Spine Animation Ai",
+      "desc": "<!-- ⚠️  AUTO-GENERATED FILE — DO NOT EDIT DIRECTLY",
+      "url": "https://github.com/GenielabsOpenSource/spine-animation-ai",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 335
+    },
+    {
+      "name": "Tvc Director Skill",
+      "desc": "## 角色定义",
+      "url": "https://github.com/Ethanxwang/tvc-director",
+      "category": "prompting",
+      "tags": [
+        "导演"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 276
+    },
+    {
+      "name": "Vibe Creating Skill",
+      "desc": "<div align=\"center\">",
+      "url": "https://github.com/Alisa0808/vibe-creating-skill",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 130
+    },
+    {
+      "name": "Vibe Motion Skills",
+      "desc": "<p align=\"right\">",
+      "url": "https://github.com/vibe-motion/skills",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1014
+    },
+    {
+      "name": "Video Production Buddy",
+      "desc": "<p align=\"center\">",
+      "url": "https://github.com/video-production-buddy/video-production-buddy",
+      "category": "fullstack",
+      "tags": [
+        "全链路",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 610
+    },
+    {
+      "name": "Videoclaw",
+      "desc": "<p align=\"center\">",
+      "url": "https://github.com/HITsz-TMG/VideoClaw",
+      "category": "ai-video",
+      "tags": [
+        "视频",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1692
+    },
+    {
+      "name": "Videodb Skills",
+      "desc": "[![License][license-shield]][license-url]",
+      "url": "https://github.com/video-db/skills",
+      "category": "ai-video",
+      "tags": [
+        "视频",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 116
+    },
+    {
+      "name": "Vox Director Skill",
+      "desc": "Turn a one-line topic into a finished **Vox-style paper-coll",
+      "url": "https://github.com/Alisa0808/vox-director",
+      "category": "prompting",
+      "tags": [
+        "导演"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1274
+    },
+    {
+      "name": "Whiteboard Animation Skills",
+      "desc": "用于生成白板动画视频的可复用 Agent Skills 仓库。",
+      "url": "https://github.com/YangAgent/whiteboard-animation-skill",
+      "category": "animation",
+      "tags": [
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 69
+    },
+    {
+      "name": "Manim Skill for Claude Code",
+      "desc": "**Create videos like you write code with Claude Code**",
+      "url": "https://github.com/Yusuke710/manim-skill",
+      "category": "ai-video",
+      "tags": [
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 138
+    },
+    {
+      "name": "Z-Image Generation",
+      "desc": "Generate images using ModelScope's Tongyi-MAI/Z-Image-Turbo ",
+      "url": "https://github.com/yizhiyanhua-ai/zimage-skill",
+      "category": "image-gen",
+      "tags": [
+        "AI绘画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 51
+    },
+    {
+      "name": "AI Human",
+      "desc": "An open-source research prototype for studying adversarial b",
+      "url": "https://github.com/wx5352/AI-Human",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 177
+    },
+    {
+      "name": "DaisyWriter",
+      "desc": "Root entry point for the DaisyWriter skill collection.",
+      "url": "https://github.com/ricky-theseus/DaisyWriter",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 65
+    },
+    {
+      "name": "Humanizer Zh TW",
+      "desc": "你是一位文字編輯，專門辨識和去除 AI 生成文字的痕跡，使文字聽起來更自然、更有人味。本指南基於維基百科的「AI 寫作特",
+      "url": "https://github.com/kevintsai1202/Humanizer-zh-TW",
+      "category": "humanizer",
+      "tags": [
+        "去AI味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 696
+    },
+    {
+      "name": "Lorn.NovelWriteSkills",
+      "desc": "一个面向**长篇网文 / 小说创作工作流**的 AI 写作资产库。它不是“随手堆提示词”的仓库，而是一套围绕 **题材设",
+      "url": "https://github.com/lornshrimp/Lorn.NovelWriteSkills",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 165
+    },
+    {
+      "name": "Novel Control Station Skill",
+      "desc": "## Overview",
+      "url": "https://github.com/jingtai123/Novel-Control-Station-Skill",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 379
+    },
+    {
+      "name": "NovelForge",
+      "desc": "<div align=\"center\">",
+      "url": "https://github.com/RhythmicWave/NovelForge",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1111
+    },
+    {
+      "name": "Academic Humanizer",
+      "desc": "Improve the clarity and voice of AI-assisted *academic* writ",
+      "url": "https://github.com/AIScientists-Dev/academic-humanizer",
+      "category": "humanizer",
+      "tags": [
+        "去AI味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 914
+    },
+    {
+      "name": "Agent Xiaohongshu Workbench",
+      "desc": "<p align=\"center\">",
+      "url": "https://github.com/EthanYoQ/agent-xiaohongshu-workbench",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 88
+    },
+    {
+      "name": "Ai Novelist",
+      "desc": "[English](README_EN.md) | **中文**",
+      "url": "https://github.com/FlickeringLamp/ai-novelist",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 216
+    },
+    {
+      "name": "AI Research Skills",
+      "desc": "> A skill catalog that won't let you spend 6 months on a res",
+      "url": "https://github.com/WenyuChiou/ai-research-skills",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 203
+    },
+    {
+      "name": "Anti-AI-Slop Writing Skill",
+      "desc": "A Claude Code skill (and universal SKILL.md) that forces any",
+      "url": "https://github.com/jalaalrd/anti-ai-slop-writing",
+      "category": "humanizer",
+      "tags": [
+        "去AI味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 348
+    },
+    {
+      "name": "Avoid Ai Writing",
+      "desc": "You are editing content to remove AI writing patterns (\"AI-i",
+      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
+      "category": "humanizer",
+      "tags": [
+        "去AI味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 2963
+    },
+    {
+      "name": "Best AI Humanizer Handbook",
+      "desc": "## A practical guide to making AI-assisted writing clearer, ",
+      "url": "https://github.com/lynote-ai/best-humanizer-handbook",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 375
+    },
+    {
+      "name": "Chinese Novelist Skill",
+      "desc": "## 三大黄金法则",
+      "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 2645
+    },
+    {
+      "name": "5 Skills That Fix Claude's Writing",
+      "desc": "Claude is a great writer in the abstract and a generic one b",
+      "url": "https://github.com/artemnovitckii/content-skills",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 86
+    },
+    {
+      "name": "Econ Writing Skill",
+      "desc": "**An Agent Skill that transforms AI assistants into expert e",
+      "url": "https://github.com/hanlulong/econ-writing-skill",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 529
+    },
+    {
+      "name": "Human Writing",
+      "desc": "<p align=\"center\">",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "category": "humanizer",
+      "tags": [
+        "去AI味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 2563
+    },
+    {
+      "name": "Humanizer Br",
+      "desc": "Skill para Claude Code que remove marcas típicas de textos g",
+      "url": "https://github.com/carlosafjr-dev/humanizer-br",
+      "category": "humanizer",
+      "tags": [
+        "去AI味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 90
+    },
+    {
+      "name": "Редактор русского текста",
+      "desc": "Превращает мёртвый текст в живой: убирает канцелярит, воду и",
+      "url": "https://github.com/smixs/humanizer-ru",
+      "category": "humanizer",
+      "tags": [
+        "去AI味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 134
+    },
+    {
+      "name": "Humanizer-ZH-Academic：中文学术写作去AI味指南",
+      "desc": "你是一名中文学术写作编辑，专门识别并消除学术文本中的AI生成痕迹，使文章读起来更自然、更具人类学者的思维纹理。",
+      "url": "https://github.com/redbaronyyyyy-eng/humanizer-zh-academic",
+      "category": "humanizer",
+      "tags": [
+        "去AI味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 245
+    },
+    {
+      "name": "Liurun Bookwriter Skills",
+      "desc": "> 两个 skill，两种风格，一个目的——让你写出有\"作家味\"的长文。",
+      "url": "https://github.com/liangdabiao/liurun-bookwriter-skills",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 236
+    },
+    {
+      "name": "Natural Japanese",
+      "desc": "[![License: MIT](https://img.shields.io/badge/License-MIT-bl",
+      "url": "https://github.com/coji/natural-japanese",
+      "category": "humanizer",
+      "tags": [
+        "去AI味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 150
+    },
+    {
+      "name": "No Ai Slop Writing Rules",
+      "desc": "[![skills.sh](https://skills.sh/b/realrossmanngroup/no_ai_sl",
+      "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+      "category": "humanizer",
+      "tags": [
+        "去AI味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 645
+    },
+    {
+      "name": "Novel Creator Skill",
+      "desc": "## Iron Law（铁律 — 任何情况下不可违反）",
+      "url": "https://github.com/leenbj/novel-creator-skill",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 587
+    },
+    {
+      "name": "Novel-Harness",
+      "desc": "**面向老书虫转作者和已有作者的 AI 小说创作陪练。**",
+      "url": "https://github.com/manhai934/novel-harness",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 108
+    },
+    {
+      "name": "Novel Writer - AI 驱动的中文小说创作工具",
+      "desc": "[![npm version](https://badge.fury.io/js/novel-writer-cn.svg",
+      "url": "https://github.com/wordflowlab/novel-writer",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 920
+    },
+    {
+      "name": "Novel Writing Framework",
+      "desc": "[![License: MIT](https://img.shields.io/badge/License-MIT-ye",
+      "url": "https://github.com/LAY-lgtm/novel-writing-framework",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 167
+    },
+    {
+      "name": "公文写作",
+      "desc": "## Purpose",
+      "url": "https://github.com/Liuxiangjian-ai/official-document-skill",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 253
+    },
+    {
+      "name": "Official Document Writing Skill",
+      "desc": "本技能提供党政机关公文写作的完整指南，涵盖格式规范、常用模板、写作技巧和质量检查，确保公文格式正确、语言规范、结构清晰。",
+      "url": "https://github.com/KaguraNanaga/official-document-writing-skill",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 238
+    },
+    {
+      "name": "Patina",
+      "desc": "당신은 AI가 생성한 텍스트에서 AI 특유의 패턴을 찾아 제거하여, 글을 자연스럽고 사람이 쓴 것처럼 만드는",
+      "url": "https://github.com/devswha/patina",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 315
+    },
+    {
+      "name": "须弥写作 (Sumeru Writing)",
+      "desc": "专门用于网文创作的AI Agent技能集合，适配Claude Code、OpenCode等AI编程工具，通过Vibe C",
+      "url": "https://github.com/xindoo/sumeru",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 113
+    },
+    {
+      "name": "Tianming Skill",
+      "desc": "## 一、本 Skill 的工作哲学",
+      "url": "https://github.com/zy-zmc/tianming-skill",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 126
+    },
+    {
+      "name": "台灣正式文件撰寫助手",
+      "desc": "## Quick Start",
+      "url": "https://github.com/Imbad0202/tw-formal-writing",
+      "category": "methodology",
+      "tags": [
+        "方法论"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 160
+    },
+    {
+      "name": "Ux Writing Skill",
+      "desc": "Write clear, concise, user-centered interface copy (UX text/",
+      "url": "https://github.com/content-designer/ux-writing-skill",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 145
+    },
+    {
+      "name": "Webnovel Writer",
+      "desc": "[![License](https://img.shields.io/badge/License-GPL%20v3-bl",
+      "url": "https://github.com/lingfengQAQ/webnovel-writer",
+      "category": "longform",
+      "tags": [
+        "写作",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 6450
+    },
+    {
+      "name": "WeChat Article Publisher Skill",
+      "desc": "<p align=\"center\">",
+      "url": "https://github.com/iamzifei/wechat-article-publisher-skill",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 153
+    },
+    {
+      "name": "微信公众号 AI 运营助手",
+      "desc": "**简体中文** | [English](README_EN.md)",
+      "url": "https://github.com/aiworkskills/wechat-article-skills",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 497
+    },
+    {
+      "name": "Wechat Publisher",
+      "desc": "把文章变成公众号草稿：排版 → 上传图片 →（可选）生成封面 → 写入草稿箱。用户在 `mp.weixin.qq.com",
+      "url": "https://github.com/sakuraoxo-clio/wechat-publisher",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 96
+    },
+    {
+      "name": "WeChat Writing Team",
+      "desc": "[![Obsidian 微信发布插件](https://img.shields.io/badge/Obsidian-微信",
+      "url": "https://github.com/DavidLam-oss/wechat-writing-team",
+      "category": "longform",
+      "tags": [
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 41
+    },
+    {
+      "name": "Wjs Burning Subtitles",
+      "desc": "Use when the user has a video + an SRT and wants the subtitles either burned into the pixels (libass, always-visible) or soft-muxed as a togglable ...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "subtitle",
+      "tags": [
+        "字幕",
+        "转写",
+        "SRT"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Wjs Converting Text To Video",
+      "desc": "Use when the user wants a 王建硕-style WeChat article (article.md) turned into a narrated short MP4 video — TTS voiceover via 火山引擎 Volcano TTS, HyperF...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "ai-video",
+      "tags": [
+        "AI 视频",
+        "生成",
+        "短视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Wjs Dubbing Video",
+      "desc": "Use when the user has a video + a target-language SRT and wants the video to actually speak that language — generates a time-aligned TTS voice dub....",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "dubbing",
+      "tags": [
+        "配音",
+        "TTS",
+        "翻译"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Wjs Editing Multicam",
+      "desc": "Use when the user has 2+ recordings of the same event (each with a `.sync.json` sidecar from wjs-syncing-multicam) and wants them combined into a s...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "fullstack",
+      "tags": [
+        "全流程",
+        "工作流",
+        "自动化"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Wjs Localizing Video",
+      "desc": "Thin orchestrator for the end-to-end video localization pipeline. Routes to the four focused sub-skills — /wjs-transcribing-audio, /wjs-translating...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "subtitle",
+      "tags": [
+        "字幕",
+        "转写",
+        "SRT"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Wjs Overlaying Video",
+      "desc": "Use when the user has one or more video clips and wants to add post-production on top — AI-generated cover as first frame, HTML/CSS captions synced...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "ai-video",
+      "tags": [
+        "AI 视频",
+        "生成",
+        "短视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Wjs Reframing Video",
+      "desc": "Use when the user wants to convert a video between horizontal and vertical orientations while preserving the inverted aspect ratio (16:9 ↔ 9:16, 4:...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "ai-video",
+      "tags": [
+        "AI 视频",
+        "生成",
+        "短视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Wjs Segmenting Video",
+      "desc": "Use when the user has a long-form video (interview / lecture / podcast / conversation) and a transcript SRT, and wants to extract 3–6 stand-alone t...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "ai-video",
+      "tags": [
+        "AI 视频",
+        "生成",
+        "短视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Wjs Syncing Multicam",
+      "desc": "Use when the user has 2+ video / audio recordings of the same event captured by different devices (cameras, phones, separate audio recorders) and w...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "fullstack",
+      "tags": [
+        "全流程",
+        "工作流",
+        "自动化"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Wjs Transcribing Audio",
+      "desc": "Use when the user has audio or video and wants a timestamped transcript (SRT) in the source language. Routes by source language — Chinese defaults ...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "subtitle",
+      "tags": [
+        "字幕",
+        "转写",
+        "SRT"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Wjs Translating Subtitles",
+      "desc": "Use when the user has an SRT (or transcript text) in one language and wants it translated to another, with punctuation-bounded re-segmentation so c...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "subtitle",
+      "tags": [
+        "字幕",
+        "转写",
+        "SRT"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Wjs Uploading Video",
+      "desc": "Upload one or many videos to YouTube. Use when the user wants to \"上传到 YouTube\", \"发 YouTube\", \"批量上传\", \"upload to YouTube\", \"post videos to YouTube\",...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "fullstack",
+      "tags": [
+        "全流程",
+        "工作流",
+        "自动化"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "VoiceDrop",
+      "desc": "VoiceDrop 的入口。所有能力都在 MCP 里（voicedrop.cn/mcp，32 个工具：文章读写与版本、文风与蒸馏、挖矿与重写、社区与投币、算力、分享/公众号/小红书）。本 skill 只做一件事——把你接上那个 MCP：用它的 login 工具做 6+4 手机配对登录拿到令牌，...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "dubbing",
+      "tags": [
+        "配音",
+        "TTS",
+        "翻译"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "VoiceDrop Cover Selection",
+      "desc": "Use when 王建硕 wants to decide whether a VoiceDrop article should get an AI 题图 (公众号封面), and which style of image prompt to use — before generating an...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "dubbing",
+      "tags": [
+        "配音",
+        "TTS",
+        "翻译"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "VoiceDrop 文章后处理",
+      "desc": "Use when a newly mined VoiceDrop article needs automated post-processing — invoked headless by the 5-minute poller (launchd com.jianshuo.voicedrop-...",
+      "url": "https://github.com/jianshuo/claude-skills",
+      "category": "dubbing",
+      "tags": [
+        "配音",
+        "TTS",
+        "翻译"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 118
+    },
+    {
+      "name": "Remotion Best Practices",
+      "desc": "Router for all Remotion skills",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "Remotion Captions",
+      "desc": "Transcribing, displaying and animating captions",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "Remotion Create",
+      "desc": "Create a new Remotion video",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "Remotion Docs",
+      "desc": "Search Remotion documentation",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "Remotion Interactivity",
+      "desc": "Structure Remotion markup for interactivity",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "Remotion Maps",
+      "desc": "Remotion Map animation knowledge",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "Remotion Markup",
+      "desc": "Content, animation and effects best practices",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "Remotion Multimedia",
+      "desc": "Interacting with Mediabunny",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "Remotion Render",
+      "desc": "Export a Remotion video",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "Remotion Saas",
+      "desc": "Build an app with Remotion",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "Remotion Studio",
+      "desc": "Preview a Remotion video",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "Upgrade Remotion",
+      "desc": "Upgrade Remotion, and related packages",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React",
+        "编程视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4282
+    },
+    {
+      "name": "知识讲解视频生成器",
+      "desc": "面向科普/讲解的自动视频流水线：调研→撰稿→PPT截图→TTS→逐段合成→整片输出。用户给主题/要求/关键词即可生成 1080p 知识讲解视频。 --- # 知识讲解视频生成器 生成 1080p（1920×1080）知识讲解/科普视频的 **Agent 引导流程**。 你（Agent）是导演，...",
+      "url": "https://github.com/xuliang2024/video_skills",
+      "category": "ai-video",
+      "tags": [
+        "AI 视频",
+        "生成",
+        "短视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 33
+    },
+    {
+      "name": "Lottie 动画讲解短视频生成器",
+      "desc": "生成 Lottie 动画讲解短视频：输入主题 → 调研 → 短句文案+关键词 → 自动搜索 LottieFiles 动画 → 生成 HTML → TTS 配音 → Playwright 录屏 → FFmpeg 合成 1080p 视频。当用户想要制作讲解视频、科普动画、Lottie 动画视频、a...",
+      "url": "https://github.com/xuliang2024/video_skills",
+      "category": "ai-video",
+      "tags": [
+        "AI 视频",
+        "生成",
+        "短视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 33
+    },
+    {
+      "name": "Tumblr Post Video Generator",
+      "desc": "Generate Tumblr-style line-by-line reveal videos with TTS narration and Minecraft parkour background. Use when the user wants to create Tumblr post...",
+      "url": "https://github.com/xuliang2024/video_skills",
+      "category": "ai-video",
+      "tags": [
+        "AI 视频",
+        "生成",
+        "短视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 33
+    },
+    {
+      "name": "Frontend Slides",
+      "desc": "把幻灯片当网页来构建，内置 12 套视觉预设，浏览器原生演示",
+      "url": "https://github.com/zarazhangrui/frontend-slides",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "HTML",
+        "前端",
+        "Web 演示"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 27465
+    },
+    {
+      "name": "HTML PPT Studio",
+      "desc": "体量最大的 HTML 演示 Skill：36 套主题 + 演讲者模式 + 47 种动画",
+      "url": "https://github.com/lewislulu/html-ppt-skill",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "HTML",
+        "主题",
+        "演讲者模式"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 7846
+    },
+    {
+      "name": "PPT Agent Skills",
+      "desc": "像构建软件工程一样生成演示文稿（需求→架构→模块→验证）",
+      "url": "https://github.com/sunbigfly/ppt-agent-skills",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "PPTX",
+        "工程化",
+        "框架"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 882
+    },
+    {
+      "name": "Claude Office Skills",
+      "desc": "一站式 Office 文档技能：PPTX / DOCX / XLSX / PDF 全覆盖",
+      "url": "https://github.com/tfriedel/claude-office-skills",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "Office",
+        "PPTX",
+        "DOCX"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 807
+    },
+    {
+      "name": "McKinsey PPTX",
+      "desc": "麦肯锡风格 PPTX：40 个咨询模板 + 会「为选择辩护」的 subagent",
+      "url": "https://github.com/seulee26/mckinsey-pptx",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "麦肯锡",
+        "咨询",
+        "PPTX"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 554
+    },
+    {
+      "name": "Reveal.js Skill",
+      "desc": "用 Reveal.js 框架生成精美专业的 HTML 演示文稿",
+      "url": "https://github.com/ryanbbrown/revealjs-skill",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "Reveal.js",
+        "HTML",
+        "演示"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 384
+    },
+    {
+      "name": "Draw.io Skill",
+      "desc": "自然语言生成可编辑 .drawio 图表（UML/架构/ER/流程图），视觉自检 + 多轮打磨",
+      "url": "https://github.com/Agents365-ai/drawio-skill",
+      "category": "diagram",
+      "tags": [
+        "DrawIO",
+        "图表",
+        "架构图",
+        "UML"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 7574
+    },
+    {
+      "name": "Research Writing Skill",
+      "desc": "中文科研写作助手：头脑风暴 / 章节写作 / 文献综述 / LaTeX 输出",
+      "url": "https://github.com/Norman-bury/research-writing-skill",
+      "category": "longform",
+      "tags": [
+        "科研",
+        "写作",
+        "LaTeX",
+        "文献"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 3030
+    },
+    {
+      "name": "Academic Paper (ARS)",
+      "desc": "ARS 学术写作流水线：风格校准 + 多格式（DOCX/LaTeX/PDF）导出",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "category": "longform",
+      "tags": [
+        "学术",
+        "论文",
+        "LaTeX",
+        "写作流水线"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 42355
+    },
+    {
+      "name": "Clipify",
+      "desc": "长视频一键转社媒竖屏短片：自动找梗 + 人脸跟随 + 烧录字幕",
+      "url": "https://github.com/louisedesadeleer/clipify",
+      "category": "subtitle",
+      "tags": [
+        "视频",
+        "剪辑",
+        "字幕",
+        "短视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 520
+    }
+  ],
+  "categories": [
+    {
+      "key": "ppt",
+      "label": "PPT 制作",
+      "icon": "🎨"
+    },
+    {
+      "key": "animation",
+      "label": "动画 3D",
+      "icon": "🎨"
+    },
+    {
+      "key": "image-gen",
+      "label": "图像生成",
+      "icon": "🎨"
+    },
+    {
+      "key": "excalidraw",
+      "label": "手绘图表",
+      "icon": "🎨"
+    },
+    {
+      "key": "diagram",
+      "label": "架构图表",
+      "icon": "🎨"
+    },
+    {
+      "key": "dataviz",
+      "label": "数据可视化",
+      "icon": "🎨"
+    },
+    {
+      "key": "design",
+      "label": "设计 UI",
+      "icon": "🎨"
+    },
+    {
+      "key": "remotion",
+      "label": "Remotion",
+      "icon": "🎬"
+    },
+    {
+      "key": "prompting",
+      "label": "提示词/导演",
+      "icon": "🎬"
+    },
+    {
+      "key": "fullstack",
+      "label": "全链路",
+      "icon": "🎬"
+    },
+    {
+      "key": "dubbing",
+      "label": "配音翻译",
+      "icon": "🎬"
+    },
+    {
+      "key": "subtitle",
+      "label": "字幕/配音",
+      "icon": "🎬"
+    },
+    {
+      "key": "ai-video",
+      "label": "AI 视频",
+      "icon": "🎬"
+    },
+    {
+      "key": "longform",
+      "label": "长篇创作",
+      "icon": "✍️"
+    },
+    {
+      "key": "humanizer",
+      "label": "去 AI 味",
+      "icon": "✍️"
+    },
+    {
+      "key": "methodology",
+      "label": "方法论",
+      "icon": "✍️"
+    }
+  ]
+}
