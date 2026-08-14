@@ -4,7 +4,12 @@
 >
 > 🌐 **主站入口**：https://soycodetrail.top/skills  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 00:33:40
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 00:47:12
+
+## 📚 系列展示站（更多精选内容）
+
+- [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
+- [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
 ## 📑 内容导航（221 个条目 / 16 个分类）
 
@@ -26,6 +31,8 @@
 - [✍️ 方法论](#方法论)
 
 ---
+
+<a id="ppt-制作" name="ppt-制作"></a>
 
 ### 🎨 PPT 制作
 
@@ -57,6 +64,8 @@
   标签：PPT / 麦肯锡 / 咨询 / PPTX
 - [Reveal.js Skill](https://github.com/ryanbbrown/revealjs-skill) — 用 Reveal.js 框架生成精美专业的 HTML 演示文稿  
   标签：PPT / Reveal.js / HTML / 演示
+
+<a id="动画-3d" name="动画-3d"></a>
 
 ### 🎨 动画 3D
 
@@ -111,6 +120,8 @@
 - [Whiteboard Animation Skills](https://github.com/YangAgent/whiteboard-animation-skill) — 用于生成白板动画视频的可复用 Agent Skills 仓库。  
   标签：动画
 
+<a id="图像生成" name="图像生成"></a>
+
 ### 🎨 图像生成
 
 - [Nano Banana Pro Prompts](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) — 10000+ Nano Banana Pro 提示词库（带样图）  
@@ -148,6 +159,8 @@
 - [Z-Image Generation](https://github.com/yizhiyanhua-ai/zimage-skill) — Generate images using ModelScope's Tongyi-MAI/Z-Image-Turbo   
   标签：AI绘画
 
+<a id="手绘图表" name="手绘图表"></a>
+
 ### 🎨 手绘图表
 
 - [Excalidraw Diagram Skill](https://github.com/coleam00/excalidraw-diagram-skill) — 「会论证」的 Excalidraw 手绘图  
@@ -156,6 +169,8 @@
   标签：Excalidraw / Obsidian / Mermaid / Canvas
 - [Excalidraw Skill (Robonuggets)](https://github.com/robonuggets/excalidraw-skill) — MCP 实时画布+截图自检迭代  
   标签：Excalidraw / MCP / 实时 / 自检
+
+<a id="架构图表" name="架构图表"></a>
 
 ### 🎨 架构图表
 
@@ -176,6 +191,8 @@
 - [Draw.io Skill](https://github.com/Agents365-ai/drawio-skill) — 自然语言生成可编辑 .drawio 图表（UML/架构/ER/流程图），视觉自检 + 多轮打磨  
   标签：DrawIO / 图表 / 架构图 / UML
 
+<a id="数据可视化" name="数据可视化"></a>
+
 ### 🎨 数据可视化
 
 - [Chart Visualization Skills](https://github.com/antvis/chart-visualization-skills) — AntV 官方 7 个可视化 skill  
@@ -185,6 +202,8 @@
 - [宝玉 Skills 合集](https://github.com/JimLiu/baoyu-skills) — 21 个内容创作 skill（信息图/图表/封面/幻灯片）  
   标签：合集 / 信息图 / 封面 / 幻灯片
 
+<a id="设计-ui" name="设计-ui"></a>
+
 ### 🎨 设计 UI
 
 - [Design Buddy](https://github.com/SpaceZephyr/design-buddy) — 19 个视觉生产 skill（封面/海报/Logo/UI）  
@@ -193,6 +212,8 @@
   标签：官方 / 创意 / GIF / Canvas / 合集
 - [交互式教学讲解构建器](https://github.com/soycodetrail/interactive-training-builder) — > 全网最好的交互式教学讲解 skill——融合电影级舞台引擎 + 玻璃拟态视觉 + 逐步回放交互。  
   标签：设计
+
+<a id="remotion" name="remotion"></a>
 
 ### 🎬 Remotion
 
@@ -241,6 +262,8 @@
 - [Upgrade Remotion](https://github.com/remotion-dev/skills) — Upgrade Remotion, and related packages  
   标签：Remotion / React / 编程视频
 
+<a id="提示词-导演" name="提示词-导演"></a>
+
 ### 🎬 提示词/导演
 
 - [Visual Skills](https://github.com/smixs/visual-skills) — AI 影视导演提示词（戏剧冲突优先）  
@@ -266,6 +289,8 @@
 - [Vox Director Skill](https://github.com/Alisa0808/vox-director) — Turn a one-line topic into a finished **Vox-style paper-coll  
   标签：导演
 
+<a id="全链路" name="全链路"></a>
+
 ### 🎬 全链路
 
 - [AI Video Skill (AITuber)](https://github.com/aituberapp/ai-video-skill) — AITuber 全链路视频生成（脚本→配音→画面→字幕→MP4→发布）  
@@ -282,6 +307,8 @@
   标签：全流程 / 工作流 / 自动化
 - [Wjs Uploading Video](https://github.com/jianshuo/claude-skills) — Upload one or many videos to YouTube. Use when the user wants to "上传到 YouTube", "发 YouTube", "批量上传", "upload to YouTube", "post videos to YouTube",...  
   标签：全流程 / 工作流 / 自动化
+
+<a id="配音翻译" name="配音翻译"></a>
 
 ### 🎬 配音翻译
 
@@ -302,6 +329,8 @@
 - [VoiceDrop 文章后处理](https://github.com/jianshuo/claude-skills) — Use when a newly mined VoiceDrop article needs automated post-processing — invoked headless by the 5-minute poller (launchd com.jianshuo.voicedrop-...  
   标签：配音 / TTS / 翻译
 
+<a id="字幕-配音" name="字幕-配音"></a>
+
 ### 🎬 字幕/配音
 
 - [烧字幕](https://github.com/jianshuo/claude-skills) — 王建硕：字幕烧录 skill（SRT 时间码+字体样式+FFmpeg 编码）  
@@ -320,6 +349,8 @@
   标签：字幕 / 转写 / SRT
 - [Clipify](https://github.com/louisedesadeleer/clipify) — 长视频一键转社媒竖屏短片：自动找梗 + 人脸跟随 + 烧录字幕  
   标签：视频 / 剪辑 / 字幕 / 短视频
+
+<a id="ai-视频" name="ai-视频"></a>
 
 ### 🎬 AI 视频
 
@@ -389,6 +420,8 @@
   标签：AI 视频 / 生成 / 短视频
 - [Tumblr Post Video Generator](https://github.com/xuliang2024/video_skills) — Generate Tumblr-style line-by-line reveal videos with TTS narration and Minecraft parkour background. Use when the user wants to create Tumblr post...  
   标签：AI 视频 / 生成 / 短视频
+
+<a id="长篇创作" name="长篇创作"></a>
 
 ### ✍️ 长篇创作
 
@@ -463,6 +496,8 @@
 - [Academic Paper (ARS)](https://github.com/Imbad0202/academic-research-skills) — ARS 学术写作流水线：风格校准 + 多格式（DOCX/LaTeX/PDF）导出  
   标签：学术 / 论文 / LaTeX / 写作流水线
 
+<a id="去-ai-味" name="去-ai-味"></a>
+
 ### ✍️ 去 AI 味
 
 - [Humanizer](https://github.com/blader/humanizer) — 英文去 AI 写作痕迹标杆 skill（Wikipedia 33 模式）  
@@ -505,6 +540,8 @@
   标签：去AI味
 - [No Ai Slop Writing Rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) — [![skills.sh](https://skills.sh/b/realrossmanngroup/no_ai_sl  
   标签：去AI味
+
+<a id="方法论" name="方法论"></a>
 
 ### ✍️ 方法论
 
