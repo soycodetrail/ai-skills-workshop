@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 14:15:16
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 18:09:57
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（221 个条目 / 16 个分类）
+## 📑 内容导航（229 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -64,6 +64,8 @@
   标签：PPT / 麦肯锡 / 咨询 / PPTX
 - [Reveal.js Skill](https://github.com/ryanbbrown/revealjs-skill) — 用 Reveal.js 框架生成精美专业的 HTML 演示文稿  
   标签：PPT / Reveal.js / HTML / 演示
+- [Dashi PPT](https://github.com/chuspeeism/dashi-ppt-skill) — 预置视觉主题生成可离线打开、浏览器可编辑的 HTML 演示，支持导出 PPTX / PDF  
+  标签：PPT / HTML / 演示 / 导出PPTX
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -212,6 +214,12 @@
   标签：官方 / 创意 / GIF / Canvas / 合集
 - [交互式教学讲解构建器](https://github.com/soycodetrail/interactive-training-builder) — > 全网最好的交互式教学讲解 skill——融合电影级舞台引擎 + 玻璃拟态视觉 + 逐步回放交互。  
   标签：设计
+- [花叔 Design](https://github.com/alchaincyf/huashu-design) — 用 HTML 做高保真原型 / 幻灯片 / 动画 / 可视化，任何新设计先出三方向初稿再执行  
+  标签：设计 / 原型 / HTML / PPT / 动画
+- [Apple Bento Grid](https://github.com/hubeiqiao/apple-bento-grid) — 一句话生成 Apple 风 bento 网格卡片，用于项目数据 / 时间线 / 成果一览  
+  标签：设计 / Bento / 卡片 / Apple风
+- [Baseline UI](https://github.com/ibelick/ui-skills) — 一键给 AI 生成的 UI 代码去「AI 味」：修间距/层级/排版/可访问性  
+  标签：UI / 去AI味 / Tailwind / 无障碍
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -307,6 +315,8 @@
   标签：全流程 / 工作流 / 自动化
 - [Wjs Uploading Video](https://github.com/jianshuo/claude-skills) — Upload one or many videos to YouTube. Use when the user wants to "上传到 YouTube", "发 YouTube", "批量上传", "upload to YouTube", "post videos to YouTube",...  
   标签：全流程 / 工作流 / 自动化
+- [Video Use](https://github.com/browser-use/video-use) — 用对话剪辑任意视频：转写/去口癖/调色/动画覆盖/烧录字幕，成片级正确  
+  标签：视频剪辑 / 字幕 / 调色 / 后期
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -553,6 +563,12 @@
   标签：风格 / DNA / 模仿
 - [台灣正式文件撰寫助手](https://github.com/Imbad0202/tw-formal-writing) — ## Quick Start  
   标签：方法论
+- [小互公众号排版](https://github.com/xiaohuailabs/xiaohu-wechat-format) — 任意文本一键转微信公众号兼容排版 HTML，30+ 主题 + 标点质检  
+  标签：公众号 / 排版 / 微信 / 发布
+- [仓颉 · 拆书蒸馏](https://github.com/kangarooking/cangjie-skill) — 把一本书/长视频/播客蒸馏成一组原子化、可执行的 Agent Skill  
+  标签：拆书 / 方法论 / 知识蒸馏 / 元技能
+- [女娲 · 造人术](https://github.com/alchaincyf/nuwa-skill) — 输入人名/主题即可深度调研→提炼思维框架→生成可运行的人物 Skill  
+  标签：思维框架 / 人物Skill / 认知蒸馏 / 元技能
 
 
 ---

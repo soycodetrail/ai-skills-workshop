@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T14:15:16.493Z",
+  "updatedAt": "2026-08-14T18:09:57.908Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -3168,6 +3168,135 @@
       "bg": "",
       "tool": "video",
       "hot": 520
+    },
+    {
+      "name": "花叔 Design",
+      "desc": "用 HTML 做高保真原型 / 幻灯片 / 动画 / 可视化，任何新设计先出三方向初稿再执行",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "category": "design",
+      "tags": [
+        "设计",
+        "原型",
+        "HTML",
+        "PPT",
+        "动画"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 23024
+    },
+    {
+      "name": "Dashi PPT",
+      "desc": "预置视觉主题生成可离线打开、浏览器可编辑的 HTML 演示，支持导出 PPTX / PDF",
+      "url": "https://github.com/chuspeeism/dashi-ppt-skill",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "HTML",
+        "演示",
+        "导出PPTX"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 5117
+    },
+    {
+      "name": "Apple Bento Grid",
+      "desc": "一句话生成 Apple 风 bento 网格卡片，用于项目数据 / 时间线 / 成果一览",
+      "url": "https://github.com/hubeiqiao/apple-bento-grid",
+      "category": "design",
+      "tags": [
+        "设计",
+        "Bento",
+        "卡片",
+        "Apple风"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 213
+    },
+    {
+      "name": "Baseline UI",
+      "desc": "一键给 AI 生成的 UI 代码去「AI 味」：修间距/层级/排版/可访问性",
+      "url": "https://github.com/ibelick/ui-skills",
+      "category": "design",
+      "tags": [
+        "UI",
+        "去AI味",
+        "Tailwind",
+        "无障碍"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 7220
+    },
+    {
+      "name": "小互公众号排版",
+      "desc": "任意文本一键转微信公众号兼容排版 HTML，30+ 主题 + 标点质检",
+      "url": "https://github.com/xiaohuailabs/xiaohu-wechat-format",
+      "category": "methodology",
+      "tags": [
+        "公众号",
+        "排版",
+        "微信",
+        "发布"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 684
+    },
+    {
+      "name": "仓颉 · 拆书蒸馏",
+      "desc": "把一本书/长视频/播客蒸馏成一组原子化、可执行的 Agent Skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "category": "methodology",
+      "tags": [
+        "拆书",
+        "方法论",
+        "知识蒸馏",
+        "元技能"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 7842
+    },
+    {
+      "name": "女娲 · 造人术",
+      "desc": "输入人名/主题即可深度调研→提炼思维框架→生成可运行的人物 Skill",
+      "url": "https://github.com/alchaincyf/nuwa-skill",
+      "category": "methodology",
+      "tags": [
+        "思维框架",
+        "人物Skill",
+        "认知蒸馏",
+        "元技能"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 30600
+    },
+    {
+      "name": "Video Use",
+      "desc": "用对话剪辑任意视频：转写/去口癖/调色/动画覆盖/烧录字幕，成片级正确",
+      "url": "https://github.com/browser-use/video-use",
+      "category": "fullstack",
+      "tags": [
+        "视频剪辑",
+        "字幕",
+        "调色",
+        "后期"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 20677
     }
   ],
   "categories": [
