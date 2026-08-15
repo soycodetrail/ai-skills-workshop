@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-15 02:34:00
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-15 18:03:22
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（229 个条目 / 16 个分类）
+## 📑 内容导航（234 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -160,6 +160,8 @@
   标签：AI绘画
 - [Z-Image Generation](https://github.com/yizhiyanhua-ai/zimage-skill) — Generate images using ModelScope's Tongyi-MAI/Z-Image-Turbo   
   标签：AI绘画
+- [Logo Creator 图标生成](https://github.com/ReScienceLab/opc-skills) — AI 生图做 LOGO：风格/比例讨论、批量变体、抠图去背、导出 SVG  
+  标签：LOGO / 图标 / 品牌 / AI 生图
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -192,6 +194,8 @@
   标签：图表
 - [Draw.io Skill](https://github.com/Agents365-ai/drawio-skill) — 自然语言生成可编辑 .drawio 图表（UML/架构/ER/流程图），视觉自检 + 多轮打磨  
   标签：DrawIO / 图表 / 架构图 / UML
+- [Scientific Schematics 科研配图](https://github.com/K-Dense-AI/claude-scientific-skills) — AI 生成可发表级科研示意图：神经网络/系统图/通路/流程图  
+  标签：科研配图 / 示意图 / 神经网络 / AI 生图
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -317,6 +321,10 @@
   标签：全流程 / 工作流 / 自动化
 - [Video Use](https://github.com/browser-use/video-use) — 用对话剪辑任意视频：转写/去口癖/调色/动画覆盖/烧录字幕，成片级正确  
   标签：视频剪辑 / 字幕 / 调色 / 后期
+- [OpenEdit 视频剪辑](https://github.com/veedstudio/open-edit) — VEED 开源的 Agent 视频剪辑管线：字幕烧录、剪辑转场、网页/幻灯片转视频  
+  标签：视频剪辑 / 字幕 / FFmpeg / VEED
+- [口播视频精剪](https://github.com/linyqh/speclip-skills) — 以 transcript 为核心的口播/talking-head 精剪：删停顿、去废话、jump cut  
+  标签：视频剪辑 / 口播 / 字幕 / Jump Cut
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -505,6 +513,8 @@
   标签：科研 / 写作 / LaTeX / 文献
 - [Academic Paper (ARS)](https://github.com/Imbad0202/academic-research-skills) — ARS 学术写作流水线：风格校准 + 多格式（DOCX/LaTeX/PDF）导出  
   标签：学术 / 论文 / LaTeX / 写作流水线
+- [Scientific Writing 科研写作](https://github.com/K-Dense-AI/claude-scientific-skills) — 顶会规范的科研论文/报告写作：证据溯源、报告指南、署名与一致性检查  
+  标签：学术写作 / 科研 / 论文 / 报告
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 

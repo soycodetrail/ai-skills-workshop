@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T02:34:00.945Z",
+  "updatedAt": "2026-08-15T18:03:22.111Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -3297,6 +3297,86 @@
       "bg": "",
       "tool": "video",
       "hot": 20688
+    },
+    {
+      "name": "OpenEdit 视频剪辑",
+      "desc": "VEED 开源的 Agent 视频剪辑管线：字幕烧录、剪辑转场、网页/幻灯片转视频",
+      "url": "https://github.com/veedstudio/open-edit",
+      "category": "fullstack",
+      "tags": [
+        "视频剪辑",
+        "字幕",
+        "FFmpeg",
+        "VEED"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 272
+    },
+    {
+      "name": "口播视频精剪",
+      "desc": "以 transcript 为核心的口播/talking-head 精剪：删停顿、去废话、jump cut",
+      "url": "https://github.com/linyqh/speclip-skills",
+      "category": "fullstack",
+      "tags": [
+        "视频剪辑",
+        "口播",
+        "字幕",
+        "Jump Cut"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 103
+    },
+    {
+      "name": "Logo Creator 图标生成",
+      "desc": "AI 生图做 LOGO：风格/比例讨论、批量变体、抠图去背、导出 SVG",
+      "url": "https://github.com/ReScienceLab/opc-skills",
+      "category": "image-gen",
+      "tags": [
+        "LOGO",
+        "图标",
+        "品牌",
+        "AI 生图"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1557
+    },
+    {
+      "name": "Scientific Writing 科研写作",
+      "desc": "顶会规范的科研论文/报告写作：证据溯源、报告指南、署名与一致性检查",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "category": "longform",
+      "tags": [
+        "学术写作",
+        "科研",
+        "论文",
+        "报告"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 33582
+    },
+    {
+      "name": "Scientific Schematics 科研配图",
+      "desc": "AI 生成可发表级科研示意图：神经网络/系统图/通路/流程图",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "category": "diagram",
+      "tags": [
+        "科研配图",
+        "示意图",
+        "神经网络",
+        "AI 生图"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 33582
     }
   ],
   "categories": [
