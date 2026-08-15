@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T18:09:57.908Z",
+  "updatedAt": "2026-08-15T02:34:00.945Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -15,7 +15,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 23954
+      "hot": 24042
     },
     {
       "name": "Codex PPT",
@@ -31,7 +31,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 4832
+      "hot": 4858
     },
     {
       "name": "NanoBanana PPT",
@@ -62,7 +62,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 46526
+      "hot": 46845
     },
     {
       "name": "Make Slide",
@@ -77,7 +77,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 114
+      "hot": 115
     },
     {
       "name": "PowerPoint Skill",
@@ -139,7 +139,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1054
+      "hot": 1055
     },
     {
       "name": "Motion Design Skill",
@@ -155,7 +155,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 970
+      "hot": 979
     },
     {
       "name": "Motion Skills 合集",
@@ -170,7 +170,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 351
+      "hot": 353
     },
     {
       "name": "AI Animation Skill",
@@ -185,7 +185,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 521
+      "hot": 523
     },
     {
       "name": "AI Animation 合集",
@@ -200,7 +200,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1109
+      "hot": 1114
     },
     {
       "name": "Generative Illustration",
@@ -231,7 +231,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 5
+      "hot": 6
     },
     {
       "name": "Pixel Art Studio",
@@ -247,7 +247,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 31
+      "hot": 32
     },
     {
       "name": "Blender Skills",
@@ -278,7 +278,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1823
+      "hot": 1824
     },
     {
       "name": "Ultimate AI Media Generator",
@@ -310,7 +310,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 359
+      "hot": 360
     },
     {
       "name": "ComfyUI Skills (OpenClaw)",
@@ -356,7 +356,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 4412
+      "hot": 4428
     },
     {
       "name": "Axton Obsidian Visual",
@@ -372,7 +372,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 3299
+      "hot": 3302
     },
     {
       "name": "Excalidraw Skill (Robonuggets)",
@@ -404,7 +404,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 175
+      "hot": 176
     },
     {
       "name": "Architecture Diagram Generator",
@@ -420,7 +420,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 6902
+      "hot": 6914
     },
     {
       "name": "Fireworks Tech Graph",
@@ -436,7 +436,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 9886
+      "hot": 9921
     },
     {
       "name": "Best Skills 合集",
@@ -452,7 +452,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 2534
+      "hot": 2540
     },
     {
       "name": "Chart Visualization Skills",
@@ -468,7 +468,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 460
+      "hot": 462
     },
     {
       "name": "Claude Infographic Charts",
@@ -500,7 +500,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 24960
+      "hot": 25002
     },
     {
       "name": "Design Buddy",
@@ -517,7 +517,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 134
+      "hot": 136
     },
     {
       "name": "Anthropic 官方 Skills",
@@ -534,7 +534,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 169047
+      "hot": 169403
     },
     {
       "name": "Video Shotcraft",
@@ -550,7 +550,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4939
+      "hot": 5023
     },
     {
       "name": "Remotion Video Skill",
@@ -566,7 +566,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 334
+      "hot": 335
     },
     {
       "name": "Visual Skills",
@@ -582,7 +582,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 163
+      "hot": 165
     },
     {
       "name": "Video Prompting",
@@ -598,7 +598,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 145
+      "hot": 147
     },
     {
       "name": "AI Video Skill (AITuber)",
@@ -631,7 +631,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "文字转语音",
@@ -647,7 +647,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Claude Remotion Skill",
@@ -663,7 +663,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 44
+      "hot": 47
     },
     {
       "name": "Remotion 官方 Skills",
@@ -680,7 +680,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "烧字幕",
@@ -696,7 +696,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "视频配音",
@@ -711,7 +711,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "视频转文字",
@@ -726,7 +726,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "多机位配音",
@@ -741,7 +741,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "翻译字幕",
@@ -756,7 +756,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "视频剪辑",
@@ -771,7 +771,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Video Skills",
@@ -787,7 +787,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 33
+      "hot": 34
     },
     {
       "name": "画中画视频",
@@ -802,7 +802,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "屏幕录制",
@@ -817,7 +817,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Openwrite",
@@ -833,7 +833,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 572
+      "hot": 581
     },
     {
       "name": "oh-story",
@@ -849,7 +849,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 5520
+      "hot": 5569
     },
     {
       "name": "AI Fiction Writer",
@@ -897,7 +897,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1824
+      "hot": 1832
     },
     {
       "name": "WeChat Skill",
@@ -912,7 +912,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 83
+      "hot": 85
     },
     {
       "name": "Humanizer",
@@ -927,7 +927,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 35521
+      "hot": 35710
     },
     {
       "name": "Humanizer-zh",
@@ -942,7 +942,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 15241
+      "hot": 15324
     },
     {
       "name": "说人话",
@@ -957,7 +957,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1059
+      "hot": 1070
     },
     {
       "name": "AI Flavor Remover",
@@ -972,7 +972,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1121
+      "hot": 1120
     },
     {
       "name": "De-AI Tone",
@@ -1001,7 +1001,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 209
+      "hot": 211
     },
     {
       "name": "去 AI 味",
@@ -1015,7 +1015,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 407
+      "hot": 413
     },
     {
       "name": "Speak Human TW",
@@ -1030,7 +1030,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 806
+      "hot": 810
     },
     {
       "name": "De-AI Prompt Enhancer",
@@ -1060,7 +1060,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 170
+      "hot": 171
     },
     {
       "name": "Chinese WebNovel Skill",
@@ -1075,7 +1075,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 597
+      "hot": 603
     },
     {
       "name": "Writer DNA",
@@ -1090,7 +1090,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 88
+      "hot": 89
     },
     {
       "name": "3brown1blue",
@@ -1116,7 +1116,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 391
+      "hot": 394
     },
     {
       "name": "Ai Game Art Pipeline Skill",
@@ -1142,7 +1142,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 210
+      "hot": 211
     },
     {
       "name": "Ai Shortfilm Prompts Skill",
@@ -1233,7 +1233,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 37
+      "hot": 38
     },
     {
       "name": "Cc Nano Banana",
@@ -1259,7 +1259,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 299
+      "hot": 300
     },
     {
       "name": "Claude Art Skill",
@@ -1272,7 +1272,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 107
+      "hot": 108
     },
     {
       "name": "Claude Code Video Toolkit",
@@ -1300,7 +1300,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2015
+      "hot": 2018
     },
     {
       "name": "Dashmotion",
@@ -1326,7 +1326,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 580
+      "hot": 579
     },
     {
       "name": "Fpv Video Prompting Skill",
@@ -1353,7 +1353,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 827
+      "hot": 829
     },
     {
       "name": "Generative Media Skills",
@@ -1366,7 +1366,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 4047
+      "hot": 4053
     },
     {
       "name": "Google Genai Skills",
@@ -1392,7 +1392,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 304
+      "hot": 306
     },
     {
       "name": "Haidrrrry Remotion Skill",
@@ -1405,7 +1405,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 44
+      "hot": 47
     },
     {
       "name": "Heygen Hyperframes Launches",
@@ -1418,7 +1418,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 399
+      "hot": 403
     },
     {
       "name": "HeyGen Skills",
@@ -1444,7 +1444,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 40872
+      "hot": 40981
     },
     {
       "name": "Ad Video Skills",
@@ -1458,7 +1458,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 3
+      "hot": 6
     },
     {
       "name": "Data Animation Skills",
@@ -1485,7 +1485,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 6
+      "hot": 7
     },
     {
       "name": "Explainer Video Skills",
@@ -1512,7 +1512,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 6
+      "hot": 7
     },
     {
       "name": "Manim Skills",
@@ -1551,7 +1551,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 13
+      "hot": 14
     },
     {
       "name": "Text Message Video Skills",
@@ -1579,7 +1579,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 6
+      "hot": 7
     },
     {
       "name": "Web Animation Skills",
@@ -1592,7 +1592,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 10
+      "hot": 11
     },
     {
       "name": "YouTube Video Skills",
@@ -1658,7 +1658,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 153
+      "hot": 154
     },
     {
       "name": "Lanshu Animated Architecture Diagram",
@@ -1671,7 +1671,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 883
+      "hot": 887
     },
     {
       "name": "Leoyeai Seedance Skills",
@@ -1710,7 +1710,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 682
+      "hot": 685
     },
     {
       "name": "Motion Dev Animations Skill",
@@ -1736,7 +1736,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1823
+      "hot": 1824
     },
     {
       "name": "Nano Image Generator Skill",
@@ -1775,7 +1775,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1940
+      "hot": 1945
     },
     {
       "name": "Portrait Prompt Generator Skill",
@@ -1788,7 +1788,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1454
+      "hot": 1452
     },
     {
       "name": "Power Design Skill",
@@ -1814,7 +1814,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1081
+      "hot": 1087
     },
     {
       "name": "Remotion Bits",
@@ -1866,7 +1866,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2653
+      "hot": 2656
     },
     {
       "name": "Seedance Viral Forge",
@@ -1892,7 +1892,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 3278
+      "hot": 3286
     },
     {
       "name": "Spine Animation Ai",
@@ -1944,7 +1944,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1032
+      "hot": 1039
     },
     {
       "name": "Video Production Buddy",
@@ -1958,7 +1958,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 612
+      "hot": 621
     },
     {
       "name": "Videoclaw",
@@ -1972,7 +1972,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 1702
+      "hot": 1707
     },
     {
       "name": "Videodb Skills",
@@ -1999,7 +1999,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 1289
+      "hot": 1299
     },
     {
       "name": "Whiteboard Animation Skills",
@@ -2064,7 +2064,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 65
+      "hot": 66
     },
     {
       "name": "Humanizer Zh TW",
@@ -2077,7 +2077,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 697
+      "hot": 700
     },
     {
       "name": "Lorn.NovelWriteSkills",
@@ -2091,7 +2091,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 169
+      "hot": 170
     },
     {
       "name": "Novel Control Station Skill",
@@ -2119,7 +2119,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1114
+      "hot": 1117
     },
     {
       "name": "Academic Humanizer",
@@ -2132,7 +2132,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 931
+      "hot": 948
     },
     {
       "name": "Agent Xiaohongshu Workbench",
@@ -2172,7 +2172,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 204
+      "hot": 207
     },
     {
       "name": "Anti-AI-Slop Writing Skill",
@@ -2185,7 +2185,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 354
+      "hot": 363
     },
     {
       "name": "Avoid Ai Writing",
@@ -2198,7 +2198,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 2989
+      "hot": 3008
     },
     {
       "name": "Best AI Humanizer Handbook",
@@ -2226,7 +2226,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 2656
+      "hot": 2660
     },
     {
       "name": "5 Skills That Fix Claude's Writing",
@@ -2265,7 +2265,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 2653
+      "hot": 2708
     },
     {
       "name": "Humanizer Br",
@@ -2291,7 +2291,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 135
+      "hot": 136
     },
     {
       "name": "Humanizer-ZH-Academic：中文学术写作去AI味指南",
@@ -2331,7 +2331,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 151
+      "hot": 152
     },
     {
       "name": "No Ai Slop Writing Rules",
@@ -2344,7 +2344,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 649
+      "hot": 650
     },
     {
       "name": "Novel Creator Skill",
@@ -2358,7 +2358,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 590
+      "hot": 593
     },
     {
       "name": "Novel-Harness",
@@ -2386,7 +2386,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 921
+      "hot": 922
     },
     {
       "name": "Novel Writing Framework",
@@ -2426,7 +2426,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 241
+      "hot": 245
     },
     {
       "name": "Patina",
@@ -2465,7 +2465,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 127
+      "hot": 128
     },
     {
       "name": "台灣正式文件撰寫助手",
@@ -2478,7 +2478,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 160
+      "hot": 161
     },
     {
       "name": "Ux Writing Skill",
@@ -2505,7 +2505,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 6468
+      "hot": 6475
     },
     {
       "name": "WeChat Article Publisher Skill",
@@ -2531,7 +2531,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 501
+      "hot": 506
     },
     {
       "name": "Wechat Publisher",
@@ -2572,7 +2572,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Wjs Converting Text To Video",
@@ -2587,7 +2587,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Wjs Dubbing Video",
@@ -2602,7 +2602,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Wjs Editing Multicam",
@@ -2617,7 +2617,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Wjs Localizing Video",
@@ -2632,7 +2632,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Wjs Overlaying Video",
@@ -2647,7 +2647,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Wjs Reframing Video",
@@ -2662,7 +2662,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Wjs Segmenting Video",
@@ -2677,7 +2677,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Wjs Syncing Multicam",
@@ -2692,7 +2692,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Wjs Transcribing Audio",
@@ -2707,7 +2707,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Wjs Translating Subtitles",
@@ -2722,7 +2722,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Wjs Uploading Video",
@@ -2737,7 +2737,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "VoiceDrop",
@@ -2752,7 +2752,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "VoiceDrop Cover Selection",
@@ -2767,7 +2767,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "VoiceDrop 文章后处理",
@@ -2782,7 +2782,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 119
+      "hot": 120
     },
     {
       "name": "Remotion Best Practices",
@@ -2797,7 +2797,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "Remotion Captions",
@@ -2812,7 +2812,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "Remotion Create",
@@ -2827,7 +2827,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "Remotion Docs",
@@ -2842,7 +2842,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "Remotion Interactivity",
@@ -2857,7 +2857,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "Remotion Maps",
@@ -2872,7 +2872,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "Remotion Markup",
@@ -2887,7 +2887,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "Remotion Multimedia",
@@ -2902,7 +2902,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "Remotion Render",
@@ -2917,7 +2917,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "Remotion Saas",
@@ -2932,7 +2932,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "Remotion Studio",
@@ -2947,7 +2947,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "Upgrade Remotion",
@@ -2962,7 +2962,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4291
+      "hot": 4302
     },
     {
       "name": "知识讲解视频生成器",
@@ -2977,7 +2977,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 33
+      "hot": 34
     },
     {
       "name": "Lottie 动画讲解短视频生成器",
@@ -2992,7 +2992,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 33
+      "hot": 34
     },
     {
       "name": "Tumblr Post Video Generator",
@@ -3007,7 +3007,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 33
+      "hot": 34
     },
     {
       "name": "Frontend Slides",
@@ -3023,7 +3023,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 27471
+      "hot": 27530
     },
     {
       "name": "HTML PPT Studio",
@@ -3039,7 +3039,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 7848
+      "hot": 7861
     },
     {
       "name": "PPT Agent Skills",
@@ -3055,7 +3055,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 882
+      "hot": 883
     },
     {
       "name": "Claude Office Skills",
@@ -3071,7 +3071,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 807
+      "hot": 808
     },
     {
       "name": "McKinsey PPTX",
@@ -3087,7 +3087,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 554
+      "hot": 555
     },
     {
       "name": "Reveal.js Skill",
@@ -3119,7 +3119,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 7581
+      "hot": 7639
     },
     {
       "name": "Research Writing Skill",
@@ -3135,7 +3135,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 3032
+      "hot": 3036
     },
     {
       "name": "Academic Paper (ARS)",
@@ -3151,7 +3151,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 42374
+      "hot": 42494
     },
     {
       "name": "Clipify",
@@ -3167,7 +3167,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 520
+      "hot": 527
     },
     {
       "name": "花叔 Design",
@@ -3184,7 +3184,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 23024
+      "hot": 23035
     },
     {
       "name": "Dashi PPT",
@@ -3200,7 +3200,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 5117
+      "hot": 5123
     },
     {
       "name": "Apple Bento Grid",
@@ -3232,7 +3232,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 7220
+      "hot": 7222
     },
     {
       "name": "小互公众号排版",
@@ -3264,7 +3264,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 7842
+      "hot": 7854
     },
     {
       "name": "女娲 · 造人术",
@@ -3280,7 +3280,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 30600
+      "hot": 30606
     },
     {
       "name": "Video Use",
@@ -3296,7 +3296,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 20677
+      "hot": 20688
     }
   ],
   "categories": [
