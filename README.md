@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-15 23:45:26
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-16 18:18:39
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（234 个条目 / 16 个分类）
+## 📑 内容导航（241 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -162,6 +162,8 @@
   标签：AI绘画
 - [Logo Creator 图标生成](https://github.com/ReScienceLab/opc-skills) — AI 生图做 LOGO：风格/比例讨论、批量变体、抠图去背、导出 SVG  
   标签：LOGO / 图标 / 品牌 / AI 生图
+- [Anthropic Canvas Design](https://github.com/anthropics/skills) — 官方视觉艺术创作技能：用设计哲学生成海报 / 艺术图（PNG·PDF）  
+  标签：图像生成 / 海报 / 艺术 / 官方
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -224,6 +226,8 @@
   标签：设计 / Bento / 卡片 / Apple风
 - [Baseline UI](https://github.com/ibelick/ui-skills) — 一键给 AI 生成的 UI 代码去「AI 味」：修间距/层级/排版/可访问性  
   标签：UI / 去AI味 / Tailwind / 无障碍
+- [Anthropic Frontend Design](https://github.com/anthropics/skills) — 官方前端设计技能：让 AI 产出有辨识度、可商用的生产级 UI  
+  标签：前端 / UI / 设计系统 / 官方
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -346,6 +350,8 @@
   标签：配音 / TTS / 翻译
 - [VoiceDrop 文章后处理](https://github.com/jianshuo/claude-skills) — Use when a newly mined VoiceDrop article needs automated post-processing — invoked headless by the 5-minute poller (launchd com.jianshuo.voicedrop-...  
   标签：配音 / TTS / 翻译
+- [KrillinAI 配音](https://github.com/krillinai/KrillinAI) — AI Agent 视频配音技能：从 SRT 生成目标语言 TTS 配音与合成视频  
+  标签：配音 / TTS / 视频本地化 / 多语言
 
 <a id="cat-字幕-配音" name="cat-字幕-配音"></a>
 
@@ -367,6 +373,8 @@
   标签：字幕 / 转写 / SRT
 - [Clipify](https://github.com/louisedesadeleer/clipify) — 长视频一键转社媒竖屏短片：自动找梗 + 人脸跟随 + 烧录字幕  
   标签：视频 / 剪辑 / 字幕 / 短视频
+- [KrillinAI 字幕](https://github.com/krillinai/KrillinAI) — AI Agent 视频字幕技能：平台字幕下载 / Whisper 识别 / 翻译 / 双语 SRT  
+  标签：字幕 / 视频 / 翻译 / Whisper
 
 <a id="cat-ai-视频" name="cat-ai-视频"></a>
 
@@ -515,6 +523,8 @@
   标签：学术 / 论文 / LaTeX / 写作流水线
 - [Scientific Writing 科研写作](https://github.com/K-Dense-AI/claude-scientific-skills) — 顶会规范的科研论文/报告写作：证据溯源、报告指南、署名与一致性检查  
   标签：学术写作 / 科研 / 论文 / 报告
+- [ljg-writes 中文写作引擎](https://github.com/lijigang/ljg-skills) — 把一个观点写成可理解、可迁移、经得起反例的 1000–1500 字中文文章  
+  标签：中文写作 / 长文 / 观点 / 方法论
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -560,6 +570,8 @@
   标签：去AI味
 - [No Ai Slop Writing Rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) — [![skills.sh](https://skills.sh/b/realrossmanngroup/no_ai_sl  
   标签：去AI味
+- [Stop Slop 去 AI 味](https://github.com/hardikpandya/stop-slop) — 基于 Wikipedia AI 写作特征指南，系统性剔除 AI 腔与套路化表达  
+  标签：去AI味 / 写作 / 编辑 / 英文
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
@@ -579,6 +591,8 @@
   标签：拆书 / 方法论 / 知识蒸馏 / 元技能
 - [女娲 · 造人术](https://github.com/alchaincyf/nuwa-skill) — 输入人名/主题即可深度调研→提炼思维框架→生成可运行的人物 Skill  
   标签：思维框架 / 人物Skill / 认知蒸馏 / 元技能
+- [Claude Blog 博客写作](https://github.com/AgriciDaniel/claude-blog) — 从零生成兼顾 Google 排名与 AI 引用的完整博客文章  
+  标签：博客 / SEO / 内容营销 / 长文
 
 
 ---
