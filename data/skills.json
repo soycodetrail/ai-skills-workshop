@@ -1094,7 +1094,7 @@
     },
     {
       "name": "3brown1blue",
-      "desc": "<p align=\"center\">",
+      "desc": "基于第一性原理的 Manim 数学动画技能：从零生成数学动画与论文讲解动画，含 21 个规则文件。",
       "url": "https://github.com/AmitSubhash/3brown1blue",
       "category": "animation",
       "tags": [
@@ -1250,7 +1250,7 @@
     },
     {
       "name": "Character Animation Creator Skill",
-      "desc": "## Overview",
+      "desc": "角色动画生成技能（Codex / GPT Web Agent）：从参考图或文本提示生成可用于游戏的动画与精灵图。",
       "url": "https://github.com/tachikomared/character-animation-creator-skill",
       "category": "animation",
       "tags": [
@@ -1263,7 +1263,7 @@
     },
     {
       "name": "Claude Art Skill",
-      "desc": "[![Oathe Security](https://img.shields.io/endpoint?url=https",
+      "desc": "Claude Code 视觉内容系统：16 套工作流、2 个 AI 模型、审美路由与品牌自定义。",
       "url": "https://github.com/aplaceforallmystuff/claude-art-skill",
       "category": "animation",
       "tags": [
@@ -1276,7 +1276,7 @@
     },
     {
       "name": "Claude Code Video Toolkit",
-      "desc": "<p align=\"center\">",
+      "desc": "面向 Claude Code 的 AI 原生视频制作工具包。",
       "url": "https://github.com/digitalsamba/claude-code-video-toolkit",
       "category": "fullstack",
       "tags": [
@@ -1290,11 +1290,10 @@
     },
     {
       "name": "Claude Real Video",
-      "desc": "[![PyPI](https://img.shields.io/pypi/v/claude-real-video)](h",
+      "desc": "让 Claude（或任意 LLM）真正「看懂」视频：场景感知、去重帧 + 字幕，支持 URL 或本地文件，本地运行（MIT）。",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "category": "ai-video",
       "tags": [
-        "视频",
         "视频"
       ],
       "icon": "🎬",
@@ -1330,7 +1329,7 @@
     },
     {
       "name": "Fpv Video Prompting Skill",
-      "desc": "## Overview",
+      "desc": "路线优先的 FPV AI 视频提示词技能：面向 Seedance、Kling、Runway、Veo，含编号停靠点与红线路径控制。",
       "url": "https://github.com/zhouwei713/fpv-immersive-video-prompting",
       "category": "prompting",
       "tags": [
@@ -1344,7 +1343,7 @@
     },
     {
       "name": "Gemini Drawing Skill",
-      "desc": "## ⚠️ 操作优先级（必须遵守）",
+      "desc": "通过浏览器调用 Gemini 画图 MCP/Skill，支持 openclaw 或任意支持 MCP 的 Agent。",
       "url": "https://github.com/WJZ-P/gemini-skill",
       "category": "image-gen",
       "tags": [
@@ -1357,7 +1356,7 @@
     },
     {
       "name": "Generative Media Skills",
-      "desc": "[![Powered by MuAPI](https://img.shields.io/badge/Powered%20",
+      "desc": "面向 AI Agent 的多模态生成媒体技能（Claude Code / Cursor / Gemini CLI）：高质量图像、视频、音频生成。",
       "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
       "category": "animation",
       "tags": [
@@ -1396,7 +1395,7 @@
     },
     {
       "name": "Haidrrrry Remotion Skill",
-      "desc": "[![License: MIT](https://img.shields.io/badge/License-MIT-bl",
+      "desc": "开源 Claude Agent 技能：教 Claude 用 Remotion 创作/编辑专业动态图形视频，含 B-roll、字幕、音效。",
       "url": "https://github.com/haidrrrry/claude-remotion-skill",
       "category": "remotion",
       "tags": [
@@ -1435,7 +1434,7 @@
     },
     {
       "name": "Hyperframes",
-      "desc": "<p align=\"center\">",
+      "desc": "写 HTML，出视频，为 Agent 而生。",
       "url": "https://github.com/heygen-com/hyperframes",
       "category": "ai-video",
       "tags": [
@@ -1452,7 +1451,6 @@
       "url": "https://github.com/iart-ai/ad-video-skills",
       "category": "ai-video",
       "tags": [
-        "视频",
         "视频"
       ],
       "icon": "🎬",
@@ -1479,7 +1477,6 @@
       "url": "https://github.com/iart-ai/ecommerce-video-skills",
       "category": "ai-video",
       "tags": [
-        "视频",
         "视频"
       ],
       "icon": "🎬",
@@ -1493,7 +1490,6 @@
       "url": "https://github.com/iart-ai/explainer-video-skills",
       "category": "ai-video",
       "tags": [
-        "视频",
         "视频"
       ],
       "icon": "🎬",
@@ -1559,7 +1555,6 @@
       "url": "https://github.com/iart-ai/text-message-video-skills",
       "category": "ai-video",
       "tags": [
-        "视频",
         "视频"
       ],
       "icon": "🎬",
@@ -1573,7 +1568,6 @@
       "url": "https://github.com/iart-ai/tiktok-video-skills",
       "category": "ai-video",
       "tags": [
-        "视频",
         "视频"
       ],
       "icon": "🎬",
@@ -1600,7 +1594,6 @@
       "url": "https://github.com/iart-ai/youtube-video-skills",
       "category": "ai-video",
       "tags": [
-        "视频",
         "视频"
       ],
       "icon": "🎬",
@@ -1610,7 +1603,7 @@
     },
     {
       "name": "Interactive Class Diagram Generator",
-      "desc": "## Workflow",
+      "desc": "交互式类图生成技能：把需求或代码转成可缩放、可点击查看的类图。",
       "url": "https://github.com/soycodetrail/interactive-class-diagram",
       "category": "diagram",
       "tags": [
@@ -1623,7 +1616,7 @@
     },
     {
       "name": "Interactive Sequence Diagram Generator",
-      "desc": "## Workflow",
+      "desc": "交互式时序图生成技能：把对话或需求转成可交互的时序图。",
       "url": "https://github.com/soycodetrail/interactive-sequence-diagram",
       "category": "diagram",
       "tags": [
@@ -1688,7 +1681,7 @@
     },
     {
       "name": "Lovart",
-      "desc": "<p align=\"center\">",
+      "desc": "Lovart 设计 Agent 接入技能：用自然语言驱动 Lovart 生成设计稿与视频。",
       "url": "https://github.com/lovartai/lovart-skill",
       "category": "ai-video",
       "tags": [
@@ -1701,7 +1694,7 @@
     },
     {
       "name": "Motion Anything",
-      "desc": "<p align=\"center\"><sub>A project in the <a href=\"https://git",
+      "desc": "Agentic 动作层：开源、聊天原生的动作引擎，描述感觉，AI 即生成动画。",
       "url": "https://github.com/nexu-io/motion-anything",
       "category": "animation",
       "tags": [
@@ -1818,7 +1811,7 @@
     },
     {
       "name": "Remotion Bits",
-      "desc": "https://github.com/user-attachments/assets/2a5760fe-1886-449",
+      "desc": "Remotion 现成动画组件：图表、转场、文字揭示等。",
       "url": "https://github.com/av/remotion-bits",
       "category": "remotion",
       "tags": [
@@ -1844,7 +1837,7 @@
     },
     {
       "name": "Robonuggets Seedance Skill",
-      "desc": "Generate cinematic motion graphics videos using ByteDance's ",
+      "desc": "Claude Code 的 Seedance 2.0 动态图形技能：液态玻璃提示词、Fal AI 集成、App Store 抓取。",
       "url": "https://github.com/robonuggets/seedance-skill",
       "category": "ai-video",
       "tags": [
@@ -1883,7 +1876,7 @@
     },
     {
       "name": "Seedance2 Skill Dexhunter",
-      "desc": "## Description",
+      "desc": "为 Seedance 2.0 生成视频的最佳提示词技能。",
       "url": "https://github.com/dexhunter/seedance2-skill",
       "category": "ai-video",
       "tags": [
@@ -1896,7 +1889,7 @@
     },
     {
       "name": "Spine Animation Ai",
-      "desc": "<!-- ⚠️  AUTO-GENERATED FILE — DO NOT EDIT DIRECTLY",
+      "desc": "AI 驱动的 Spine 2D 骨骼动画 Claude 技能：自动绑定、动画与预览角色。",
       "url": "https://github.com/GenielabsOpenSource/spine-animation-ai",
       "category": "animation",
       "tags": [
@@ -1909,7 +1902,7 @@
     },
     {
       "name": "Tvc Director Skill",
-      "desc": "## 角色定义",
+      "desc": "TVC 广告创意导演：从产品简报到 Nano Banana Pro 关键帧提示词与 Seedance 视频脚本。",
       "url": "https://github.com/Ethanxwang/tvc-director",
       "category": "prompting",
       "tags": [
@@ -1922,7 +1915,7 @@
     },
     {
       "name": "Vibe Creating Skill",
-      "desc": "<div align=\"center\">",
+      "desc": "开源双语 AI 视频提示词技能：把想法改写成模型可用的文生视频提示词，支持 Atlas Cloud 多模型生成。",
       "url": "https://github.com/Alisa0808/vibe-creating-skill",
       "category": "ai-video",
       "tags": [
@@ -1935,7 +1928,7 @@
     },
     {
       "name": "Vibe Motion Skills",
-      "desc": "<p align=\"right\">",
+      "desc": "Vibe Motion 系列 Agent 技能：把创意描述转成动态视频。",
       "url": "https://github.com/vibe-motion/skills",
       "category": "animation",
       "tags": [
@@ -1948,7 +1941,7 @@
     },
     {
       "name": "Video Production Buddy",
-      "desc": "<p align=\"center\">",
+      "desc": "Video Production Buddy —— AI 视频制作工作室。",
       "url": "https://github.com/video-production-buddy/video-production-buddy",
       "category": "fullstack",
       "tags": [
@@ -1962,11 +1955,10 @@
     },
     {
       "name": "Videoclaw",
-      "desc": "<p align=\"center\">",
+      "desc": "AI 全自动化视频生成员工：聊一个创意，得一支成片。",
       "url": "https://github.com/HITsz-TMG/VideoClaw",
       "category": "ai-video",
       "tags": [
-        "视频",
         "视频"
       ],
       "icon": "🎬",
@@ -1976,11 +1968,10 @@
     },
     {
       "name": "Videodb Skills",
-      "desc": "[![License][license-shield]][license-url]",
+      "desc": "面向 Agent 的服务端视频工作流：摄入、理解、搜索、剪辑、流式播放。",
       "url": "https://github.com/video-db/skills",
       "category": "ai-video",
       "tags": [
-        "视频",
         "视频"
       ],
       "icon": "🎬",
@@ -2095,7 +2086,7 @@
     },
     {
       "name": "Novel Control Station Skill",
-      "desc": "## Overview",
+      "desc": "非常强大的中文长篇小说创作技能（支持马拉松模式）：项目控制机制、文档驱动、动态状态更新、图式回忆辅助，让 AI 跑完整本小说。",
       "url": "https://github.com/jingtai123/Novel-Control-Station-Skill",
       "category": "longform",
       "tags": [
@@ -2109,7 +2100,7 @@
     },
     {
       "name": "NovelForge",
-      "desc": "<div align=\"center\">",
+      "desc": "AI 辅助长篇小说创作，卡片式创作，支持基于 JSON Schema 的结构化生成与上下文引用，可扩展性强。",
       "url": "https://github.com/RhythmicWave/NovelForge",
       "category": "longform",
       "tags": [
@@ -2136,7 +2127,7 @@
     },
     {
       "name": "Agent Xiaohongshu Workbench",
-      "desc": "<p align=\"center\">",
+      "desc": "小红书图文内容工作台：用 Codex Agent 完成热点研究、内容拆解、原创文稿、去 AI 味、品牌配图与人工确认发布。",
       "url": "https://github.com/EthanYoQ/agent-xiaohongshu-workbench",
       "category": "longform",
       "tags": [
@@ -2202,7 +2193,7 @@
     },
     {
       "name": "Best AI Humanizer Handbook",
-      "desc": "## A practical guide to making AI-assisted writing clearer, ",
+      "desc": "Best AI Humanizer 实用手册：让 AI 辅助写作更清晰、可信、像人写。",
       "url": "https://github.com/lynote-ai/best-humanizer-handbook",
       "category": "humanizer",
       "tags": [
@@ -2216,7 +2207,7 @@
     },
     {
       "name": "Chinese Novelist Skill",
-      "desc": "## 三大黄金法则",
+      "desc": "AI 驱动的中文小说创作助手：三层递进式智能问答、跨会话偏好记忆、中断续写、每章必留悬念钩子、自动校验修复，长篇小说一次性全稿完成。",
       "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
       "category": "longform",
       "tags": [
@@ -2256,7 +2247,7 @@
     },
     {
       "name": "Human Writing",
-      "desc": "<p align=\"center\">",
+      "desc": "让 AI 写的中文读起来像一个具体的人在说话：通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
       "category": "humanizer",
       "tags": [
@@ -2322,7 +2313,7 @@
     },
     {
       "name": "Natural Japanese",
-      "desc": "[![License: MIT](https://img.shields.io/badge/License-MIT-bl",
+      "desc": "把工作日语写得易读易懂的 Agent Skill（撰写与改稿）。",
       "url": "https://github.com/coji/natural-japanese",
       "category": "humanizer",
       "tags": [
@@ -2335,7 +2326,7 @@
     },
     {
       "name": "No Ai Slop Writing Rules",
-      "desc": "[![skills.sh](https://skills.sh/b/realrossmanngroup/no_ai_sl",
+      "desc": "Claude Code 参考：用 Louis Rossmann 的语气写作、拒绝 AI 腔；含可移植 CLAUDE.md 与 skills。",
       "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
       "category": "humanizer",
       "tags": [
@@ -2348,7 +2339,7 @@
     },
     {
       "name": "Novel Creator Skill",
-      "desc": "## Iron Law（铁律 — 任何情况下不可违反）",
+      "desc": "AI 长篇小说创作系统：基于文件级长期记忆的 Smart State 模式，支持百万字级长篇小说持续创作。",
       "url": "https://github.com/leenbj/novel-creator-skill",
       "category": "longform",
       "tags": [
@@ -2376,7 +2367,7 @@
     },
     {
       "name": "Novel Writer - AI 驱动的中文小说创作工具",
-      "desc": "[![npm version](https://badge.fury.io/js/novel-writer-cn.svg",
+      "desc": "参考 Spec-kit 实现的中文小说撰写工具。",
       "url": "https://github.com/wordflowlab/novel-writer",
       "category": "longform",
       "tags": [
@@ -2390,7 +2381,7 @@
     },
     {
       "name": "Novel Writing Framework",
-      "desc": "[![License: MIT](https://img.shields.io/badge/License-MIT-ye",
+      "desc": "AI 辅助长篇网文写作工程化体系：从 500+ 章实战提炼的全流程方法论，支持番茄小说、起点中文网双平台。",
       "url": "https://github.com/LAY-lgtm/novel-writing-framework",
       "category": "longform",
       "tags": [
@@ -2404,7 +2395,7 @@
     },
     {
       "name": "公文写作",
-      "desc": "## Purpose",
+      "desc": "面向公文写作的 Skill：基于数百篇《人民日报》等报刊文章总结，按文种/场景/材料生成规范、稳妥、去 AI 味的公文。",
       "url": "https://github.com/Liuxiangjian-ai/official-document-skill",
       "category": "longform",
       "tags": [
@@ -2456,7 +2447,7 @@
     },
     {
       "name": "Tianming Skill",
-      "desc": "## 一、本 Skill 的工作哲学",
+      "desc": "天命 · AI 长篇小说协同创作 Skill：模块化提示词工程系统（Claude Skill / Prompt Engineering for Novel Writing）。",
       "url": "https://github.com/zy-zmc/tianming-skill",
       "category": "longform",
       "tags": [
@@ -2469,7 +2460,7 @@
     },
     {
       "name": "台灣正式文件撰寫助手",
-      "desc": "## Quick Start",
+      "desc": "台灣正式文件撰寫 AI Skill：公文、存證信函、陳情書、合約，匯入 ChatGPT / Claude / Gemini 即可使用。",
       "url": "https://github.com/Imbad0202/tw-formal-writing",
       "category": "methodology",
       "tags": [
@@ -2495,7 +2486,7 @@
     },
     {
       "name": "Webnovel Writer",
-      "desc": "[![License](https://img.shields.io/badge/License-GPL%20v3-bl",
+      "desc": "基于 Claude Code 的长篇网文辅助创作系统：解决 AI 写作的遗忘与幻觉问题，支持 200 万字量级连载创作。",
       "url": "https://github.com/lingfengQAQ/webnovel-writer",
       "category": "longform",
       "tags": [
@@ -2509,7 +2500,7 @@
     },
     {
       "name": "WeChat Article Publisher Skill",
-      "desc": "<p align=\"center\">",
+      "desc": "Claude Skill：一键把文章发布到微信公众号。",
       "url": "https://github.com/iamzifei/wechat-article-publisher-skill",
       "category": "longform",
       "tags": [
@@ -2548,7 +2539,7 @@
     },
     {
       "name": "WeChat Writing Team",
-      "desc": "[![Obsidian 微信发布插件](https://img.shields.io/badge/Obsidian-微信",
+      "desc": "全流程公众号写作 Skill + 视觉导演配图 Skill：对接 Claude Code / Codex / Gemini CLI，从访谈挖掘到配图生成全流程 AI 自动化。",
       "url": "https://github.com/DavidLam-oss/wechat-writing-team",
       "category": "longform",
       "tags": [
