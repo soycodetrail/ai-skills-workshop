@@ -608,3 +608,8 @@
 - 📧 **合作 / 交流**：1019296134@qq.com
 
 > 内容源自 [https://soycodetrail.top](https://soycodetrail.top)，转载请注明出处并保留上述联系方式。
+
+### 📚 系列展示站（更多精选内容，互相导流）
+
+- [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
+- [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
