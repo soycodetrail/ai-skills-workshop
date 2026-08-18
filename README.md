@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-17 21:05:53
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-18 18:08:46
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（250 个条目 / 16 个分类）
+## 📑 内容导航（255 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -202,6 +202,8 @@
   标签：DrawIO / 图表 / 架构图 / UML
 - [Scientific Schematics 科研配图](https://github.com/K-Dense-AI/claude-scientific-skills) — AI 生成可发表级科研示意图：神经网络/系统图/通路/流程图  
   标签：科研配图 / 示意图 / 神经网络 / AI 生图
+- [Diagram Design](https://github.com/cathrynlavery/diagram-design/tree/main/skills/diagram-design) — 27 种编辑级图解：自包含 HTML+SVG，无阴影、无 Mermaid 味  
+  标签：Diagram / SVG / HTML / 架构图 / 信息图
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -460,6 +462,8 @@
   标签：AI 视频 / 生成 / 短视频
 - [Dark SaaS Magic Video](https://github.com/Pluviobyte/video-production-skills/tree/main/dark-saas-magic-video) — 暗色科技感 AI 产品短片：一键产出 SaaS / AI 产品宣传视频  
   标签：产品视频 / SaaS / AI 宣传片 / 暗色科技
+- [OpenClaw Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit/tree/main/skills/openclaw-video-toolkit) — 文生讲解视频全链路：配音+生图+BGM+口播数字人+Remotion 合成  
+  标签：AI 视频 / 讲解视频 / 数字人 / Remotion / 配音
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -541,6 +545,8 @@
   标签：中文写作 / 长文 / 观点 / 方法论
 - [Doc Co-Authoring (官方)](https://github.com/anthropics/skills/tree/main/doc-coauthoring) — 人写 + Claude 协作：你负责创作，它负责打磨与结构  
   标签：协作写作 / 长文 / 润色 / 共创
+- [网文长篇写作 oh-story](https://github.com/worldwonderer/oh-story-claudecode/tree/main/skills/story-long-write) — 扫榜→拆文→写作→去 AI 味：中文网文长篇小说全链路  
+  标签：网文 / 小说 / 长文 / 去 AI 味 / 写作
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -611,6 +617,10 @@
   标签：博客 / SEO / 内容营销 / 长文
 - [DOCX (官方)](https://github.com/anthropics/skills/tree/main/docx) — 创建/编辑 Word 文档：修订、评论、格式一键搞定  
   标签：Word / DOCX / 文档 / 办公
+- [PDF 处理（Anthropic 官方）](https://github.com/anthropics/skills/tree/main/skills/pdf) — 读/合并/拆分/加水印/填表/OCR：PDF 全流程处理  
+  标签：PDF / 文档 / OCR / 表格抽取 / Anthropic
+- [内部沟通写作（Anthropic 官方）](https://github.com/anthropics/skills/tree/main/skills/internal-comms) — 3P 周报 / 简报 / 事故报告：按公司模板写内部沟通  
+  标签：内部沟通 / 周报 / 简报 / 写作 / Anthropic
 
 
 ---
