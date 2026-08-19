@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-18 21:04:39
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-19 18:08:52
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（255 个条目 / 16 个分类）
+## 📑 内容导航（263 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -123,6 +123,8 @@
   标签：动画
 - [Whiteboard Animation Skills](https://github.com/YangAgent/whiteboard-animation-skill) — 用于生成白板动画视频的可复用 Agent Skills 仓库。  
   标签：动画
+- [Text-to-Lottie](https://github.com/diffusionstudio/lottie/tree/main/skills/text-to-lottie) — 自然语言生成生产级 Lottie 动画 JSON（YC 孵化 Diffusion Studio）  
+  标签：Lottie / 动效 / SVG / 矢量动画 / Web
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
@@ -168,6 +170,8 @@
   标签：图像生成 / 海报 / 艺术 / 官方
 - [Algorithmic Art (官方)](https://github.com/anthropics/skills/tree/main/algorithmic-art) — 用 p5.js 生成分形、几何与算法艺术：从一句话创意到可运行作品  
   标签：算法艺术 / p5.js / 生成艺术 / 创意视觉
+- [Agent Sprite Forge](https://github.com/0x0funky/agent-sprite-forge/tree/main/skills/generate2dsprite) — 一句话生成 2D 游戏精灵图/动画帧：透明 PNG + GIF + 引擎就绪  
+  标签：游戏素材 / Sprite / 像素风 / PNG / GIF
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -240,6 +244,10 @@
   标签：配色 / 主题 / 设计令牌 / CSS
 - [Web Artifacts Builder (官方)](https://github.com/anthropics/skills/tree/main/web-artifacts-builder) — 不懂前端也能用自然语言做计算器/仪表盘等 Web 工具  
   标签：Web / HTML / 交互组件 / React
+- [Logo Generator](https://github.com/op7418/logo-generator-skill) — 几何 SVG Logo 生成器：6+ 变体 + 12 种高端展示背景  
+  标签：Logo / SVG / 品牌 / 设计 / op7418
+- [归藏社媒卡片](https://github.com/op7418/guizang-social-card-skill) — 小红书图文/公众号封面/Live Photo 实况拼图：社媒卡片一键生成  
+  标签：小红书 / 公众号 / 社媒 / Live Photo / 封面
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -389,6 +397,8 @@
   标签：视频 / 剪辑 / 字幕 / 短视频
 - [KrillinAI 字幕](https://github.com/krillinai/KrillinAI) — AI Agent 视频字幕技能：平台字幕下载 / Whisper 识别 / 翻译 / 双语 SRT  
   标签：字幕 / 视频 / 翻译 / Whisper
+- [VideoCut 字幕](https://github.com/zrt-ai-lab/opencode-skills/tree/main/videocut-subtitle) — Whisper 转录→纠错→烧录：中文视频字幕一条龙（FFmpeg）  
+  标签：字幕 / Whisper / 转录 / FFmpeg / 视频
 
 <a id="cat-ai-视频" name="cat-ai-视频"></a>
 
@@ -621,6 +631,12 @@
   标签：PDF / 文档 / OCR / 表格抽取 / Anthropic
 - [内部沟通写作（Anthropic 官方）](https://github.com/anthropics/skills/tree/main/skills/internal-comms) — 3P 周报 / 简报 / 事故报告：按公司模板写内部沟通  
   标签：内部沟通 / 周报 / 简报 / 写作 / Anthropic
+- [i-have-adhd 输出整形](https://github.com/ayghri/i-have-adhd/tree/main/skills/i-have-adhd) — 让 AI 先给答案/步骤化/不废话：ADHD 风格输出规范（22k★ 爆款）  
+  标签：输出风格 / ADHD / 效率 / 方法论
+- [Superpowers · 写作计划](https://github.com/obra/superpowers/tree/main/skills/writing-plans) — obra/superpowers 王牌技能：先写执行计划再动手（27 万★ 合集）  
+  标签：计划 / 方法论 / 工作流 / obra / superpowers
+- [Matt Pocock · Grill Me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) — 让 AI 像答辩评委一样拷问你的方案（22 万★ 合集）  
+  标签：评审 / 方法论 / 架构 / mattpocock / TS
 
 
 ---
