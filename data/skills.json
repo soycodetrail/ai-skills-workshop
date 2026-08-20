@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T01:56:35.855Z",
+  "updatedAt": "2026-08-20T18:28:32.448Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -3853,6 +3853,150 @@
       "bg": "",
       "tool": "video",
       "hot": 270
+    },
+    {
+      "name": "DeerFlow PPT 生成",
+      "desc": "字节 DeerFlow 出品：用 AI 生图逐页生成高质量 PPT/PPTX，支持商务/学术/极简/Apple Keynote 等多种风格",
+      "url": "https://github.com/bytedance/deer-flow",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "PPTX",
+        "AI 生图",
+        "演示文稿"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 80419
+    },
+    {
+      "name": "DeerFlow 图像生成",
+      "desc": "字节 DeerFlow 出品：结构化 Prompt + 参考图引导，生成角色/场景/产品等高质感图像",
+      "url": "https://github.com/bytedance/deer-flow",
+      "category": "image-gen",
+      "tags": [
+        "图像生成",
+        "AI 绘画",
+        "概念图",
+        "视觉资产"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 80419
+    },
+    {
+      "name": "Web Design Engineer",
+      "desc": "ConardLi 出品：以「惊艳」而非「能用」为标准的网页视觉工程技能，做页面/仪表盘/原型/动效/数据可视化",
+      "url": "https://github.com/ConardLi/web-design-skill",
+      "category": "design",
+      "tags": [
+        "网页设计",
+        "UI",
+        "原型",
+        "数据可视化"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 10457
+    },
+    {
+      "name": "DeerFlow 视频生成",
+      "desc": "字节 DeerFlow 出品：结构化 Prompt + 参考图引导，调用 Gemini Veo / MiniMax 生成 AIGC 视频",
+      "url": "https://github.com/bytedance/deer-flow",
+      "category": "ai-video",
+      "tags": [
+        "AI 视频",
+        "AIGC",
+        "视频生成",
+        "Veo"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 80419
+    },
+    {
+      "name": "Web Video Presentation",
+      "desc": "ConardLi 出品：把文章/口播稿做成「像视频」的点击驱动网页演示，可选合成口播音频，适合录屏教程",
+      "url": "https://github.com/ConardLi/web-design-skill",
+      "category": "fullstack",
+      "tags": [
+        "网页演示",
+        "口播稿",
+        "录屏",
+        "全链路"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 10457
+    },
+    {
+      "name": "Content Research Writer",
+      "desc": "OpenAkita 出品：研究+引用+钩子+大纲+逐节反馈的长文写作流水线，保持作者声线",
+      "url": "https://github.com/openakita/openakita",
+      "category": "longform",
+      "tags": [
+        "长文写作",
+        "研究",
+        "引用",
+        "大纲"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1972
+    },
+    {
+      "name": "Conversion Copywriting",
+      "desc": "Corey Haines 出品：转化型营销文案技能，写首页/落地页/定价页等任何需要说服与转化的页面文案",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "category": "methodology",
+      "tags": [
+        "文案",
+        "营销",
+        "转化",
+        "落地页"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 45056
+    },
+    {
+      "name": "ML Paper Writing",
+      "desc": "Orchestra Research 出品：写可投稿 NeurIPS/ICML/ICLR 等的发表级 ML/AI 论文，含引用校验与审稿准备",
+      "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+      "category": "longform",
+      "tags": [
+        "学术论文",
+        "ML",
+        "引用校验",
+        "LaTeX"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 11891
+    },
+    {
+      "name": "DBS 内容创作诊断",
+      "desc": "dontbesilent 出品：中文内容创作诊断方法论，帮用户把一个确定选题做成好内容（方向/形式/表达）",
+      "url": "https://github.com/dontbesilent2025/dbskill",
+      "category": "methodology",
+      "tags": [
+        "内容诊断",
+        "中文创作",
+        "选题",
+        "方法论"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 9636
     }
   ],
   "categories": [

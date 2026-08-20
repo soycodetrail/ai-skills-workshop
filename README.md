@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-20 01:56:35
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-20 18:28:32
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（263 个条目 / 16 个分类）
+## 📑 内容导航（272 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -68,6 +68,8 @@
   标签：PPT / HTML / 演示 / 导出PPTX
 - [PPTX (官方)](https://github.com/anthropics/skills/tree/main/pptx) — 自然语言生成 PowerPoint：版式、图表、演讲备注一键产出  
   标签：PPT / PPTX / 演示 / 办公
+- [DeerFlow PPT 生成](https://github.com/bytedance/deer-flow) — 字节 DeerFlow 出品：用 AI 生图逐页生成高质量 PPT/PPTX，支持商务/学术/极简/Apple Keynote 等多种风格  
+  标签：PPT / PPTX / AI 生图 / 演示文稿
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -172,6 +174,8 @@
   标签：算法艺术 / p5.js / 生成艺术 / 创意视觉
 - [Agent Sprite Forge](https://github.com/0x0funky/agent-sprite-forge/tree/main/skills/generate2dsprite) — 一句话生成 2D 游戏精灵图/动画帧：透明 PNG + GIF + 引擎就绪  
   标签：游戏素材 / Sprite / 像素风 / PNG / GIF
+- [DeerFlow 图像生成](https://github.com/bytedance/deer-flow) — 字节 DeerFlow 出品：结构化 Prompt + 参考图引导，生成角色/场景/产品等高质感图像  
+  标签：图像生成 / AI 绘画 / 概念图 / 视觉资产
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -248,6 +252,8 @@
   标签：Logo / SVG / 品牌 / 设计 / op7418
 - [归藏社媒卡片](https://github.com/op7418/guizang-social-card-skill) — 小红书图文/公众号封面/Live Photo 实况拼图：社媒卡片一键生成  
   标签：小红书 / 公众号 / 社媒 / Live Photo / 封面
+- [Web Design Engineer](https://github.com/ConardLi/web-design-skill) — ConardLi 出品：以「惊艳」而非「能用」为标准的网页视觉工程技能，做页面/仪表盘/原型/动效/数据可视化  
+  标签：网页设计 / UI / 原型 / 数据可视化
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -351,6 +357,8 @@
   标签：视频剪辑 / 字幕 / FFmpeg / VEED
 - [口播视频精剪](https://github.com/linyqh/speclip-skills) — 以 transcript 为核心的口播/talking-head 精剪：删停顿、去废话、jump cut  
   标签：视频剪辑 / 口播 / 字幕 / Jump Cut
+- [Web Video Presentation](https://github.com/ConardLi/web-design-skill) — ConardLi 出品：把文章/口播稿做成「像视频」的点击驱动网页演示，可选合成口播音频，适合录屏教程  
+  标签：网页演示 / 口播稿 / 录屏 / 全链路
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -474,6 +482,8 @@
   标签：产品视频 / SaaS / AI 宣传片 / 暗色科技
 - [OpenClaw Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit/tree/main/skills/openclaw-video-toolkit) — 文生讲解视频全链路：配音+生图+BGM+口播数字人+Remotion 合成  
   标签：AI 视频 / 讲解视频 / 数字人 / Remotion / 配音
+- [DeerFlow 视频生成](https://github.com/bytedance/deer-flow) — 字节 DeerFlow 出品：结构化 Prompt + 参考图引导，调用 Gemini Veo / MiniMax 生成 AIGC 视频  
+  标签：AI 视频 / AIGC / 视频生成 / Veo
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -557,6 +567,10 @@
   标签：协作写作 / 长文 / 润色 / 共创
 - [网文长篇写作 oh-story](https://github.com/worldwonderer/oh-story-claudecode/tree/main/skills/story-long-write) — 扫榜→拆文→写作→去 AI 味：中文网文长篇小说全链路  
   标签：网文 / 小说 / 长文 / 去 AI 味 / 写作
+- [Content Research Writer](https://github.com/openakita/openakita) — OpenAkita 出品：研究+引用+钩子+大纲+逐节反馈的长文写作流水线，保持作者声线  
+  标签：长文写作 / 研究 / 引用 / 大纲
+- [ML Paper Writing](https://github.com/Orchestra-Research/AI-Research-SKILLs) — Orchestra Research 出品：写可投稿 NeurIPS/ICML/ICLR 等的发表级 ML/AI 论文，含引用校验与审稿准备  
+  标签：学术论文 / ML / 引用校验 / LaTeX
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -637,6 +651,10 @@
   标签：计划 / 方法论 / 工作流 / obra / superpowers
 - [Matt Pocock · Grill Me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) — 让 AI 像答辩评委一样拷问你的方案（22 万★ 合集）  
   标签：评审 / 方法论 / 架构 / mattpocock / TS
+- [Conversion Copywriting](https://github.com/coreyhaines31/marketingskills) — Corey Haines 出品：转化型营销文案技能，写首页/落地页/定价页等任何需要说服与转化的页面文案  
+  标签：文案 / 营销 / 转化 / 落地页
+- [DBS 内容创作诊断](https://github.com/dontbesilent2025/dbskill) — dontbesilent 出品：中文内容创作诊断方法论，帮用户把一个确定选题做成好内容（方向/形式/表达）  
+  标签：内容诊断 / 中文创作 / 选题 / 方法论
 
 
 ---
