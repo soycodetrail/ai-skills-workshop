@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-20 21:04:29
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-21 18:20:56
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（272 个条目 / 16 个分类）
+## 📑 内容导航（278 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -70,6 +70,8 @@
   标签：PPT / PPTX / 演示 / 办公
 - [DeerFlow PPT 生成](https://github.com/bytedance/deer-flow) — 字节 DeerFlow 出品：用 AI 生图逐页生成高质量 PPT/PPTX，支持商务/学术/极简/Apple Keynote 等多种风格  
   标签：PPT / PPTX / AI 生图 / 演示文稿
+- [Gorden PPT 技能](https://github.com/GordenSun/GordenPPTSkill) — GordenSun 出品：21 套内置中文 PPT 模板，只替换文字不破坏排版，生成真正可编辑的 .pptx  
+  标签：PPT / 中文模板 / python-pptx / 可编辑
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -176,6 +178,10 @@
   标签：游戏素材 / Sprite / 像素风 / PNG / GIF
 - [DeerFlow 图像生成](https://github.com/bytedance/deer-flow) — 字节 DeerFlow 出品：结构化 Prompt + 参考图引导，生成角色/场景/产品等高质感图像  
   标签：图像生成 / AI 绘画 / 概念图 / 视觉资产
+- [Ian 小黑正文配图](https://github.com/helloianneo/ian-xiaohei-illustrations) — helloianneo 出品：为中文文章生成 16:9 怪诞手绘风配图（小黑 IP + 红橙蓝批注）  
+  标签：配图 / 手绘 / 中文内容 / 小黑IP
+- [GPT Image 2 生图](https://github.com/wuyoscar/gpt_image_2_skill) — wuyoscar 出品：围绕 GPT Image 2 的提示词画廊 + CLI 生图/编辑技能，覆盖海报、UI、图表、中文文字  
+  标签：GPT Image 2 / 图像生成 / 提示词 / UI配图
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -254,6 +260,10 @@
   标签：小红书 / 公众号 / 社媒 / Live Photo / 封面
 - [Web Design Engineer](https://github.com/ConardLi/web-design-skill) — ConardLi 出品：以「惊艳」而非「能用」为标准的网页视觉工程技能，做页面/仪表盘/原型/动效/数据可视化  
   标签：网页设计 / UI / 原型 / 数据可视化
+- [Impeccable 前端设计](https://github.com/pbakaus/impeccable) — pbakaus 出品：把任意前端界面做到「超出分布」级别的获奖级设计——审查/打磨/动画/配色一站式  
+  标签：前端设计 / UI / 审查 / 动效
+- [Taste 反模板前端](https://github.com/leonxlnx/taste-skill) — leonxlnx 出品：反「AI 味」前端旗舰技能，读简报→定三参数→产出非模板化落地页/作品集/重构  
+  标签：反AI味 / 前端 / 落地页 / 设计系统
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -571,6 +581,8 @@
   标签：长文写作 / 研究 / 引用 / 大纲
 - [ML Paper Writing](https://github.com/Orchestra-Research/AI-Research-SKILLs) — Orchestra Research 出品：写可投稿 NeurIPS/ICML/ICLR 等的发表级 ML/AI 论文，含引用校验与审稿准备  
   标签：学术论文 / ML / 引用校验 / LaTeX
+- [科研论文写作](https://github.com/Master-cai/Research-Paper-Writing-Skills) — Master-cai 出品：把 ML/CV/NLP 论文改写成审稿友好、逻辑清晰、claim-evidence 对齐的高质量稿  
+  标签：学术论文 / ML / 审稿 / LaTeX
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
