@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-23 15:09:38
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-24 18:17:46
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（278 个条目 / 16 个分类）
+## 📑 内容导航（283 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -72,6 +72,8 @@
   标签：PPT / PPTX / AI 生图 / 演示文稿
 - [Gorden PPT 技能](https://github.com/GordenSun/GordenPPTSkill) — GordenSun 出品：21 套内置中文 PPT 模板，只替换文字不破坏排版，生成真正可编辑的 .pptx  
   标签：PPT / 中文模板 / python-pptx / 可编辑
+- [麦肯锡 PPT 设计系统](https://github.com/likaku/Mck-ppt-design-skill) — likaku 出品：python-pptx 驱动的咨询级 PPT 引擎，67 个高阶方法 + 机读门禁防崩  
+  标签：PPT / 麦肯锡 / python-pptx / 咨询
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -229,6 +231,8 @@
   标签：信息图 / SVG / HTML / Claude
 - [宝玉 Skills 合集](https://github.com/JimLiu/baoyu-skills) — 21 个内容创作 skill（信息图/图表/封面/幻灯片）  
   标签：合集 / 信息图 / 封面 / 幻灯片
+- [Vega 数据图表](https://github.com/markdown-viewer/skills) — Markdown Viewer 出品：用 Vega-Lite / Vega 在 Markdown 里生成可渲染统计图表  
+  标签：数据可视化 / Vega / Vega-Lite / 图表
 
 <a id="cat-设计-ui" name="cat-设计-ui"></a>
 
@@ -264,6 +268,8 @@
   标签：前端设计 / UI / 审查 / 动效
 - [Taste 反模板前端](https://github.com/leonxlnx/taste-skill) — leonxlnx 出品：反「AI 味」前端旗舰技能，读简报→定三参数→产出非模板化落地页/作品集/重构  
   标签：反AI味 / 前端 / 落地页 / 设计系统
+- [设计奖项匹配](https://github.com/SeanJ1ang/design-judge-skills) — SeanJ1ang 出品：把设计项目匹配到 iF/红点/IDEA 等奖项并给出申报优先级与风险  
+  标签：设计奖项 / 红点 / iF / 申报
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -369,6 +375,8 @@
   标签：视频剪辑 / 口播 / 字幕 / Jump Cut
 - [Web Video Presentation](https://github.com/ConardLi/web-design-skill) — ConardLi 出品：把文章/口播稿做成「像视频」的点击驱动网页演示，可选合成口播音频，适合录屏教程  
   标签：网页演示 / 口播稿 / 录屏 / 全链路
+- [乔木智能视频导演](https://github.com/joeseesun/qiaomu-cut-skill) — 向阳乔木出品：把一句话需求转成可溯源、可验收的视频工程（剪辑/字幕/配音/质检）  
+  标签：视频剪辑 / 字幕 / 配音 / 导演
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -494,6 +502,8 @@
   标签：AI 视频 / 讲解视频 / 数字人 / Remotion / 配音
 - [DeerFlow 视频生成](https://github.com/bytedance/deer-flow) — 字节 DeerFlow 出品：结构化 Prompt + 参考图引导，调用 Gemini Veo / MiniMax 生成 AIGC 视频  
   标签：AI 视频 / AIGC / 视频生成 / Veo
+- [故事转手绘动画](https://github.com/gnipbao/story-to-handdrawn-video) — gnipbao 出品：把中文故事/图片一键变成 3:4 竖屏手绘日记漫画动画（Remotion）  
+  标签：手绘动画 / 故事视频 / Remotion / 漫画
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
