@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-24 21:08:21
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-25 18:15:27
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（283 个条目 / 16 个分类）
+## 📑 内容导航（290 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -74,6 +74,8 @@
   标签：PPT / 中文模板 / python-pptx / 可编辑
 - [麦肯锡 PPT 设计系统](https://github.com/likaku/Mck-ppt-design-skill) — likaku 出品：python-pptx 驱动的咨询级 PPT 引擎，67 个高阶方法 + 机读门禁防崩  
   标签：PPT / 麦肯锡 / python-pptx / 咨询
+- [学术 PPT 结构师](https://github.com/Gabberflast/academic-pptx-skill) — 专为学术场景设计的 PPT 技能：强制行动标题、结构化论证、引用规范与沟通优先设计  
+  标签：学术PPT / 论文答辩 / 演讲
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -184,6 +186,8 @@
   标签：配图 / 手绘 / 中文内容 / 小黑IP
 - [GPT Image 2 生图](https://github.com/wuyoscar/gpt_image_2_skill) — wuyoscar 出品：围绕 GPT Image 2 的提示词画廊 + CLI 生图/编辑技能，覆盖海报、UI、图表、中文文字  
   标签：GPT Image 2 / 图像生成 / 提示词 / UI配图
+- [Banana 图像创意总监](https://github.com/AgriciDaniel/banana-claude) — Claude 化身创意总监，用 Google Gemini Nano Banana 生成/编辑图片，自带 5 要素提示词公式与 2500+ 提示词库  
+  标签：AI绘画 / Gemini / 创意总监
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -220,6 +224,10 @@
   标签：科研配图 / 示意图 / 神经网络 / AI 生图
 - [Diagram Design](https://github.com/cathrynlavery/diagram-design/tree/main/skills/diagram-design) — 27 种编辑级图解：自包含 HTML+SVG，无阴影、无 Mermaid 味  
   标签：Diagram / SVG / HTML / 架构图 / 信息图
+- [Archify 架构图](https://github.com/tt-a1i/archify) — 用自然语言或 Mermaid 生成可交互架构/流程/时序/数据流图，深色浅色一键切换并导出多格式  
+  标签：架构图 / SVG / HTML
+- [Pretty Mermaid 美化](https://github.com/imxv/Pretty-mermaid-skills) — 把 Mermaid 语法渲染成 15+ 主题的美观 SVG/PNG/ASCII 图，本地运行无需浏览器  
+  标签：Mermaid / 图表 / SVG
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -270,6 +278,8 @@
   标签：反AI味 / 前端 / 落地页 / 设计系统
 - [设计奖项匹配](https://github.com/SeanJ1ang/design-judge-skills) — SeanJ1ang 出品：把设计项目匹配到 iF/红点/IDEA 等奖项并给出申报优先级与风险  
   标签：设计奖项 / 红点 / iF / 申报
+- [Effective HTML 原型](https://github.com/plannotator/effective-html) — 生成自包含、响应式、可交互的 HTML 原型/线框，附真实状态与键盘可达性，无需构建工具  
+  标签：HTML原型 / UI / 交互
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -504,6 +514,8 @@
   标签：AI 视频 / AIGC / 视频生成 / Veo
 - [故事转手绘动画](https://github.com/gnipbao/story-to-handdrawn-video) — gnipbao 出品：把中文故事/图片一键变成 3:4 竖屏手绘日记漫画动画（Remotion）  
   标签：手绘动画 / 故事视频 / Remotion / 漫画
+- [Pexo AI 视频工厂](https://github.com/pexoai/pexo-skills) — 对话即视频：自动跨 10+ 模型选型，输出含配乐/字幕/唇形同步的成片，覆盖产品广告到社媒短视频  
+  标签：AI视频 / 文生视频 / 多模型
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -593,6 +605,8 @@
   标签：学术论文 / ML / 引用校验 / LaTeX
 - [科研论文写作](https://github.com/Master-cai/Research-Paper-Writing-Skills) — Master-cai 出品：把 ML/CV/NLP 论文改写成审稿友好、逻辑清晰、claim-evidence 对齐的高质量稿  
   标签：学术论文 / ML / 审稿 / LaTeX
+- [NotebookLM 研究写作](https://github.com/claude-world/notebooklm-skill) — 把 NotebookLM 的溯源研究能力接进 Claude：URL/PDF/热点 → 结构化研究 → 成稿与多平台内容  
+  标签：研究 / NotebookLM / 内容生成
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
