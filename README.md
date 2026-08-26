@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-26 02:34:53
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-26 18:13:22
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（290 个条目 / 16 个分类）
+## 📑 内容导航（298 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -76,6 +76,10 @@
   标签：PPT / 麦肯锡 / python-pptx / 咨询
 - [学术 PPT 结构师](https://github.com/Gabberflast/academic-pptx-skill) — 专为学术场景设计的 PPT 技能：强制行动标题、结构化论证、引用规范与沟通优先设计  
   标签：学术PPT / 论文答辩 / 演讲
+- [PPT Image First](https://github.com/NyxTides/ppt-image-first) — 对话优先的 image-first PPT 规划，先出风格预览再生成  
+  标签：PPT / 图像优先 / 演示 / 规划
+- [图片转可编辑 PPT](https://github.com/ningzimu/image-to-editable-ppt-skill) — 把幻灯片图片/扫描件/PDF 重建成对象级可编辑 .pptx  
+  标签：PPT / PPTX / 可编辑 / 重建
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -188,6 +192,12 @@
   标签：GPT Image 2 / 图像生成 / 提示词 / UI配图
 - [Banana 图像创意总监](https://github.com/AgriciDaniel/banana-claude) — Claude 化身创意总监，用 Google Gemini Nano Banana 生成/编辑图片，自带 5 要素提示词公式与 2500+ 提示词库  
   标签：AI绘画 / Gemini / 创意总监
+- [IP as Logo](https://github.com/s1dashu/ip-as-logo-skill) — 极简可爱 IP 角色 logo 生成：圆润重形 + 双色 + 角落构图  
+  标签：Logo / IP形象 / 图像生成 / 品牌
+- [女性人像提示词导演](https://github.com/liyue-aigc/female-portrait-director) — 模块化 AI 女性人像提示词导演，20+ 风格路由 + 像素级扩写  
+  标签：人像 / 提示词 / 图像生成 / 摄影
+- [极简 Zine 海报](https://github.com/LiamGvchi/gc-minimal-zine-poster) — 诗性纸质极简海报生成：大留白 + 实验排版 + 单一强调色  
+  标签：海报 / 图像生成 / 排版 / 设计
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -387,6 +397,8 @@
   标签：网页演示 / 口播稿 / 录屏 / 全链路
 - [乔木智能视频导演](https://github.com/joeseesun/qiaomu-cut-skill) — 向阳乔木出品：把一句话需求转成可溯源、可验收的视频工程（剪辑/字幕/配音/质检）  
   标签：视频剪辑 / 字幕 / 配音 / 导演
+- [AI 自动剪辑 Vlog](https://github.com/znyupup/ai-video-editing-skill) — 从原始旅行素材到成品 Vlog 的 7 阶段自动剪辑工作流  
+  标签：视频剪辑 / Vlog / ffmpeg / 自动化
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -516,6 +528,8 @@
   标签：手绘动画 / 故事视频 / Remotion / 漫画
 - [Pexo AI 视频工厂](https://github.com/pexoai/pexo-skills) — 对话即视频：自动跨 10+ 模型选型，输出含配乐/字幕/唇形同步的成片，覆盖产品广告到社媒短视频  
   标签：AI视频 / 文生视频 / 多模型
+- [真实感视频提示词](https://github.com/zhouwei713/seedance-prompt) — 为 Seedance/Kling/Sora 等撰写去 AI 感的真实纪录片质感视频提示词  
+  标签：视频提示词 / Seedance / 去AI感 / AI视频
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -691,6 +705,8 @@
   标签：文案 / 营销 / 转化 / 落地页
 - [DBS 内容创作诊断](https://github.com/dontbesilent2025/dbskill) — dontbesilent 出品：中文内容创作诊断方法论，帮用户把一个确定选题做成好内容（方向/形式/表达）  
   标签：内容诊断 / 中文创作 / 选题 / 方法论
+- [Deep Research](https://github.com/199-biotechnologies/claude-deep-research-skill) — 多源引用追踪的深度研究，结构化报告生成（8 阶段）  
+  标签：深度研究 / 调研 / 报告 / 引用追踪
 
 
 ---

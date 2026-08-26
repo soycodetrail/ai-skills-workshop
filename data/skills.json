@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T02:34:53.248Z",
+  "updatedAt": "2026-08-26T18:13:22.692Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -4278,6 +4278,134 @@
       "bg": "",
       "tool": "video",
       "hot": 773
+    },
+    {
+      "name": "IP as Logo",
+      "desc": "极简可爱 IP 角色 logo 生成：圆润重形 + 双色 + 角落构图",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "category": "image-gen",
+      "tags": [
+        "Logo",
+        "IP形象",
+        "图像生成",
+        "品牌"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 4366
+    },
+    {
+      "name": "女性人像提示词导演",
+      "desc": "模块化 AI 女性人像提示词导演，20+ 风格路由 + 像素级扩写",
+      "url": "https://github.com/liyue-aigc/female-portrait-director",
+      "category": "image-gen",
+      "tags": [
+        "人像",
+        "提示词",
+        "图像生成",
+        "摄影"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1396
+    },
+    {
+      "name": "极简 Zine 海报",
+      "desc": "诗性纸质极简海报生成：大留白 + 实验排版 + 单一强调色",
+      "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
+      "category": "image-gen",
+      "tags": [
+        "海报",
+        "图像生成",
+        "排版",
+        "设计"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 6665
+    },
+    {
+      "name": "PPT Image First",
+      "desc": "对话优先的 image-first PPT 规划，先出风格预览再生成",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "图像优先",
+        "演示",
+        "规划"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1197
+    },
+    {
+      "name": "图片转可编辑 PPT",
+      "desc": "把幻灯片图片/扫描件/PDF 重建成对象级可编辑 .pptx",
+      "url": "https://github.com/ningzimu/image-to-editable-ppt-skill",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "PPTX",
+        "可编辑",
+        "重建"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 2179
+    },
+    {
+      "name": "Deep Research",
+      "desc": "多源引用追踪的深度研究，结构化报告生成（8 阶段）",
+      "url": "https://github.com/199-biotechnologies/claude-deep-research-skill",
+      "category": "methodology",
+      "tags": [
+        "深度研究",
+        "调研",
+        "报告",
+        "引用追踪"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1001
+    },
+    {
+      "name": "真实感视频提示词",
+      "desc": "为 Seedance/Kling/Sora 等撰写去 AI 感的真实纪录片质感视频提示词",
+      "url": "https://github.com/zhouwei713/seedance-prompt",
+      "category": "ai-video",
+      "tags": [
+        "视频提示词",
+        "Seedance",
+        "去AI感",
+        "AI视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 312
+    },
+    {
+      "name": "AI 自动剪辑 Vlog",
+      "desc": "从原始旅行素材到成品 Vlog 的 7 阶段自动剪辑工作流",
+      "url": "https://github.com/znyupup/ai-video-editing-skill",
+      "category": "fullstack",
+      "tags": [
+        "视频剪辑",
+        "Vlog",
+        "ffmpeg",
+        "自动化"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 111
     }
   ],
   "categories": [
