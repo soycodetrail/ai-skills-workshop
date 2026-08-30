@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-27 13:23:56
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-30 18:14:41
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 
-## 📑 内容导航（298 个条目 / 16 个分类）
+## 📑 内容导航（310 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -80,6 +80,8 @@
   标签：PPT / 图像优先 / 演示 / 规划
 - [图片转可编辑 PPT](https://github.com/ningzimu/image-to-editable-ppt-skill) — 把幻灯片图片/扫描件/PDF 重建成对象级可编辑 .pptx  
   标签：PPT / PPTX / 可编辑 / 重建
+- [Codex Slides 幻灯工作台](https://github.com/nexu-io/codex-slides) — 在 Codex 里开一个 Browser-first 的幻灯工作台：研究、改稿、换皮、演示、导出一站式  
+  标签：PPT / 幻灯片 / Codex / 品牌设计系统
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -137,6 +139,8 @@
   标签：动画
 - [Text-to-Lottie](https://github.com/diffusionstudio/lottie/tree/main/skills/text-to-lottie) — 自然语言生成生产级 Lottie 动画 JSON（YC 孵化 Diffusion Studio）  
   标签：Lottie / 动效 / SVG / 矢量动画 / Web
+- [ScrollCraft 滚动叙事站](https://github.com/nateherkai/scroll-craft) — 把品牌做成 Apple 式滚动驱动体验：滚轮即时间轴，视频逐帧擦除、区块钉住推进  
+  标签：滚动叙事 / 落地页 / 动效 / 语义 HTML
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
@@ -198,6 +202,8 @@
   标签：人像 / 提示词 / 图像生成 / 摄影
 - [极简 Zine 海报](https://github.com/LiamGvchi/gc-minimal-zine-poster) — 诗性纸质极简海报生成：大留白 + 实验排版 + 单一强调色  
   标签：海报 / 图像生成 / 排版 / 设计
+- [FLUX 3 商品广告图（BFL 官方）](https://github.com/black-forest-labs/skills) — Black Forest Labs 官方技能：用 FLUX 3 产出可投放的商品广告视觉  
+  标签：FLUX / 商品图 / 广告创意 / 官方
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -251,6 +257,8 @@
   标签：合集 / 信息图 / 封面 / 幻灯片
 - [Vega 数据图表](https://github.com/markdown-viewer/skills) — Markdown Viewer 出品：用 Vega-Lite / Vega 在 Markdown 里生成可渲染统计图表  
   标签：数据可视化 / Vega / Vega-Lite / 图表
+- [Lieflat Charts 图表品味法典](https://github.com/larashero3-dotcom/lieflat-charts) — 模板驱动的中文数据可视化：一句人话换一张能直接发出去的单文件图表  
+  标签：数据可视化 / 图表 / 单文件 HTML / 报告
 
 <a id="cat-设计-ui" name="cat-设计-ui"></a>
 
@@ -290,6 +298,10 @@
   标签：设计奖项 / 红点 / iF / 申报
 - [Effective HTML 原型](https://github.com/plannotator/effective-html) — 生成自包含、响应式、可交互的 HTML 原型/线框，附真实状态与键盘可达性，无需构建工具  
   标签：HTML原型 / UI / 交互
+- [宝玉 Design（本地版 Claude Design）](https://github.com/JimLiu/baoyu-design) — 把 Claude Design 的整套设计方法论搬到本地跑，产出自包含 HTML 设计稿  
+  标签：设计 / UI 原型 / HTML / 设计系统
+- [Design DNA 设计基因提取](https://github.com/zanwei/design-dna) — 把参考 UI（截图 / 图片 / URL）反解成可量化的三维设计基因 JSON，再据此生成新设计  
+  标签：设计系统 / Design Token / 风格提取 / WebGL
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -339,6 +351,8 @@
   标签：Remotion / React / 编程视频
 - [Upgrade Remotion](https://github.com/remotion-dev/skills) — Upgrade Remotion, and related packages  
   标签：Remotion / React / 编程视频
+- [Video Explainer（Remotion 带闸门）](https://github.com/runesleo/claude-video-kit) — brief/脚本 → 审查回执 → 渲染 → 本地校验的 9:16 解说视频 Remotion 流水线  
+  标签：Remotion / 解说视频 / 9:16 / 本地渲染
 
 <a id="cat-提示词-导演" name="cat-提示词-导演"></a>
 
@@ -368,6 +382,8 @@
   标签：导演
 - [AI Motion Director](https://github.com/Pluviobyte/video-production-skills/tree/main/ai-motion-director) — 用镜头语言系统做 AI 视频：运动隐喻 + 节拍图 + 组件调度  
   标签：视频导演 / 运动设计 / Remotion / 分镜
+- [HyperFrames 动效导演（中文优先）](https://github.com/geekjourneyx/hyperframes-motion-director) — 把中文文章 / 产品资料导演成 HyperFrames 动效视频的提示词与镜头方案  
+  标签：动效视频 / 导演 / 提示词 / 中文优先
 
 <a id="cat-全链路" name="cat-全链路"></a>
 
@@ -399,6 +415,8 @@
   标签：视频剪辑 / 字幕 / 配音 / 导演
 - [AI 自动剪辑 Vlog](https://github.com/znyupup/ai-video-editing-skill) — 从原始旅行素材到成品 Vlog 的 7 阶段自动剪辑工作流  
   标签：视频剪辑 / Vlog / ffmpeg / 自动化
+- [AI 短剧制作（全链路）](https://github.com/zenstory-ai/drama-skills) — 小说拆解 → 剧本 → 资产 → 分镜 → 图/视频提示词 → 独立审查的短剧流水线  
+  标签：短剧 / 分镜 / 剧本 / 全链路
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -621,6 +639,8 @@
   标签：学术论文 / ML / 审稿 / LaTeX
 - [NotebookLM 研究写作](https://github.com/claude-world/notebooklm-skill) — 把 NotebookLM 的溯源研究能力接进 Claude：URL/PDF/热点 → 结构化研究 → 成稿与多平台内容  
   标签：研究 / NotebookLM / 内容生成
+- [DeepPaperNote 论文精读笔记](https://github.com/917Dhj/DeepPaperNote) — 给一个 DOI / arXiv / PDF，产出结构扎实、带证据与图位的 Obsidian 精读笔记  
+  标签：论文精读 / Obsidian / Markdown / 科研
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -668,6 +688,10 @@
   标签：去AI味
 - [Stop Slop 去 AI 味](https://github.com/hardikpandya/stop-slop) — 基于 Wikipedia AI 写作特征指南，系统性剔除 AI 腔与套路化表达  
   标签：去AI味 / 写作 / 编辑 / 英文
+- [im-not-ai 韩语去 AI 味](https://github.com/epoko77-ai/im-not-ai) — 韩语 AI 文本人工润色：识别翻译腔与机械句式，改写成真人笔触  
+  标签：去 AI 味 / 韩语 / 润色 / 出海内容
+- [Sepia 去 AI 味（叙事 + 职场双通道）](https://github.com/Nanako0129/sepia) — 基于 StoryScope 论文的去 AI 味 skill：小说走叙事结构修复，职场文走领域规则  
+  标签：去 AI 味 / 叙事结构 / 技术写作 / 论文支撑
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
