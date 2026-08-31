@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-31 08:20:13
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-31 18:10:03
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（310 个条目 / 16 个分类）
+## 📑 内容导航（315 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -245,6 +245,8 @@
   标签：架构图 / SVG / HTML
 - [Pretty Mermaid 美化](https://github.com/imxv/Pretty-mermaid-skills) — 把 Mermaid 语法渲染成 15+ 主题的美观 SVG/PNG/ASCII 图，本地运行无需浏览器  
   标签：Mermaid / 图表 / SVG
+- [SQL to ER 图](https://github.com/ystemsrx/sql_to_ER) — 从 SQL CREATE TABLE / DBML 一键生成 Chen 模型 ER 图，支持 drawio/svg/png 导出  
+  标签：ER图 / SQL / 数据库 / 架构图
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -303,6 +305,8 @@
   标签：设计 / UI 原型 / HTML / 设计系统
 - [Design DNA 设计基因提取](https://github.com/zanwei/design-dna) — 把参考 UI（截图 / 图片 / URL）反解成可量化的三维设计基因 JSON，再据此生成新设计  
   标签：设计系统 / Design Token / 风格提取 / WebGL
+- [tldraw 白板绘图](https://github.com/Agents365-ai/tldraw-skill) — 自然语言生成 tldraw 白板/流程图/架构图，本地导出 PNG/SVG  
+  标签：tldraw / 白板 / 流程图 / 架构图
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -354,6 +358,8 @@
   标签：Remotion / React / 编程视频
 - [Video Explainer（Remotion 带闸门）](https://github.com/runesleo/claude-video-kit) — brief/脚本 → 审查回执 → 渲染 → 本地校验的 9:16 解说视频 Remotion 流水线  
   标签：Remotion / 解说视频 / 9:16 / 本地渲染
+- [Video Talkcraft 口播视频](https://github.com/Vincentwei1021/video-talkcraft) — 中文口播稿 + 配音 → 字级时间戳 → Remotion 电影感成片，附 78 张动效配方卡  
+  标签：Remotion / 口播视频 / 解说视频 / 动效
 
 <a id="cat-提示词-导演" name="cat-提示词-导演"></a>
 
@@ -418,6 +424,10 @@
   标签：视频剪辑 / Vlog / ffmpeg / 自动化
 - [AI 短剧制作（全链路）](https://github.com/zenstory-ai/drama-skills) — 小说拆解 → 剧本 → 资产 → 分镜 → 图/视频提示词 → 独立审查的短剧流水线  
   标签：短剧 / 分镜 / 剧本 / 全链路
+- [OpenClip 视频高光提取](https://github.com/linzzzzzz/openclip) — 长视频/直播自动识别高光、生成字幕与带标题封面的短片段  
+  标签：视频剪辑 / 高光提取 / 字幕 / 短视频
+- [Faceless Shorts 生成式短视频](https://github.com/hassancs91/claude-faceless-shorts-creator) — 端到端生成式竖屏短视频：锁定角色 + 视频模型动画 + Remotion 合成 + 字级字幕  
+  标签：短视频 / 无脸视频 / Remotion / AI视频
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 

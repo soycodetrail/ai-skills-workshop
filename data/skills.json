@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T08:20:13.567Z",
+  "updatedAt": "2026-08-31T18:10:03.377Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -4598,6 +4598,86 @@
       "bg": "",
       "tool": "video",
       "hot": 117
+    },
+    {
+      "name": "Video Talkcraft 口播视频",
+      "desc": "中文口播稿 + 配音 → 字级时间戳 → Remotion 电影感成片，附 78 张动效配方卡",
+      "url": "https://github.com/Vincentwei1021/video-talkcraft",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "口播视频",
+        "解说视频",
+        "动效"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 356
+    },
+    {
+      "name": "SQL to ER 图",
+      "desc": "从 SQL CREATE TABLE / DBML 一键生成 Chen 模型 ER 图，支持 drawio/svg/png 导出",
+      "url": "https://github.com/ystemsrx/sql_to_ER",
+      "category": "diagram",
+      "tags": [
+        "ER图",
+        "SQL",
+        "数据库",
+        "架构图"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 185
+    },
+    {
+      "name": "tldraw 白板绘图",
+      "desc": "自然语言生成 tldraw 白板/流程图/架构图，本地导出 PNG/SVG",
+      "url": "https://github.com/Agents365-ai/tldraw-skill",
+      "category": "design",
+      "tags": [
+        "tldraw",
+        "白板",
+        "流程图",
+        "架构图"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 125
+    },
+    {
+      "name": "OpenClip 视频高光提取",
+      "desc": "长视频/直播自动识别高光、生成字幕与带标题封面的短片段",
+      "url": "https://github.com/linzzzzzz/openclip",
+      "category": "fullstack",
+      "tags": [
+        "视频剪辑",
+        "高光提取",
+        "字幕",
+        "短视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 554
+    },
+    {
+      "name": "Faceless Shorts 生成式短视频",
+      "desc": "端到端生成式竖屏短视频：锁定角色 + 视频模型动画 + Remotion 合成 + 字级字幕",
+      "url": "https://github.com/hassancs91/claude-faceless-shorts-creator",
+      "category": "fullstack",
+      "tags": [
+        "短视频",
+        "无脸视频",
+        "Remotion",
+        "AI视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 185
     }
   ],
   "categories": [
