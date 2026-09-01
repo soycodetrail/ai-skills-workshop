@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T03:27:09.179Z",
+  "updatedAt": "2026-09-01T18:14:17.649Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -4678,6 +4678,118 @@
       "bg": "",
       "tool": "video",
       "hot": 192
+    },
+    {
+      "name": "Bolt Slides",
+      "desc": "用任意 AI Agent 生成响应式、可交互的 React 网页演示（Bolt/Slidev 式翻页）",
+      "url": "https://github.com/stackblitz/bolt-slides",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "React",
+        "Slidev",
+        "交互演示"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 911
+    },
+    {
+      "name": "GPT Image Skill",
+      "desc": "在 Codex/Claude Code 用 ChatGPT 订阅额度生成/编辑 GPT 图像（透明背景/多图批处理）",
+      "url": "https://github.com/GENEXIS-AI/gpt-image-skill",
+      "category": "image-gen",
+      "tags": [
+        "GPT图像",
+        "文生图",
+        "图像编辑",
+        "ChatGPT"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 157
+    },
+    {
+      "name": "Kill AI Slop",
+      "desc": "一键扫描并清除网页/UI/文案里的「AI 味」（渐变、玻璃拟态、AI 文案套路等 35 类）",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "UI优化",
+        "文案",
+        "设计"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1099
+    },
+    {
+      "name": "Codebase to Course",
+      "desc": "把任意代码库变成美观、可交互的单页 HTML 课程（动画图解+测验+代码白话翻译）",
+      "url": "https://github.com/zarazhangrui/codebase-to-course",
+      "category": "methodology",
+      "tags": [
+        "课程生成",
+        "教学",
+        "交互文档",
+        "代码讲解"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 5501
+    },
+    {
+      "name": "学术论文写作·撰稿",
+      "desc": "从优化大纲系统撰写投稿级论文手稿，含章节/终稿双质量门控",
+      "url": "https://github.com/lishix520/academic-paper-skills",
+      "category": "longform",
+      "tags": [
+        "学术论文",
+        "写作",
+        "质量控制",
+        "投稿"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1239
+    },
+    {
+      "name": "学术论文写作·策略规划",
+      "desc": "三阶段战略规划论文选题与大纲（平台分析→文献缺口→审稿视角大纲）",
+      "url": "https://github.com/lishix520/academic-paper-skills",
+      "category": "longform",
+      "tags": [
+        "学术论文",
+        "选题",
+        "文献综述",
+        "大纲"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1239
+    },
+    {
+      "name": "Lanshu AI 主讲人视频",
+      "desc": "从主题/脚本+授权真人形象，产出可发布的 AI 主讲人视频（含字幕/口型/QA）",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "category": "fullstack",
+      "tags": [
+        "AI视频",
+        "主讲人",
+        "口型同步",
+        "全链路"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 990
     }
   ],
   "categories": [

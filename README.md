@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-01 03:27:09
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-01 18:14:17
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（315 个条目 / 16 个分类）
+## 📑 内容导航（322 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -83,6 +83,8 @@
   标签：PPT / PPTX / 可编辑 / 重建
 - [Codex Slides 幻灯工作台](https://github.com/nexu-io/codex-slides) — 在 Codex 里开一个 Browser-first 的幻灯工作台：研究、改稿、换皮、演示、导出一站式  
   标签：PPT / 幻灯片 / Codex / 品牌设计系统
+- [Bolt Slides](https://github.com/stackblitz/bolt-slides) — 用任意 AI Agent 生成响应式、可交互的 React 网页演示（Bolt/Slidev 式翻页）  
+  标签：PPT / React / Slidev / 交互演示
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -205,6 +207,8 @@
   标签：海报 / 图像生成 / 排版 / 设计
 - [FLUX 3 商品广告图（BFL 官方）](https://github.com/black-forest-labs/skills) — Black Forest Labs 官方技能：用 FLUX 3 产出可投放的商品广告视觉  
   标签：FLUX / 商品图 / 广告创意 / 官方
+- [GPT Image Skill](https://github.com/GENEXIS-AI/gpt-image-skill) — 在 Codex/Claude Code 用 ChatGPT 订阅额度生成/编辑 GPT 图像（透明背景/多图批处理）  
+  标签：GPT图像 / 文生图 / 图像编辑 / ChatGPT
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -428,6 +432,8 @@
   标签：视频剪辑 / 高光提取 / 字幕 / 短视频
 - [Faceless Shorts 生成式短视频](https://github.com/hassancs91/claude-faceless-shorts-creator) — 端到端生成式竖屏短视频：锁定角色 + 视频模型动画 + Remotion 合成 + 字级字幕  
   标签：短视频 / 无脸视频 / Remotion / AI视频
+- [Lanshu AI 主讲人视频](https://github.com/cclank/lanshu-create-ai-presenter-video) — 从主题/脚本+授权真人形象，产出可发布的 AI 主讲人视频（含字幕/口型/QA）  
+  标签：AI视频 / 主讲人 / 口型同步 / 全链路
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -652,6 +658,10 @@
   标签：研究 / NotebookLM / 内容生成
 - [DeepPaperNote 论文精读笔记](https://github.com/917Dhj/DeepPaperNote) — 给一个 DOI / arXiv / PDF，产出结构扎实、带证据与图位的 Obsidian 精读笔记  
   标签：论文精读 / Obsidian / Markdown / 科研
+- [学术论文写作·撰稿](https://github.com/lishix520/academic-paper-skills) — 从优化大纲系统撰写投稿级论文手稿，含章节/终稿双质量门控  
+  标签：学术论文 / 写作 / 质量控制 / 投稿
+- [学术论文写作·策略规划](https://github.com/lishix520/academic-paper-skills) — 三阶段战略规划论文选题与大纲（平台分析→文献缺口→审稿视角大纲）  
+  标签：学术论文 / 选题 / 文献综述 / 大纲
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -703,6 +713,8 @@
   标签：去 AI 味 / 韩语 / 润色 / 出海内容
 - [Sepia 去 AI 味（叙事 + 职场双通道）](https://github.com/Nanako0129/sepia) — 基于 StoryScope 论文的去 AI 味 skill：小说走叙事结构修复，职场文走领域规则  
   标签：去 AI 味 / 叙事结构 / 技术写作 / 论文支撑
+- [Kill AI Slop](https://github.com/yetone/kill-ai-slop) — 一键扫描并清除网页/UI/文案里的「AI 味」（渐变、玻璃拟态、AI 文案套路等 35 类）  
+  标签：去AI味 / UI优化 / 文案 / 设计
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
@@ -742,6 +754,8 @@
   标签：内容诊断 / 中文创作 / 选题 / 方法论
 - [Deep Research](https://github.com/199-biotechnologies/claude-deep-research-skill) — 多源引用追踪的深度研究，结构化报告生成（8 阶段）  
   标签：深度研究 / 调研 / 报告 / 引用追踪
+- [Codebase to Course](https://github.com/zarazhangrui/codebase-to-course) — 把任意代码库变成美观、可交互的单页 HTML 课程（动画图解+测验+代码白话翻译）  
+  标签：课程生成 / 教学 / 交互文档 / 代码讲解
 
 
 ---
