@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T17:11:17.345Z",
+  "updatedAt": "2026-09-02T18:10:54.890Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -4790,6 +4790,102 @@
       "bg": "",
       "tool": "video",
       "hot": 992
+    },
+    {
+      "name": "No AI Slop",
+      "desc": "消除 20+ 类通用 AI 写作套路，同时保留作者个人语言风格（petergyang，6.7k★）",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "英文",
+        "写作",
+        "humanizer"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 6690
+    },
+    {
+      "name": "Awesome Novel Agent",
+      "desc": "面向 Claude Code / OpenCode 的长篇小说创作技能：世界观、人物、章节、写作与去味闭环",
+      "url": "https://github.com/modoojunko/awesome-novel-agent",
+      "category": "longform",
+      "tags": [
+        "小说",
+        "长篇",
+        "创作",
+        "Novel"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 686
+    },
+    {
+      "name": "Violin 视频翻译",
+      "desc": "开源视频翻译技能：转录→翻译→母语级配音→字幕对齐重新封装（shang-zhu，1.1k★）",
+      "url": "https://github.com/shang-zhu/violin",
+      "category": "dubbing",
+      "tags": [
+        "视频翻译",
+        "配音",
+        "字幕",
+        "本地化"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1051
+    },
+    {
+      "name": "FireRed OpenStoryline",
+      "desc": "意图驱动的 AI 视频导演技能：自然语言描述→LLM 规划→精准工具编排（FireRedTeam，3.4k★）",
+      "url": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
+      "category": "prompting",
+      "tags": [
+        "视频导演",
+        "分镜",
+        "AI视频",
+        "提示词"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 3356
+    },
+    {
+      "name": "Emil Kowalski 设计动画技能合集",
+      "desc": "shadcn 作者 Emil Kowalski 的设计与动画技能库（动画/原型/UI 库/动效评审，34.8k★）",
+      "url": "https://github.com/emilkowalski/skills",
+      "category": "design",
+      "tags": [
+        "设计",
+        "动画",
+        "UI",
+        "原型"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 34828
+    },
+    {
+      "name": "Meng To 设计 UI 技能合集",
+      "desc": "DesignCode 作者 Meng To 的设计/UI/游戏/媒体 Agent 技能库（5.7k★）",
+      "url": "https://github.com/MengTo/skills",
+      "category": "design",
+      "tags": [
+        "设计系统",
+        "UI",
+        "Web",
+        "游戏"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 5736
     }
   ],
   "categories": [

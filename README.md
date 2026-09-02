@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-02 17:11:17
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-02 18:10:54
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（322 个条目 / 16 个分类）
+## 📑 内容导航（328 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -311,6 +311,10 @@
   标签：设计系统 / Design Token / 风格提取 / WebGL
 - [tldraw 白板绘图](https://github.com/Agents365-ai/tldraw-skill) — 自然语言生成 tldraw 白板/流程图/架构图，本地导出 PNG/SVG  
   标签：tldraw / 白板 / 流程图 / 架构图
+- [Emil Kowalski 设计动画技能合集](https://github.com/emilkowalski/skills) — shadcn 作者 Emil Kowalski 的设计与动画技能库（动画/原型/UI 库/动效评审，34.8k★）  
+  标签：设计 / 动画 / UI / 原型
+- [Meng To 设计 UI 技能合集](https://github.com/MengTo/skills) — DesignCode 作者 Meng To 的设计/UI/游戏/媒体 Agent 技能库（5.7k★）  
+  标签：设计系统 / UI / Web / 游戏
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -395,6 +399,8 @@
   标签：视频导演 / 运动设计 / Remotion / 分镜
 - [HyperFrames 动效导演（中文优先）](https://github.com/geekjourneyx/hyperframes-motion-director) — 把中文文章 / 产品资料导演成 HyperFrames 动效视频的提示词与镜头方案  
   标签：动效视频 / 导演 / 提示词 / 中文优先
+- [FireRed OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) — 意图驱动的 AI 视频导演技能：自然语言描述→LLM 规划→精准工具编排（FireRedTeam，3.4k★）  
+  标签：视频导演 / 分镜 / AI视频 / 提示词
 
 <a id="cat-全链路" name="cat-全链路"></a>
 
@@ -457,6 +463,8 @@
   标签：配音 / TTS / 翻译
 - [KrillinAI 配音](https://github.com/krillinai/KrillinAI) — AI Agent 视频配音技能：从 SRT 生成目标语言 TTS 配音与合成视频  
   标签：配音 / TTS / 视频本地化 / 多语言
+- [Violin 视频翻译](https://github.com/shang-zhu/violin) — 开源视频翻译技能：转录→翻译→母语级配音→字幕对齐重新封装（shang-zhu，1.1k★）  
+  标签：视频翻译 / 配音 / 字幕 / 本地化
 
 <a id="cat-字幕-配音" name="cat-字幕-配音"></a>
 
@@ -662,6 +670,8 @@
   标签：学术论文 / 写作 / 质量控制 / 投稿
 - [学术论文写作·策略规划](https://github.com/lishix520/academic-paper-skills) — 三阶段战略规划论文选题与大纲（平台分析→文献缺口→审稿视角大纲）  
   标签：学术论文 / 选题 / 文献综述 / 大纲
+- [Awesome Novel Agent](https://github.com/modoojunko/awesome-novel-agent) — 面向 Claude Code / OpenCode 的长篇小说创作技能：世界观、人物、章节、写作与去味闭环  
+  标签：小说 / 长篇 / 创作 / Novel
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -715,6 +725,8 @@
   标签：去 AI 味 / 叙事结构 / 技术写作 / 论文支撑
 - [Kill AI Slop](https://github.com/yetone/kill-ai-slop) — 一键扫描并清除网页/UI/文案里的「AI 味」（渐变、玻璃拟态、AI 文案套路等 35 类）  
   标签：去AI味 / UI优化 / 文案 / 设计
+- [No AI Slop](https://github.com/petergyang/no-ai-slop) — 消除 20+ 类通用 AI 写作套路，同时保留作者个人语言风格（petergyang，6.7k★）  
+  标签：去AI味 / 英文 / 写作 / humanizer
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
