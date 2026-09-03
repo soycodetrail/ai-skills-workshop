@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-03 17:06:27
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-03 18:14:44
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（328 个条目 / 16 个分类）
+## 📑 内容导航（333 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -251,6 +251,8 @@
   标签：Mermaid / 图表 / SVG
 - [SQL to ER 图](https://github.com/ystemsrx/sql_to_ER) — 从 SQL CREATE TABLE / DBML 一键生成 Chen 模型 ER 图，支持 drawio/svg/png 导出  
   标签：ER图 / SQL / 数据库 / 架构图
+- [Visual Explainer](https://github.com/nicobailon/visual-explainer) — 把终端里的复杂输出渲染成自包含 HTML 页面/幻灯片：架构图、diff 审查、计划比对、数据表、项目回顾，告别 ASCII 字符画。  
+  标签：Diagram / HTML / Mermaid / 架构图 / 可视化
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -440,6 +442,8 @@
   标签：短视频 / 无脸视频 / Remotion / AI视频
 - [Lanshu AI 主讲人视频](https://github.com/cclank/lanshu-create-ai-presenter-video) — 从主题/脚本+授权真人形象，产出可发布的 AI 主讲人视频（含字幕/口型/QA）  
   标签：AI视频 / 主讲人 / 口型同步 / 全链路
+- [Claude Shorts](https://github.com/AgriciDaniel/claude-shorts) — 把长视频自动剪成病毒式竖屏短视频：GPU 转写 + Claude 评分选段 + Remotion 渲染动态字幕，输出 Shorts/TikTok/Reels。  
+  标签：短视频 / 剪辑 / Remotion / 字幕 / Shorts
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -573,6 +577,8 @@
   标签：AI视频 / 文生视频 / 多模型
 - [真实感视频提示词](https://github.com/zhouwei713/seedance-prompt) — 为 Seedance/Kling/Sora 等撰写去 AI 感的真实纪录片质感视频提示词  
   标签：视频提示词 / Seedance / 去AI感 / AI视频
+- [Video Podcast Maker](https://github.com/Agents365-ai/video-podcast-maker) — 给一个主题就产出 4K 旁白讲解/播客/知识总结视频：研究→脚本→TTS→Remotion→MP4，覆盖 B站/YouTube/小红书/抖音/视频号。  
+  标签：AI 视频 / 播客 / 知识视频 / Remotion / TTS
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -768,6 +774,10 @@
   标签：深度研究 / 调研 / 报告 / 引用追踪
 - [Codebase to Course](https://github.com/zarazhangrui/codebase-to-course) — 把任意代码库变成美观、可交互的单页 HTML 课程（动画图解+测验+代码白话翻译）  
   标签：课程生成 / 教学 / 交互文档 / 代码讲解
+- [Paper Writing Skill](https://github.com/SNL-UCSB/paper-writing-skill) — 把论文写作方法论文成 Agent Skill：五阶段流水线 + 每步风格审查 + 独立红队 + 非数据图合成，规则源自 7600+ 次真实修订实证。  
+  标签：论文写作 / 方法论 / 学术 / 红队审查 / LaTeX
+- [Lit Search（高召回文献检索）](https://github.com/luwill/research-skills) — 把"把某方向近 N 年文献查全"做成可复现的检索工程：时间窗限定 + 质量分级 DOI 清单 + 可量化召回率，适合系统综述/开题。  
+  标签：文献检索 / 系统综述 / 研究方法 / DOI / 学术
 
 
 ---

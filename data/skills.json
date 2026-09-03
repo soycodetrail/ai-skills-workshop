@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T17:06:27.138Z",
+  "updatedAt": "2026-09-03T18:14:44.096Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -4886,6 +4886,91 @@
       "bg": "",
       "tool": "visual",
       "hot": 5743
+    },
+    {
+      "name": "Visual Explainer",
+      "desc": "把终端里的复杂输出渲染成自包含 HTML 页面/幻灯片：架构图、diff 审查、计划比对、数据表、项目回顾，告别 ASCII 字符画。",
+      "url": "https://github.com/nicobailon/visual-explainer",
+      "category": "diagram",
+      "tags": [
+        "Diagram",
+        "HTML",
+        "Mermaid",
+        "架构图",
+        "可视化"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 9637
+    },
+    {
+      "name": "Claude Shorts",
+      "desc": "把长视频自动剪成病毒式竖屏短视频：GPU 转写 + Claude 评分选段 + Remotion 渲染动态字幕，输出 Shorts/TikTok/Reels。",
+      "url": "https://github.com/AgriciDaniel/claude-shorts",
+      "category": "fullstack",
+      "tags": [
+        "短视频",
+        "剪辑",
+        "Remotion",
+        "字幕",
+        "Shorts"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 204
+    },
+    {
+      "name": "Video Podcast Maker",
+      "desc": "给一个主题就产出 4K 旁白讲解/播客/知识总结视频：研究→脚本→TTS→Remotion→MP4，覆盖 B站/YouTube/小红书/抖音/视频号。",
+      "url": "https://github.com/Agents365-ai/video-podcast-maker",
+      "category": "ai-video",
+      "tags": [
+        "AI 视频",
+        "播客",
+        "知识视频",
+        "Remotion",
+        "TTS"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1600
+    },
+    {
+      "name": "Paper Writing Skill",
+      "desc": "把论文写作方法论文成 Agent Skill：五阶段流水线 + 每步风格审查 + 独立红队 + 非数据图合成，规则源自 7600+ 次真实修订实证。",
+      "url": "https://github.com/SNL-UCSB/paper-writing-skill",
+      "category": "methodology",
+      "tags": [
+        "论文写作",
+        "方法论",
+        "学术",
+        "红队审查",
+        "LaTeX"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 181
+    },
+    {
+      "name": "Lit Search（高召回文献检索）",
+      "desc": "把\"把某方向近 N 年文献查全\"做成可复现的检索工程：时间窗限定 + 质量分级 DOI 清单 + 可量化召回率，适合系统综述/开题。",
+      "url": "https://github.com/luwill/research-skills",
+      "category": "methodology",
+      "tags": [
+        "文献检索",
+        "系统综述",
+        "研究方法",
+        "DOI",
+        "学术"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 827
     }
   ],
   "categories": [
