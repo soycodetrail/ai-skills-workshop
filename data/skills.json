@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T16:46:20.316Z",
+  "updatedAt": "2026-09-05T18:18:50.989Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -4971,6 +4971,102 @@
       "bg": "",
       "tool": "writing",
       "hot": 827
+    },
+    {
+      "name": "Nature Skills · 学术写作",
+      "desc": "符合 Nature 规范的学术写作与科研绘图技能集（20+ 子技能）",
+      "url": "https://github.com/Yuan1z0825/nature-skills",
+      "category": "longform",
+      "tags": [
+        "学术写作",
+        "Nature",
+        "论文",
+        "科研"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 39387
+    },
+    {
+      "name": "Supervisor Skills · 论文写作",
+      "desc": "港科广博导十年经验炼化的 AI 科研副导师（论文写作）",
+      "url": "https://github.com/HKUSTDial/Supervisor-Skills",
+      "category": "longform",
+      "tags": [
+        "论文写作",
+        "科研",
+        "博导",
+        "副导师"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 6578
+    },
+    {
+      "name": "ARIS · 论文写作",
+      "desc": "ARIS 自主科研技能集（86 子技能）· 论文写作",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "category": "methodology",
+      "tags": [
+        "科研自动化",
+        "论文写作",
+        "ML",
+        "ARIS"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 15753
+    },
+    {
+      "name": "Markdown Viewer · 信息图",
+      "desc": "Markdown 驱动的信息图与数据可视化技能",
+      "url": "https://github.com/markdown-viewer/skills",
+      "category": "dataviz",
+      "tags": [
+        "信息图",
+        "数据可视化",
+        "Markdown",
+        "图表"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 3286
+    },
+    {
+      "name": "SenseNova · 标准 PPT",
+      "desc": "SenseNova 办公智能体技能 · 标准 PPT 生成",
+      "url": "https://github.com/OpenSenseNova/SenseNova-Skills",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "演示",
+        "办公自动化",
+        "SenseNova"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 5381
+    },
+    {
+      "name": "VideoCut · 视频剪辑",
+      "desc": "用 Claude Code Skills 做的视频剪辑 Agent",
+      "url": "https://github.com/Agentchengfeng/chengfeng-videocut-skills",
+      "category": "fullstack",
+      "tags": [
+        "视频剪辑",
+        "Claude Code",
+        "全链路",
+        "ffmpeg"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 2972
     }
   ],
   "categories": [

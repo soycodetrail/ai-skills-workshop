@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-05 16:46:20
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-05 18:18:50
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（333 个条目 / 16 个分类）
+## 📑 内容导航（339 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -85,6 +85,8 @@
   标签：PPT / 幻灯片 / Codex / 品牌设计系统
 - [Bolt Slides](https://github.com/stackblitz/bolt-slides) — 用任意 AI Agent 生成响应式、可交互的 React 网页演示（Bolt/Slidev 式翻页）  
   标签：PPT / React / Slidev / 交互演示
+- [SenseNova · 标准 PPT](https://github.com/OpenSenseNova/SenseNova-Skills) — SenseNova 办公智能体技能 · 标准 PPT 生成  
+  标签：PPT / 演示 / 办公自动化 / SenseNova
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -268,6 +270,8 @@
   标签：数据可视化 / Vega / Vega-Lite / 图表
 - [Lieflat Charts 图表品味法典](https://github.com/larashero3-dotcom/lieflat-charts) — 模板驱动的中文数据可视化：一句人话换一张能直接发出去的单文件图表  
   标签：数据可视化 / 图表 / 单文件 HTML / 报告
+- [Markdown Viewer · 信息图](https://github.com/markdown-viewer/skills) — Markdown 驱动的信息图与数据可视化技能  
+  标签：信息图 / 数据可视化 / Markdown / 图表
 
 <a id="cat-设计-ui" name="cat-设计-ui"></a>
 
@@ -444,6 +448,8 @@
   标签：AI视频 / 主讲人 / 口型同步 / 全链路
 - [Claude Shorts](https://github.com/AgriciDaniel/claude-shorts) — 把长视频自动剪成病毒式竖屏短视频：GPU 转写 + Claude 评分选段 + Remotion 渲染动态字幕，输出 Shorts/TikTok/Reels。  
   标签：短视频 / 剪辑 / Remotion / 字幕 / Shorts
+- [VideoCut · 视频剪辑](https://github.com/Agentchengfeng/chengfeng-videocut-skills) — 用 Claude Code Skills 做的视频剪辑 Agent  
+  标签：视频剪辑 / Claude Code / 全链路 / ffmpeg
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -678,6 +684,10 @@
   标签：学术论文 / 选题 / 文献综述 / 大纲
 - [Awesome Novel Agent](https://github.com/modoojunko/awesome-novel-agent) — 面向 Claude Code / OpenCode 的长篇小说创作技能：世界观、人物、章节、写作与去味闭环  
   标签：小说 / 长篇 / 创作 / Novel
+- [Nature Skills · 学术写作](https://github.com/Yuan1z0825/nature-skills) — 符合 Nature 规范的学术写作与科研绘图技能集（20+ 子技能）  
+  标签：学术写作 / Nature / 论文 / 科研
+- [Supervisor Skills · 论文写作](https://github.com/HKUSTDial/Supervisor-Skills) — 港科广博导十年经验炼化的 AI 科研副导师（论文写作）  
+  标签：论文写作 / 科研 / 博导 / 副导师
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -778,6 +788,8 @@
   标签：论文写作 / 方法论 / 学术 / 红队审查 / LaTeX
 - [Lit Search（高召回文献检索）](https://github.com/luwill/research-skills) — 把"把某方向近 N 年文献查全"做成可复现的检索工程：时间窗限定 + 质量分级 DOI 清单 + 可量化召回率，适合系统综述/开题。  
   标签：文献检索 / 系统综述 / 研究方法 / DOI / 学术
+- [ARIS · 论文写作](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) — ARIS 自主科研技能集（86 子技能）· 论文写作  
+  标签：科研自动化 / 论文写作 / ML / ARIS
 
 
 ---
