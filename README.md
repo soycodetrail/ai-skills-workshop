@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-07 12:41:54
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-07 18:14:52
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（339 个条目 / 16 个分类）
+## 📑 内容导航（344 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -211,6 +211,8 @@
   标签：FLUX / 商品图 / 广告创意 / 官方
 - [GPT Image Skill](https://github.com/GENEXIS-AI/gpt-image-skill) — 在 Codex/Claude Code 用 ChatGPT 订阅额度生成/编辑 GPT 图像（透明背景/多图批处理）  
   标签：GPT图像 / 文生图 / 图像编辑 / ChatGPT
+- [OpenAI Image Gen](https://github.com/sundial-org/awesome-openclaw-skills) — 批量调用 OpenAI 图像 API 生成图片 + HTML 画廊  
+  标签：AI 生图 / OpenAI / 批量生成 / 图像 API / 画廊
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -374,6 +376,8 @@
   标签：Remotion / 解说视频 / 9:16 / 本地渲染
 - [Video Talkcraft 口播视频](https://github.com/Vincentwei1021/video-talkcraft) — 中文口播稿 + 配音 → 字级时间戳 → Remotion 电影感成片，附 78 张动效配方卡  
   标签：Remotion / 口播视频 / 解说视频 / 动效
+- [Remotion Video Toolkit](https://github.com/sundial-org/awesome-openclaw-skills) — 用 Remotion + React 程序化生成视频：动画/字幕/3D/图表/渲染全流程  
+  标签：Remotion / React / 视频生成 / 程序化视频 / 字幕
 
 <a id="cat-提示词-导演" name="cat-提示词-导演"></a>
 
@@ -500,6 +504,8 @@
   标签：字幕 / 视频 / 翻译 / Whisper
 - [VideoCut 字幕](https://github.com/zrt-ai-lab/opencode-skills/tree/main/videocut-subtitle) — Whisper 转录→纠错→烧录：中文视频字幕一条龙（FFmpeg）  
   标签：字幕 / Whisper / 转录 / FFmpeg / 视频
+- [Video Subtitles](https://github.com/sundial-org/awesome-openclaw-skills) — 音视频转 SRT 字幕 + 翻译 + 硬字幕烧录  
+  标签：字幕 / 转写 / 翻译 / Whisper / 硬字幕
 
 <a id="cat-ai-视频" name="cat-ai-视频"></a>
 
@@ -585,6 +591,8 @@
   标签：视频提示词 / Seedance / 去AI感 / AI视频
 - [Video Podcast Maker](https://github.com/Agents365-ai/video-podcast-maker) — 给一个主题就产出 4K 旁白讲解/播客/知识总结视频：研究→脚本→TTS→Remotion→MP4，覆盖 B站/YouTube/小红书/抖音/视频号。  
   标签：AI 视频 / 播客 / 知识视频 / Remotion / TTS
+- [AI Video Gen](https://github.com/sundial-org/awesome-openclaw-skills) — 端到端 AI 视频生成：图文生视频 + 配音 + FFmpeg 剪辑  
+  标签：AI 视频 / 文生视频 / 配音 / Runway / FFmpeg
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -688,6 +696,8 @@
   标签：学术写作 / Nature / 论文 / 科研
 - [Supervisor Skills · 论文写作](https://github.com/HKUSTDial/Supervisor-Skills) — 港科广博导十年经验炼化的 AI 科研副导师（论文写作）  
   标签：论文写作 / 科研 / 博导 / 副导师
+- [Chapter Writing](https://github.com/danjdewhurst/story-skills) — 大纲优先的小说章节写作：跨角色/世界观/剧情保持一致性  
+  标签：小说写作 / 章节 / 大纲优先 / 一致性 / 故事工程
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
