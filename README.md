@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-08 12:53:03
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-08 18:11:58
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（344 个条目 / 16 个分类）
+## 📑 内容导航（349 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -323,6 +323,8 @@
   标签：设计 / 动画 / UI / 原型
 - [Meng To 设计 UI 技能合集](https://github.com/MengTo/skills) — DesignCode 作者 Meng To 的设计/UI/游戏/媒体 Agent 技能库（5.7k★）  
   标签：设计系统 / UI / Web / 游戏
+- [UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — 内置 79 风格/192 调色板/119 UX 准则的本地可检索设计智能  
+  标签：UI 设计 / UX 准则 / 设计系统 / 调色板 / 可访问性 / 图表
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -454,6 +456,8 @@
   标签：短视频 / 剪辑 / Remotion / 字幕 / Shorts
 - [VideoCut · 视频剪辑](https://github.com/Agentchengfeng/chengfeng-videocut-skills) — 用 Claude Code Skills 做的视频剪辑 Agent  
   标签：视频剪辑 / Claude Code / 全链路 / ffmpeg
+- [YouTube Clipper](https://github.com/op7418/Youtube-clipper-skill) — 长视频一键智能剪辑：AI 章节分析 + 双语字幕烧录 + 社媒文案  
+  标签：YouTube / 视频剪辑 / 字幕翻译 / 双语字幕 / 短视频 / FFmpeg
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -506,6 +510,8 @@
   标签：字幕 / Whisper / 转录 / FFmpeg / 视频
 - [Video Subtitles](https://github.com/sundial-org/awesome-openclaw-skills) — 音视频转 SRT 字幕 + 翻译 + 硬字幕烧录  
   标签：字幕 / 转写 / 翻译 / Whisper / 硬字幕
+- [BibiGPT 视频总结](https://github.com/JimmyLv/bibigpt-skill) — 跨 30+ 平台视频/音频总结转写，并一键重制成 TikTok 竖屏 MV  
+  标签：视频总结 / 字幕提取 / 播客笔记 / B 站 / TikTok
 
 <a id="cat-ai-视频" name="cat-ai-视频"></a>
 
@@ -593,6 +599,8 @@
   标签：AI 视频 / 播客 / 知识视频 / Remotion / TTS
 - [AI Video Gen](https://github.com/sundial-org/awesome-openclaw-skills) — 端到端 AI 视频生成：图文生视频 + 配音 + FFmpeg 剪辑  
   标签：AI 视频 / 文生视频 / 配音 / Runway / FFmpeg
+- [Narrator AI 解说大师](https://github.com/jieshuo-ai/narrator-ai-cli-skill) — 电影/短剧解说视频全自动成片：搜片→模板→配音→文案→合成  
+  标签：电影解说 / 短剧 / AI 配音 / 视频合成 / 影视二创
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -800,6 +808,8 @@
   标签：文献检索 / 系统综述 / 研究方法 / DOI / 学术
 - [ARIS · 论文写作](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) — ARIS 自主科研技能集（86 子技能）· 论文写作  
   标签：科研自动化 / 论文写作 / ML / ARIS
+- [X Article Publisher](https://github.com/wshuyi/x-article-publisher-skill) — Markdown 一键发布到 X 长文：富文本转换 + 封面/配图精准定位  
+  标签：X 长文 / Markdown 发布 / 富文本 / 内容分发 / 自媒体
 
 
 ---
