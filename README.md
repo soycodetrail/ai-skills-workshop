@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-10 08:18:25
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-10 18:15:17
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（349 个条目 / 16 个分类）
+## 📑 内容导航（355 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -325,6 +325,10 @@
   标签：设计系统 / UI / Web / 游戏
 - [UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — 内置 79 风格/192 调色板/119 UX 准则的本地可检索设计智能  
   标签：UI 设计 / UX 准则 / 设计系统 / 调色板 / 可访问性 / 图表
+- [Vercel Web 设计指南](https://github.com/vercel-labs/agent-skills) — 按 Vercel Web Interface Guidelines 审查 UI 代码的设计/可访问性合规  
+  标签：Web Design / UI audit / A11Y / Vercel
+- [MuAPI Logo 品牌包](https://github.com/samuraigpt/generative-media-skills) — 生成含主标/变体/配色/应用场景样机的专业 Logo 品牌包  
+  标签：Logo / 品牌 / 视觉设计 / Branding
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -413,6 +417,8 @@
   标签：动效视频 / 导演 / 提示词 / 中文优先
 - [FireRed OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) — 意图驱动的 AI 视频导演技能：自然语言描述→LLM 规划→精准工具编排（FireRedTeam，3.4k★）  
   标签：视频导演 / 分镜 / AI视频 / 提示词
+- [Seedance 爆款短片提示词](https://github.com/rediumvex/ai-video-generator-claude) — 为 Seedance 2.0 生成刷屏级短视频钩子与分镜提示词  
+  标签：短视频 / 提示词 / Seedance / TikTok
 
 <a id="cat-全链路" name="cat-全链路"></a>
 
@@ -483,6 +489,8 @@
   标签：配音 / TTS / 视频本地化 / 多语言
 - [Violin 视频翻译](https://github.com/shang-zhu/violin) — 开源视频翻译技能：转录→翻译→母语级配音→字幕对齐重新封装（shang-zhu，1.1k★）  
   标签：视频翻译 / 配音 / 字幕 / 本地化
+- [Noiz AI 视频翻译配音](https://github.com/noizai/skills) — 下载视频→翻译字幕→声音克隆配音→自动对齐并保留原背景音  
+  标签：配音 / 字幕 / 翻译 / Dubbing
 
 <a id="cat-字幕-配音" name="cat-字幕-配音"></a>
 
@@ -601,6 +609,8 @@
   标签：AI 视频 / 文生视频 / 配音 / Runway / FFmpeg
 - [Narrator AI 解说大师](https://github.com/jieshuo-ai/narrator-ai-cli-skill) — 电影/短剧解说视频全自动成片：搜片→模板→配音→文案→合成  
   标签：电影解说 / 短剧 / AI 配音 / 视频合成 / 影视二创
+- [OpenMontage AI 视频生成](https://github.com/calesthio/openmontage) — 接入 VEO/Kling/Sora/Runway/Seedance 等网关的文生视频技能  
+  标签：AI 视频 / 文生视频 / 图生视频 / Video
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -706,6 +716,8 @@
   标签：论文写作 / 科研 / 博导 / 副导师
 - [Chapter Writing](https://github.com/danjdewhurst/story-skills) — 大纲优先的小说章节写作：跨角色/世界观/剧情保持一致性  
   标签：小说写作 / 章节 / 大纲优先 / 一致性 / 故事工程
+- [InkOS 小说创作](https://github.com/narcooo/inkos) — 多智能体长篇网文创作 Agent：规划/写作/审核/修订全流程接管  
+  标签：小说 / 长篇小说 / 网文 / 多智能体
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
