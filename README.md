@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-10 21:19:39
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-11 18:18:01
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（355 个条目 / 16 个分类）
+## 📑 内容导航（360 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -213,6 +213,10 @@
   标签：GPT图像 / 文生图 / 图像编辑 / ChatGPT
 - [OpenAI Image Gen](https://github.com/sundial-org/awesome-openclaw-skills) — 批量调用 OpenAI 图像 API 生成图片 + HTML 画廊  
   标签：AI 生图 / OpenAI / 批量生成 / 图像 API / 画廊
+- [Book Illustrator 童书插画](https://github.com/jamesrochabrun/skills) — 专家级童书插画指南，按年龄段/色彩/角色设计产出风格一致的章节插画  
+  标签：插画 / 童书 / 图像生成 / Illustration
+- [Soviet Storybook 复古插画](https://github.com/agentara/skills) — 把照片变成粗粝幽默的 80 年代东欧童书插画，自带荒诞手写英文打油诗  
+  标签：插画 / 照片转绘 / 复古 / 艺术风格
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -329,6 +333,8 @@
   标签：Web Design / UI audit / A11Y / Vercel
 - [MuAPI Logo 品牌包](https://github.com/samuraigpt/generative-media-skills) — 生成含主标/变体/配色/应用场景样机的专业 Logo 品牌包  
   标签：Logo / 品牌 / 视觉设计 / Branding
+- [Claude Design 专家](https://github.com/jiji262/claude-design-skill) — 把 Claude 变成专家级 HTML 设计器，一键产出落地页/幻灯片/原型/动画/海报  
+  标签：设计 / HTML / 原型 / 海报 / Landing Page
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -611,6 +617,8 @@
   标签：电影解说 / 短剧 / AI 配音 / 视频合成 / 影视二创
 - [OpenMontage AI 视频生成](https://github.com/calesthio/openmontage) — 接入 VEO/Kling/Sora/Runway/Seedance 等网关的文生视频技能  
   标签：AI 视频 / 文生视频 / 图生视频 / Video
+- [Flyworks 数字人视频](https://github.com/freestylefly/canghe-skills) — 用 Flyworks/HiFly 数字人把照片变成会说话的视频，支持公共形象 TTS 与声音克隆  
+  标签：数字人 / 口播视频 / AI 视频 / TTS
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -822,6 +830,8 @@
   标签：科研自动化 / 论文写作 / ML / ARIS
 - [X Article Publisher](https://github.com/wshuyi/x-article-publisher-skill) — Markdown 一键发布到 X 长文：富文本转换 + 封面/配图精准定位  
   标签：X 长文 / Markdown 发布 / 富文本 / 内容分发 / 自媒体
+- [Viral Short-Form 短视频爆款](https://github.com/vyralcontent/content-skills) — 为 TikTok/Reels/Shorts 批量构思爆款钩子与脚本，按留存结构（钩子、升级、回报、CTA）写作  
+  标签：短视频 / 脚本 / 爆款 / 内容创作 / 钩子
 
 
 ---
