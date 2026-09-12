@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-12 15:08:21
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-12 18:15:28
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（360 个条目 / 16 个分类）
+## 📑 内容导航（366 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -217,6 +217,8 @@
   标签：插画 / 童书 / 图像生成 / Illustration
 - [Soviet Storybook 复古插画](https://github.com/agentara/skills) — 把照片变成粗粝幽默的 80 年代东欧童书插画，自带荒诞手写英文打油诗  
   标签：插画 / 照片转绘 / 复古 / 艺术风格
+- [GitHub Generate Image](https://github.com/github/awesome-copilot) — GitHub 官方图像生成技能：用自然语言生成、编辑图标/插画/纹理/视觉素材，支持 gpt-image-2 等后端  
+  标签：图像生成 / AI 绘图 / 图标 / 素材
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -261,6 +263,8 @@
   标签：ER图 / SQL / 数据库 / 架构图
 - [Visual Explainer](https://github.com/nicobailon/visual-explainer) — 把终端里的复杂输出渲染成自包含 HTML 页面/幻灯片：架构图、diff 审查、计划比对、数据表、项目回顾，告别 ASCII 字符画。  
   标签：Diagram / HTML / Mermaid / 架构图 / 可视化
+- [GitHub Excalidraw 图表生成](https://github.com/github/awesome-copilot) — GitHub 官方 Excalidraw 技能：从自然语言生成手绘风格架构图 / 流程图 / 草图  
+  标签：Excalidraw / 手绘图表 / 流程图 / 架构图
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -335,6 +339,12 @@
   标签：Logo / 品牌 / 视觉设计 / Branding
 - [Claude Design 专家](https://github.com/jiji262/claude-design-skill) — 把 Claude 变成专家级 HTML 设计器，一键产出落地页/幻灯片/原型/动画/海报  
   标签：设计 / HTML / 原型 / 海报 / Landing Page
+- [GitHub Anti UI Slop](https://github.com/github/awesome-copilot) — GitHub 官方反「AI 味」UI 技能：用 UIZZ 规则阻止编码 agent 产出千篇一律的泛型界面  
+  标签：UI 设计 / 反 AI 味 / 前端 / 设计系统
+- [GitHub Premium Frontend UI](https://github.com/github/awesome-copilot) — GitHub 官方前端 UI 指南：为 Copilot 提供生产级前端界面构建规范，避免 AI 默认审美  
+  标签：前端 / UI 设计 / 生产级 / Web
+- [GitHub Web Design Reviewer](https://github.com/github/awesome-copilot) — GitHub 官方网页设计评审：对生成/截图网站做视觉巡检，给出可执行的 UI 改进建议  
+  标签：UI 评审 / 设计 QA / Web / UX
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -832,6 +842,8 @@
   标签：X 长文 / Markdown 发布 / 富文本 / 内容分发 / 自媒体
 - [Viral Short-Form 短视频爆款](https://github.com/vyralcontent/content-skills) — 为 TikTok/Reels/Shorts 批量构思爆款钩子与脚本，按留存结构（钩子、升级、回报、CTA）写作  
   标签：短视频 / 脚本 / 爆款 / 内容创作 / 钩子
+- [GitHub 文档写作（Diátaxis）](https://github.com/github/awesome-copilot) — GitHub 官方文档写作技能：按 Diátaxis 框架产出教程/操作指南/参考/解释四类技术文档  
+  标签：技术文档 / Diátaxis / 写作方法论 / 文档
 
 
 ---
