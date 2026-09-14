@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T15:31:34.110Z",
+  "updatedAt": "2026-09-14T21:33:03.437Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -5593,6 +5593,118 @@
       "bg": "",
       "tool": "visual",
       "hot": 176112
+    },
+    {
+      "name": "Diagrammer 蓝图图表",
+      "desc": "从 JSON 规格渲染干净蓝图风格的 SVG 技术图表",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "category": "diagram",
+      "tags": [
+        "Diagram",
+        "SVG",
+        "Architecture",
+        "Blueprint"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 30732
+    },
+    {
+      "name": "ImageGen 图像生成（OpenAI）",
+      "desc": "调用 OpenAI 图像 API 生成与编辑图片",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "category": "image-gen",
+      "tags": [
+        "Image",
+        "OpenAI",
+        "Inpainting",
+        "Product Shot"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 30732
+    },
+    {
+      "name": "Marp 幻灯片",
+      "desc": "用 7 套主题生成专业 Marp 演示文稿",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "Marp",
+        "Slides",
+        "Markdown"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 30732
+    },
+    {
+      "name": "Motion Canvas 动画",
+      "desc": "用 TypeScript 以编程方式制作 2D 动画视频",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "category": "animation",
+      "tags": [
+        "Animation",
+        "Motion Canvas",
+        "TypeScript",
+        "2D"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 30732
+    },
+    {
+      "name": "Sora 视频生成",
+      "desc": "通过 OpenAI Sora 视频 API 生成与剪辑视频",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "category": "ai-video",
+      "tags": [
+        "Video",
+        "Sora",
+        "OpenAI",
+        "Text-to-Video"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 30732
+    },
+    {
+      "name": "文献综述 Literature Review",
+      "desc": "跨多数据库做系统化文献综述与荟萃分析",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "category": "methodology",
+      "tags": [
+        "Literature",
+        "Research",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 44904
+    },
+    {
+      "name": "同行评审 Peer Review",
+      "desc": "产出有证据支撑的同行评审与稿件评估",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "category": "methodology",
+      "tags": [
+        "Peer Review",
+        "Manuscript",
+        "Research",
+        "Assessment"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 44904
     }
   ],
   "categories": [

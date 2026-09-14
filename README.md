@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-14 15:31:34
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-14 21:33:03
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（371 个条目 / 16 个分类）
+## 📑 内容导航（378 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -87,6 +87,8 @@
   标签：PPT / React / Slidev / 交互演示
 - [SenseNova · 标准 PPT](https://github.com/OpenSenseNova/SenseNova-Skills) — SenseNova 办公智能体技能 · 标准 PPT 生成  
   标签：PPT / 演示 / 办公自动化 / SenseNova
+- [Marp 幻灯片](https://github.com/davila7/claude-code-templates) — 用 7 套主题生成专业 Marp 演示文稿  
+  标签：PPT / Marp / Slides / Markdown
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -148,6 +150,8 @@
   标签：滚动叙事 / 落地页 / 动效 / 语义 HTML
 - [Slack GIF Creator](https://github.com/anthropics/skills) — Anthropic 官方：生成 Slack 优化的动画 GIF  
   标签：GIF / Animation / Slack / Anthropic
+- [Motion Canvas 动画](https://github.com/davila7/claude-code-templates) — 用 TypeScript 以编程方式制作 2D 动画视频  
+  标签：Animation / Motion Canvas / TypeScript / 2D
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
@@ -221,6 +225,8 @@
   标签：插画 / 照片转绘 / 复古 / 艺术风格
 - [GitHub Generate Image](https://github.com/github/awesome-copilot) — GitHub 官方图像生成技能：用自然语言生成、编辑图标/插画/纹理/视觉素材，支持 gpt-image-2 等后端  
   标签：图像生成 / AI 绘图 / 图标 / 素材
+- [ImageGen 图像生成（OpenAI）](https://github.com/davila7/claude-code-templates) — 调用 OpenAI 图像 API 生成与编辑图片  
+  标签：Image / OpenAI / Inpainting / Product Shot
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -269,6 +275,8 @@
   标签：Excalidraw / 手绘图表 / 流程图 / 架构图
 - [Diagram Design](https://github.com/cathrynlavery/diagram-design) — 38 种编辑级架构/流程图，输出独立 HTML/SVG/PNG  
   标签：Diagram / Architecture / SVG / Flowchart
+- [Diagrammer 蓝图图表](https://github.com/davila7/claude-code-templates) — 从 JSON 规格渲染干净蓝图风格的 SVG 技术图表  
+  标签：Diagram / SVG / Architecture / Blueprint
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -635,6 +643,8 @@
   标签：数字人 / 口播视频 / AI 视频 / TTS
 - [视频解说 Recap](https://github.com/zenstory-ai/video-recap-skills) — 端到端把视频生成中文解说成片（理解→剪辑→配音→合成）  
   标签：Video / 解说 / 配音 / 剪辑
+- [Sora 视频生成](https://github.com/davila7/claude-code-templates) — 通过 OpenAI Sora 视频 API 生成与剪辑视频  
+  标签：Video / Sora / OpenAI / Text-to-Video
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -854,6 +864,10 @@
   标签：短视频 / 脚本 / 爆款 / 内容创作 / 钩子
 - [GitHub 文档写作（Diátaxis）](https://github.com/github/awesome-copilot) — GitHub 官方文档写作技能：按 Diátaxis 框架产出教程/操作指南/参考/解释四类技术文档  
   标签：技术文档 / Diátaxis / 写作方法论 / 文档
+- [文献综述 Literature Review](https://github.com/K-Dense-AI/scientific-agent-skills) — 跨多数据库做系统化文献综述与荟萃分析  
+  标签：Literature / Research / Systematic Review / Meta-Analysis
+- [同行评审 Peer Review](https://github.com/K-Dense-AI/scientific-agent-skills) — 产出有证据支撑的同行评审与稿件评估  
+  标签：Peer Review / Manuscript / Research / Assessment
 
 
 ---
