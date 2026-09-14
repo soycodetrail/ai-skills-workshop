@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-13 09:13:37
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-14 03:29:00
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（366 个条目 / 16 个分类）
+## 📑 内容导航（371 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -146,6 +146,8 @@
   标签：Lottie / 动效 / SVG / 矢量动画 / Web
 - [ScrollCraft 滚动叙事站](https://github.com/nateherkai/scroll-craft) — 把品牌做成 Apple 式滚动驱动体验：滚轮即时间轴，视频逐帧擦除、区块钉住推进  
   标签：滚动叙事 / 落地页 / 动效 / 语义 HTML
+- [Slack GIF Creator](https://github.com/anthropics/skills) — Anthropic 官方：生成 Slack 优化的动画 GIF  
+  标签：GIF / Animation / Slack / Anthropic
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
@@ -265,6 +267,8 @@
   标签：Diagram / HTML / Mermaid / 架构图 / 可视化
 - [GitHub Excalidraw 图表生成](https://github.com/github/awesome-copilot) — GitHub 官方 Excalidraw 技能：从自然语言生成手绘风格架构图 / 流程图 / 草图  
   标签：Excalidraw / 手绘图表 / 流程图 / 架构图
+- [Diagram Design](https://github.com/cathrynlavery/diagram-design) — 38 种编辑级架构/流程图，输出独立 HTML/SVG/PNG  
+  标签：Diagram / Architecture / SVG / Flowchart
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -629,6 +633,8 @@
   标签：AI 视频 / 文生视频 / 图生视频 / Video
 - [Flyworks 数字人视频](https://github.com/freestylefly/canghe-skills) — 用 Flyworks/HiFly 数字人把照片变成会说话的视频，支持公共形象 TTS 与声音克隆  
   标签：数字人 / 口播视频 / AI 视频 / TTS
+- [视频解说 Recap](https://github.com/zenstory-ai/video-recap-skills) — 端到端把视频生成中文解说成片（理解→剪辑→配音→合成）  
+  标签：Video / 解说 / 配音 / 剪辑
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -736,6 +742,8 @@
   标签：小说写作 / 章节 / 大纲优先 / 一致性 / 故事工程
 - [InkOS 小说创作](https://github.com/narcooo/inkos) — 多智能体长篇网文创作 Agent：规划/写作/审核/修订全流程接管  
   标签：小说 / 长篇小说 / 网文 / 多智能体
+- [Econ Writing (经济学论文写作)](https://github.com/hanlulong/econ-writing-skill) — 综合 50+ 顶尖经济学者写作指南的学术助手  
+  标签：Academic / Economics / 论文 / LaTeX
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -791,6 +799,8 @@
   标签：去AI味 / UI优化 / 文案 / 设计
 - [No AI Slop](https://github.com/petergyang/no-ai-slop) — 消除 20+ 类通用 AI 写作套路，同时保留作者个人语言风格（petergyang，6.7k★）  
   标签：去AI味 / 英文 / 写作 / humanizer
+- [Im-Not-AI (韩语去 AI 味)](https://github.com/epoko77-ai/im-not-ai) — 韩语 AI 文本人文化，检测 70 类 AI 痕迹  
+  标签：Humanizer / Korean / 去 AI 味 / 润色
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
