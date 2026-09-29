@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-15 09:37:15
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-29 16:05:01
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（378 个条目 / 16 个分类）
+## 📑 内容导航（383 个条目 / 16 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -227,6 +227,8 @@
   标签：图像生成 / AI 绘图 / 图标 / 素材
 - [ImageGen 图像生成（OpenAI）](https://github.com/davila7/claude-code-templates) — 调用 OpenAI 图像 API 生成与编辑图片  
   标签：Image / OpenAI / Inpainting / Product Shot
+- [AI 图像生成器](https://github.com/jezweb/claude-skills) — jezweb 出品：基于结构化提示与参考图引导的 AI 图像生成技能，产出角色、场景、产品与概念图  
+  标签：AI 绘画 / 图像生成 / 概念图 / 视觉资产
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -294,6 +296,10 @@
   标签：数据可视化 / 图表 / 单文件 HTML / 报告
 - [Markdown Viewer · 信息图](https://github.com/markdown-viewer/skills) — Markdown 驱动的信息图与数据可视化技能  
   标签：信息图 / 数据可视化 / Markdown / 图表
+- [Create Viz 数据可视化](https://github.com/anthropics/knowledge-work-plugins) — Anthropic 官方知识工作插件：把数据与分析结论做成准确、清晰、可发表的高质量图表  
+  标签：数据可视化 / 图表 / DataViz / 分析报告
+- [DeerFlow 图表可视化](https://github.com/bytedance/deer-flow) — 字节 DeerFlow 出品：用代码生成高质量数据图表，支持柱状/折线/饼/散点等多种类型  
+  标签：图表 / 数据可视化 / DataViz / DeerFlow
 
 <a id="cat-设计-ui" name="cat-设计-ui"></a>
 
@@ -519,6 +525,8 @@
   标签：视频翻译 / 配音 / 字幕 / 本地化
 - [Noiz AI 视频翻译配音](https://github.com/noizai/skills) — 下载视频→翻译字幕→声音克隆配音→自动对齐并保留原背景音  
   标签：配音 / 字幕 / 翻译 / Dubbing
+- [讯飞视频翻译](https://github.com/iflytek/iFly-Skills) — 讯飞 iFly-Skills 出品：视频翻译与字幕本地化，支持多语种识别、翻译与配音  
+  标签：视频翻译 / 字幕 / 配音 / 本地化
 
 <a id="cat-字幕-配音" name="cat-字幕-配音"></a>
 
@@ -868,6 +876,8 @@
   标签：Literature / Research / Systematic Review / Meta-Analysis
 - [同行评审 Peer Review](https://github.com/K-Dense-AI/scientific-agent-skills) — 产出有证据支撑的同行评审与稿件评估  
   标签：Peer Review / Manuscript / Research / Assessment
+- [Deep Research 深度研究](https://github.com/Imbad0202/academic-research-skills) — Imbad0202 出品：端到端深度研究技能，规划→多源检索→交叉验证→综合成文，产出有来源报告  
+  标签：Deep Research / 调研 / 研究报告 / 文献综合
 
 
 ---
