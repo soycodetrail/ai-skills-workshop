@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-29 16:05:01
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-30 04:16:12
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（383 个条目 / 16 个分类）
+## 📑 内容导航（420 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -30,6 +30,10 @@
 - [✍️ 长篇创作](#cat-长篇创作)
 - [✍️ 去 AI 味](#cat-去-ai-味)
 - [✍️ 方法论](#cat-方法论)
+- [✨ resume-build](#cat-resume-build)
+- [✨ resume-optimize](#cat-resume-optimize)
+- [✨ job-hunt](#cat-job-hunt)
+- [✨ interview](#cat-interview)
 
 ---
 
@@ -240,6 +244,8 @@
   标签：Excalidraw / Obsidian / Mermaid / Canvas
 - [Excalidraw Skill (Robonuggets)](https://github.com/robonuggets/excalidraw-skill) — MCP 实时画布+截图自检迭代  
   标签：Excalidraw / MCP / 实时 / 自检
+- [Excalidraw 手绘图表](https://github.com/majiayu000/claude-skill-registry) — 一句话生成可编辑的手绘风 Excalidraw 图表（流程图/架构图/时序图等 9 类）  
+  标签：Excalidraw / 手绘 / 架构图 / 流程图
 
 <a id="cat-架构图表" name="cat-架构图表"></a>
 
@@ -279,6 +285,8 @@
   标签：Diagram / Architecture / SVG / Flowchart
 - [Diagrammer 蓝图图表](https://github.com/davila7/claude-code-templates) — 从 JSON 规格渲染干净蓝图风格的 SVG 技术图表  
   标签：Diagram / SVG / Architecture / Blueprint
+- [PR Lens](https://github.com/coldteadotai/pr-lens) — 把代码改动/系统画成动画架构图与数据流图，可独立成图或附在 Pull Request 评论里  
+  标签：架构图 / 数据流 / Pull Request / 动画 SVG
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -363,6 +371,10 @@
   标签：前端 / UI 设计 / 生产级 / Web
 - [GitHub Web Design Reviewer](https://github.com/github/awesome-copilot) — GitHub 官方网页设计评审：对生成/截图网站做视觉巡检，给出可执行的 UI 改进建议  
   标签：UI 评审 / 设计 QA / Web / UX
+- [Hallmark 设计](https://github.com/Nutlope/hallmark) — 反 AI 味的网页/落地页设计技能：绿野新页、审计、重设计、从 URL/截图提取设计语言  
+  标签：设计 / Anti-AI-Slop / 落地页 / 审计
+- [UI 设计 Wiki](https://github.com/raphaelsalaja/userinterface-wiki) — 119 条 UI 设计规则与 11 大类知识库：动画、UX 定律、排版、音频等，一站式设计参考  
+  标签：UI / 设计规则 / UX / 参考
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -498,6 +510,8 @@
   标签：视频剪辑 / Claude Code / 全链路 / ffmpeg
 - [YouTube Clipper](https://github.com/op7418/Youtube-clipper-skill) — 长视频一键智能剪辑：AI 章节分析 + 双语字幕烧录 + 社媒文案  
   标签：YouTube / 视频剪辑 / 字幕翻译 / 双语字幕 / 短视频 / FFmpeg
+- [Jianying Headless](https://github.com/mcncarl/jianying-headless) — 让 AI 直接生成原生剪映/ CapCut 草稿，可打开继续精修，短视频批量生产利器  
+  标签：剪映 / CapCut / 草稿 / 短视频
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -653,6 +667,8 @@
   标签：Video / 解说 / 配音 / 剪辑
 - [Sora 视频生成](https://github.com/davila7/claude-code-templates) — 通过 OpenAI Sora 视频 API 生成与剪辑视频  
   标签：Video / Sora / OpenAI / Text-to-Video
+- [Anything2Explainer](https://github.com/Vincentwei1021/anything2explainer) — 输入任意主题/文档，产出带配音的动态图形解说视频（Remotion 代码渲染，中英双语）  
+  标签：解说视频 / Remotion / 动态图形 / 配音
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -878,6 +894,88 @@
   标签：Peer Review / Manuscript / Research / Assessment
 - [Deep Research 深度研究](https://github.com/Imbad0202/academic-research-skills) — Imbad0202 出品：端到端深度研究技能，规划→多源检索→交叉验证→综合成文，产出有来源报告  
   标签：Deep Research / 调研 / 研究报告 / 文献综合
+
+<a id="cat-resume-build" name="cat-resume-build"></a>
+
+### ✨ resume-build
+
+- [Resume Master 简历导师](https://github.com/wangyafu/resume-skills) — 导师式陪你挖掘经历、组织素材，排出恰好一页的 HTML 简历并交付可投递 PDF  
+  标签：简历 / PDF / JD 定制 / 中文排版
+- [Vibe Resume](https://github.com/KevinYoung-Kw/vibe-resume-skill) — 12 套可投递模板的简历生成与排版，创建、更新、按 JD 定制一步到位  
+  标签：简历 / 模板 / HTML / PDF
+- [Resume Builder 中文简历](https://github.com/Jichengyuuuuu/resume-builder-skill) — 模糊背景信息一键生成专业中文简历（HTML + DOCX），ATS 友好并附顾问级建议  
+  标签：简历 / DOCX / ATS / 中文
+- [ASu 高密度履历](https://github.com/Claycui828/ASu-resume-skills) — 阿酥式高密度技术履历生成 + 证据优先简历审计，双技能一装即用  
+  标签：简历 / 履历 / 审计 / 技术岗
+- [ResumeSkills 求职技能库](https://github.com/Paramchoudhary/ResumeSkills) — 求职全链路技能合集：高管简历、学术 CV、求职信、LinkedIn 优化、面试题生成等 20 余项  
+  标签：简历 / 求职信 / LinkedIn / 合集
+- [Magic Resume](https://github.com/JOYCEQL/magic-resume) — 开源在线 AI 简历编辑器（magicv.art）：所见即所得排版、AI 润色与多模板，可自部署  
+  标签：简历 / 在线编辑器 / Web 应用 / 开源自部署
+- [Resume Tuning](https://github.com/anneheartrecord/resume-tuning) — 交互式简历打磨：旧简历、笔记或 JD 进，一页可投递 PDF 出，附 ATS 与 JD 双重检查  
+  标签：简历 / PDF / ATS 检查 / 交互式
+- [Resumx 简历写作](https://github.com/resumx/skills) — 研究驱动的简历写作技能：基于招聘研究的方法论写简历，而非通用模板套话  
+  标签：简历写作 / 方法论 / 研究驱动
+
+<a id="cat-resume-optimize" name="cat-resume-optimize"></a>
+
+### ✨ resume-optimize
+
+- [Resume Optimizer 简历优化](https://github.com/wyh0626/resume-optimizer) — 面向求职者的简历优化技能：对照岗位要求逐条打磨表述，提升过筛率  
+  标签：简历优化 / JD 匹配 / ATS
+- [Resume Tailoring](https://github.com/varunr89/resume-tailoring-skill) — AI 驱动的简历按 JD 精修技能，针对每个岗位产出定制版简历  
+  标签：简历定制 / JD 匹配 / 英文简历
+- [Repo to Resume](https://github.com/Ssabby1/repo-to-resume-tailor) — 把代码仓库变成简历级项目描述：分析仓库证据，按目标岗位/JD 生成可信项目文案  
+  标签：项目描述 / GitHub 仓库 / JD 定制
+- [牛肉项目雷达](https://github.com/lishuangqiang/backend-agent-resume-scout) — 从 GitHub 海量仓库里筛出真正能写进简历、经得起面试追问的后端/AI Agent 项目  
+  标签：项目筛选 / GitHub / 后端 / AI Agent
+- [LLMInternSkill](https://github.com/wanyichen06/LLMInternSkill) — 大模型实习求职工具箱：简历打磨、JD 定制、RAG/Agent 项目包装、面试拷打、开源补强  
+  标签：LLM / 实习 / 校招 / 项目包装
+- [简历打分 Skill（Uncle城）](https://skillhub.cn/skills/user_ab5ae6ee/unclecheng-ai-resume-judge) — 以满分与及格线两份参考简历为基准计算简历能力值（满分 100），非 AI 岗做跨行业等价换算  
+  标签：简历评分 / 审计 / SkillHub
+- [Composio 简历定制生成器](https://github.com/composiohq/awesome-claude-skills) — Composio 官方 awesome-claude-skills 中的简历定制技能：按目标 JD 生成量身定制的简历  
+  标签：简历定制 / JD 匹配 / Composio
+
+<a id="cat-job-hunt" name="cat-job-hunt"></a>
+
+### ✨ job-hunt
+
+- [career-ops](https://github.com/career-ops-hq/career-ops) — 开源多 Agent 求职系统：扫描岗位门户、结构化评估 JD、定制 CV、追踪投递全流程  
+  标签：求职 / 多 Agent / JD 评估 / 投递追踪
+- [AI Job Search](https://github.com/MadsLorentzen/ai-job-search) — 跑在自己电脑上的求职框架：/setup 建档、/scrape 扫岗、/apply 评估并定制简历与求职信  
+  标签：求职框架 / Claude Code / 求职信 / 投递流水线
+- [ASu-skills 中文求职工作流](https://github.com/Hisn00w/ASu-skills) — 九入口中文求职插件：简历提升与制作、岗位匹配、投递填写、面试准备、校招进度管理  
+  标签：中文求职 / 校招 / 工作流 / 插件包
+- [Job OK](https://github.com/GresonKwan/JobOK) — 证据驱动的中文求职技能：不编经历、不自动海投，把真实经历变成可投递可复盘的证据系统  
+  标签：中文求职 / 证据驱动 / 简历 / 面试
+- [Job Application Agent](https://github.com/vaibhavarora14/job-application-agent) — 隐私优先的求职申请 Agent：本地存储档案，评估岗位、代填申请、记录投递与结果  
+  标签：求职 / 隐私优先 / 投递管理 / 浏览器自动化
+- [Proficiently 求职技能包](https://github.com/proficientlyjobs/proficiently-claude-skills) — 求职者技能包：岗位检索、简历定制、求职信起草、公司门户扫描、人脉触达七件套  
+  标签：求职 / 技能包 / 求职信 / 岗位检索
+- [Job Hunt Copilot](https://github.com/spontaneousai/job-hunt-copilot) — 建立个人项目素材库，按投递岗位自动生成定制简历、面试讲稿与模拟面试  
+  标签：求职 / 项目素材库 / 面试讲稿 / 模拟面试
+- [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) — 12 个 LinkedIn 技能：主页优化、人味帖子写作、钩子提取、评论起草与互动分析  
+  标签：LinkedIn / 个人品牌 / 求职曝光 / 技能包
+- [国内求职一条龙](https://github.com/rockbenben/ai-job-search-cn) — 一条命令搜猎聘/BOSS/智联/前程：硬门过滤陪跑岗，备好打招呼话术与中文简历，数据不出本机  
+  标签：国内求职 / BOSS 直聘 / 猎聘 / 中文简历
+- [Career Ops 求职插件](https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-) — Claude Cowork 求职者插件：岗位评估、ATS 简历生成、门户扫描、投递追踪、外联触达 9 技能  
+  标签：求职 / Cowork 插件 / ATS / 投递追踪
+- [Auto Job Apply](https://github.com/sharzoy/auto-job-apply) — AI 求职助手：简历解析、JD 硬性条件核对、A/B/C 匹配评分，生成投递包并保留人工确认  
+  标签：投递包 / 匹配评分 / HR 模拟 / 人工确认
+- [Job Seeker](https://github.com/galiprandi/job-seeker) — 求职自动化技能套件：岗位雷达、申请执行、仪表盘、内推寻找与每日简报  
+  标签：求职自动化 / 岗位雷达 / 内推 / 仪表盘
+
+<a id="cat-interview" name="cat-interview"></a>
+
+### ✨ interview
+
+- [Offer Toolkit](https://github.com/yanliudesign/offer-toolkit-skill) — 求职六件套：岗位搜索、JD 解码、简历构建、行为面试故事库、offer 对比、薪资谈判  
+  标签：行为面试 / offer 对比 / 谈薪 / 技能包
+- [实习.skill](https://github.com/agentenatalie/get-job.skill) — 双非也能拿大厂 offer：改简历、抠面经、准备面试，把真实背景翻译成面试官想要的样子  
+  标签：实习 / 校招 / 面经 / 中文
+- [Mokio 面试技能](https://github.com/Wood-Q/Mokio-Interview-Skill) — 读你的项目代码写简历、把学习项目包装成交付项目、搜真实面经深挖、模拟面试拷问  
+  标签：模拟面试 / 面经 / 项目包装 / 中文
+- [鱼皮 Agent Skill](https://github.com/liyupi/yupi-skill) — 程序员鱼皮把自己蒸馏成技能包：求职面试、简历优化、技术选型、编程学习有问必答  
+  标签：人设技能 / 求职咨询 / 面试 / 技术选型
 
 
 ---
