@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-30 10:17:39
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-30 22:26:00
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（420 个条目 / 20 个分类）
+## 📑 内容导航（427 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -93,6 +93,8 @@
   标签：PPT / 演示 / 办公自动化 / SenseNova
 - [Marp 幻灯片](https://github.com/davila7/claude-code-templates) — 用 7 套主题生成专业 Marp 演示文稿  
   标签：PPT / Marp / Slides / Markdown
+- [PPTAgent](https://github.com/icip-cas/pptagent) — 上海AI实验室等联合出品：让 Agent 创作、修订并可视觉审阅可编辑 PPTX 文稿，学术/汇报级成片  
+  标签：PPT / PPTX / 学术汇报 / 可编辑
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -375,6 +377,10 @@
   标签：设计 / Anti-AI-Slop / 落地页 / 审计
 - [UI 设计 Wiki](https://github.com/raphaelsalaja/userinterface-wiki) — 119 条 UI 设计规则与 11 大类知识库：动画、UX 定律、排版、音频等，一站式设计参考  
   标签：UI / 设计规则 / UX / 参考
+- [Extract Design System](https://github.com/arvindrk/extract-design-system) — 反编译任意公开网站的设计原语，自动生成项目级 token 起步文件，告别「AI 味」默认样式  
+  标签：设计系统 / Token / 反编译 / UI
+- [Landing Page Design](https://github.com/elayadesign/ai-design-skills) — 高转化落地页全流程 Skill：从 intake、结构、排版到转化文案与严格视觉规则，一站搞定  
+  标签：落地页 / Landing / 转化 / 设计
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -430,6 +436,10 @@
   标签：Remotion / 口播视频 / 解说视频 / 动效
 - [Remotion Video Toolkit](https://github.com/sundial-org/awesome-openclaw-skills) — 用 Remotion + React 程序化生成视频：动画/字幕/3D/图表/渲染全流程  
   标签：Remotion / React / 视频生成 / 程序化视频 / 字幕
+- [公众号文章转视频](https://github.com/liangdabiao/video-skills-toolkit) — 把任意微信公众号文章一键变成 Studio 风格 Remotion 视频，原文图完整保留，可发布  
+  标签：Remotion / 公众号 / 图文视频 / 短视频
+- [口播视频 Remotion](https://github.com/liangdabiao/video-skills-toolkit) — 可复用口播视频工程模板：PIP、同步字幕、章节进度、Studio 主题，脚本素材秒变上片  
+  标签：Remotion / 口播 / 短视频 / 模板
 
 <a id="cat-提示词-导演" name="cat-提示词-导演"></a>
 
@@ -778,6 +788,8 @@
   标签：小说 / 长篇小说 / 网文 / 多智能体
 - [Econ Writing (经济学论文写作)](https://github.com/hanlulong/econ-writing-skill) — 综合 50+ 顶尖经济学者写作指南的学术助手  
   标签：Academic / Economics / 论文 / LaTeX
+- [Content Production](https://github.com/alirezarezvani/claude-skills) — 从空白页到可发布文章的全流程内容生产流水线，博客/文章/指南一键成稿  
+  标签：长文 / 内容生产 / 博客 / SEO
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -894,6 +906,8 @@
   标签：Peer Review / Manuscript / Research / Assessment
 - [Deep Research 深度研究](https://github.com/Imbad0202/academic-research-skills) — Imbad0202 出品：端到端深度研究技能，规划→多源检索→交叉验证→综合成文，产出有来源报告  
   标签：Deep Research / 调研 / 研究报告 / 文献综合
+- [Copy Editing](https://github.com/alirezarezvani/claude-skills) — 系统化多轮营销文案编辑流程：清晰、语气、简洁、CTA、品牌一致性五重审查  
+  标签：文案 / 编辑 / 校对 / 方法论
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
