@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-01 16:30:16
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-01 22:31:54
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（427 个条目 / 20 个分类）
+## 📑 内容导航（433 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -381,6 +381,12 @@
   标签：设计系统 / Token / 反编译 / UI
 - [Landing Page Design](https://github.com/elayadesign/ai-design-skills) — 高转化落地页全流程 Skill：从 intake、结构、排版到转化文案与严格视觉规则，一站搞定  
   标签：落地页 / Landing / 转化 / 设计
+- [Tailwind 设计系统](https://github.com/wshobson/agents) — 用 Tailwind CSS v4 的 CSS-first 配置构建生产级设计系统：设计令牌、组件变体、响应式与无障碍模式  
+  标签：设计系统 / Tailwind / UI / 令牌 / 暗色模式
+- [Better UI 界面打磨](https://github.com/jakubkrehel/skills) — jakubkrehel 出品：聚焦 UI 打磨的设计工程技能，消除 AI 界面的廉价感——圆角、光学对齐、阴影、微交互与动效  
+  标签：UI / 打磨 / 动效 / 组件 / 设计工程
+- [OJO 设计方法论](https://github.com/touchine-ojo/OJO-Design-Skills) — 给 AI Coding Agent 装上真实审美：双轨方法论（规约赛道 + 创新赛道）+ 9 份参考文件，专治界面 AI-slop  
+  标签：UI / UX / 设计系统 / 去AI味 / 方法论
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -580,6 +586,8 @@
   标签：字幕 / 转写 / 翻译 / Whisper / 硬字幕
 - [BibiGPT 视频总结](https://github.com/JimmyLv/bibigpt-skill) — 跨 30+ 平台视频/音频总结转写，并一键重制成 TikTok 竖屏 MV  
   标签：视频总结 / 字幕提取 / 播客笔记 / B 站 / TikTok
+- [CLI Anything 字幕生成](https://github.com/HKUDS/CLI-Anything) — HKUDS 出品：一条命令完成视频转写→字幕优化→翻译→烧录，支持 99 种语言与 38 种目标语言，本地 Whisper 免费  
+  标签：字幕 / 转写 / 翻译 / 本地化 / 烧录
 
 <a id="cat-ai-视频" name="cat-ai-视频"></a>
 
@@ -790,6 +798,10 @@
   标签：Academic / Economics / 论文 / LaTeX
 - [Content Production](https://github.com/alirezarezvani/claude-skills) — 从空白页到可发布文章的全流程内容生产流水线，博客/文章/指南一键成稿  
   标签：长文 / 内容生产 / 博客 / SEO
+- [Auto Empirical 学术论文](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) — 12 智能体论文写作流水线：支持 IMRaD/综述/理论/案例/政策简报多种结构、5 种引用格式与中英双语摘要  
+  标签：学术论文 / 研究 / 写作 / 引用 / LaTeX
+- [SEO/AEO 博客写作](https://github.com/sickn33/agentic-awesome-skills) — 写既符合 Google 排名又能被 AI 引擎（Perplexity/ChatGPT/Claude）引用的长文：TL;DR 直答块 + 对比表 + 5 问 FAQ  
+  标签：SEO / AEO / 博客 / 长文 / 内容营销
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
