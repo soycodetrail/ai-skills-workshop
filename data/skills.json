@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T04:33:12.668Z",
+  "updatedAt": "2026-10-31T07:19:19.747Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -15,7 +15,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 27162
+      "hot": 28974
     },
     {
       "name": "Codex PPT",
@@ -31,7 +31,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 6297
+      "hot": 7474
     },
     {
       "name": "NanoBanana PPT",
@@ -47,7 +47,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 3281
+      "hot": 3339
     },
     {
       "name": "PPT Master",
@@ -62,7 +62,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 57267
+      "hot": 71300
     },
     {
       "name": "Make Slide",
@@ -77,7 +77,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 133
+      "hot": 139
     },
     {
       "name": "PowerPoint Skill",
@@ -92,7 +92,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 122
+      "hot": 130
     },
     {
       "name": "Deckset Skill",
@@ -107,7 +107,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 10
+      "hot": 11
     },
     {
       "name": "赛博朋克 PPT",
@@ -139,7 +139,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1131
+      "hot": 1235
     },
     {
       "name": "Motion Design Skill",
@@ -155,7 +155,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1857
+      "hot": 2624
     },
     {
       "name": "Motion Skills 合集",
@@ -170,7 +170,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 639
+      "hot": 1098
     },
     {
       "name": "AI Animation Skill",
@@ -185,7 +185,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 570
+      "hot": 602
     },
     {
       "name": "AI Animation 合集",
@@ -200,7 +200,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1420
+      "hot": 1678
     },
     {
       "name": "Generative Illustration",
@@ -215,7 +215,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 3
+      "hot": 7
     },
     {
       "name": "WebGL Animation",
@@ -231,7 +231,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 15
+      "hot": 49
     },
     {
       "name": "Pixel Art Studio",
@@ -247,7 +247,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 68
+      "hot": 97
     },
     {
       "name": "Blender Skills",
@@ -263,11 +263,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 134
+      "hot": 218
     },
     {
       "name": "Nano Banana Pro Prompts",
-      "desc": "10000+ Nano Banana Pro 提示词库（带样图）",
+      "desc": "Nano Banana Pro 精选提示词推荐（YouMind 策展）",
       "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
       "category": "image-gen",
       "tags": [
@@ -278,7 +278,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1866
+      "hot": 1893
     },
     {
       "name": "Ultimate AI Media Generator",
@@ -294,7 +294,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 92
+      "hot": 99
     },
     {
       "name": "ComfyUI Workflow Skill",
@@ -310,7 +310,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 420
+      "hot": 439
     },
     {
       "name": "ComfyUI Skills (OpenClaw)",
@@ -326,7 +326,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 411
+      "hot": 422
     },
     {
       "name": "Design Image Studio",
@@ -341,7 +341,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 101
+      "hot": 104
     },
     {
       "name": "Excalidraw Diagram Skill",
@@ -356,7 +356,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 4908
+      "hot": 5140
     },
     {
       "name": "Axton Obsidian Visual",
@@ -372,7 +372,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 3633
+      "hot": 3670
     },
     {
       "name": "Excalidraw Skill (Robonuggets)",
@@ -388,7 +388,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 82
+      "hot": 86
     },
     {
       "name": "Mermaid Skill",
@@ -420,7 +420,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 7386
+      "hot": 7517
     },
     {
       "name": "Fireworks Tech Graph",
@@ -436,7 +436,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 11593
+      "hot": 11899
     },
     {
       "name": "Best Skills 合集",
@@ -452,7 +452,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 2933
+      "hot": 3082
     },
     {
       "name": "Chart Visualization Skills",
@@ -468,7 +468,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 506
+      "hot": 518
     },
     {
       "name": "Claude Infographic Charts",
@@ -500,7 +500,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 26247
+      "hot": 27089
     },
     {
       "name": "Design Buddy",
@@ -517,7 +517,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 177
+      "hot": 188
     },
     {
       "name": "Anthropic 官方 Skills",
@@ -534,7 +534,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 179313
+      "hot": 185229
     },
     {
       "name": "Video Shotcraft",
@@ -550,7 +550,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 10190
+      "hot": 15126
     },
     {
       "name": "Remotion Video Skill",
@@ -566,7 +566,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 386
+      "hot": 439
     },
     {
       "name": "Visual Skills",
@@ -582,7 +582,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 463
+      "hot": 606
     },
     {
       "name": "Video Prompting",
@@ -598,7 +598,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 178
+      "hot": 187
     },
     {
       "name": "AI Video Skill (AITuber)",
@@ -615,7 +615,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 0
+      "hot": 2
     },
     {
       "name": "文章转视频",
@@ -631,7 +631,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "文字转语音",
@@ -647,11 +647,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Claude Remotion Skill",
-      "desc": "Claude Code 用 Remotion 生成视频（模板+动画+渲染）",
+      "desc": "Claude Code 用 Remotion 生成视频（MIT 协议）",
       "url": "https://github.com/haidrrrry/claude-remotion-skill",
       "category": "remotion",
       "tags": [
@@ -663,7 +663,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 241
+      "hot": 730
     },
     {
       "name": "Remotion 官方 Skills",
@@ -680,7 +680,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "烧字幕",
@@ -696,7 +696,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "视频配音",
@@ -711,7 +711,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "视频转文字",
@@ -726,7 +726,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "多机位配音",
@@ -741,7 +741,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "翻译字幕",
@@ -756,7 +756,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "视频剪辑",
@@ -771,7 +771,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Video Skills",
@@ -787,7 +787,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 60
+      "hot": 67
     },
     {
       "name": "画中画视频",
@@ -802,7 +802,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "屏幕录制",
@@ -817,7 +817,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Openwrite",
@@ -833,7 +833,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 771
+      "hot": 903
     },
     {
       "name": "oh-story",
@@ -849,7 +849,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 7195
+      "hot": 8156
     },
     {
       "name": "AI Fiction Writer",
@@ -865,7 +865,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 55
+      "hot": 67
     },
     {
       "name": "Writing Agent",
@@ -881,7 +881,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 434
+      "hot": 444
     },
     {
       "name": "AIWriteX",
@@ -897,7 +897,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 2043
+      "hot": 2176
     },
     {
       "name": "WeChat Skill",
@@ -912,7 +912,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 105
+      "hot": 132
     },
     {
       "name": "Humanizer",
@@ -927,7 +927,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 53367
+      "hot": 62705
     },
     {
       "name": "Humanizer-zh",
@@ -942,7 +942,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 18815
+      "hot": 21555
     },
     {
       "name": "说人话",
@@ -957,7 +957,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1964
+      "hot": 2381
     },
     {
       "name": "AI Flavor Remover",
@@ -972,7 +972,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1173
+      "hot": 1194
     },
     {
       "name": "De-AI Tone",
@@ -987,7 +987,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 63
+      "hot": 64
     },
     {
       "name": "Remove AI Flavor",
@@ -1015,7 +1015,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 619
+      "hot": 706
     },
     {
       "name": "Speak Human TW",
@@ -1030,7 +1030,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1015
+      "hot": 1100
     },
     {
       "name": "De-AI Prompt Enhancer",
@@ -1045,7 +1045,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 844
+      "hot": 937
     },
     {
       "name": "Distilled Novel Toolbox",
@@ -1075,7 +1075,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 832
+      "hot": 945
     },
     {
       "name": "Writer DNA",
@@ -1090,11 +1090,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 102
+      "hot": 112
     },
     {
       "name": "3brown1blue",
-      "desc": "<p align=\"center\">",
+      "desc": "3B1B 风格数学科普动画生成 skill（Manim 系）",
       "url": "https://github.com/AmitSubhash/3brown1blue",
       "category": "animation",
       "tags": [
@@ -1103,7 +1103,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 36
+      "hot": 43
     },
     {
       "name": "Agnes Ai Generation Skill",
@@ -1116,7 +1116,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 420
+      "hot": 424
     },
     {
       "name": "Ai Game Art Pipeline Skill",
@@ -1129,11 +1129,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 298
+      "hot": 306
     },
     {
       "name": "Ai Media Generator Skill",
-      "desc": "> **Codex compatibility:** References that still say “Claude",
+      "desc": "多模型 AI 媒体生成器：文/图/视频一站式调用，已适配 Codex",
       "url": "https://github.com/Hao0321/ai-media-generator",
       "category": "ai-video",
       "tags": [
@@ -1142,11 +1142,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 254
+      "hot": 266
     },
     {
       "name": "Ai Shortfilm Prompts Skill",
-      "desc": "> 🌐 **Browse the prompt library online → [prompts.aiolaola.",
+      "desc": "AI 短片提示词库，附在线浏览的 prompt library",
       "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts",
       "category": "prompting",
       "tags": [
@@ -1155,7 +1155,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 448
+      "hot": 499
     },
     {
       "name": "Ai Visual Director Skill",
@@ -1168,7 +1168,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 176
+      "hot": 180
     },
     {
       "name": "Bananahub Skill",
@@ -1181,7 +1181,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 118
+      "hot": 113
     },
     {
       "name": "Blender Mcp Skill",
@@ -1194,7 +1194,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 52
+      "hot": 62
     },
     {
       "name": "Remotion Skills - Remotion 最佳实践技能库",
@@ -1207,7 +1207,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 116
+      "hot": 148
     },
     {
       "name": "Cartoon Synth Skill",
@@ -1233,7 +1233,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 80
+      "hot": 132
     },
     {
       "name": "Cc Nano Banana",
@@ -1246,11 +1246,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 376
+      "hot": 382
     },
     {
       "name": "Character Animation Creator Skill",
-      "desc": "## Overview",
+      "desc": "角色动画创作 skill：为角色生成连贯动作与演出",
       "url": "https://github.com/tachikomared/character-animation-creator-skill",
       "category": "animation",
       "tags": [
@@ -1259,11 +1259,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 333
+      "hot": 364
     },
     {
       "name": "Claude Art Skill",
-      "desc": "[![Oathe Security](https://img.shields.io/endpoint?url=https",
+      "desc": "Claude 艺术创作 skill，附安全徽章的工作流规范",
       "url": "https://github.com/aplaceforallmystuff/claude-art-skill",
       "category": "animation",
       "tags": [
@@ -1276,7 +1276,7 @@
     },
     {
       "name": "Claude Code Video Toolkit",
-      "desc": "<p align=\"center\">",
+      "desc": "Claude Code 视频工具箱：脚本/配音/剪辑/渲染一站式",
       "url": "https://github.com/digitalsamba/claude-code-video-toolkit",
       "category": "fullstack",
       "tags": [
@@ -1286,11 +1286,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2157
+      "hot": 2391
     },
     {
       "name": "Claude Real Video",
-      "desc": "[![PyPI](https://img.shields.io/pypi/v/claude-real-video)](h",
+      "desc": "用 Claude 生成真实可播放视频（PyPI 包）",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "category": "ai-video",
       "tags": [
@@ -1300,7 +1300,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2190
+      "hot": 2275
     },
     {
       "name": "Dashmotion",
@@ -1313,7 +1313,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 174
+      "hot": 183
     },
     {
       "name": "Document Illustrator Skill",
@@ -1326,11 +1326,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 600
+      "hot": 606
     },
     {
       "name": "Fpv Video Prompting Skill",
-      "desc": "## Overview",
+      "desc": "FPV 沉浸式视频提示词工程：穿越机视角运镜方案",
       "url": "https://github.com/zhouwei713/fpv-immersive-video-prompting",
       "category": "prompting",
       "tags": [
@@ -1340,11 +1340,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 95
+      "hot": 94
     },
     {
       "name": "Gemini Drawing Skill",
-      "desc": "## ⚠️ 操作优先级（必须遵守）",
+      "desc": "Gemini 绘图操作规范：优先级与安全约束前置的生图技能",
       "url": "https://github.com/WJZ-P/gemini-skill",
       "category": "image-gen",
       "tags": [
@@ -1353,11 +1353,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 834
+      "hot": 831
     },
     {
       "name": "Generative Media Skills",
-      "desc": "[![Powered by MuAPI](https://img.shields.io/badge/Powered%20",
+      "desc": "MuAPI 驱动的生成式媒体技能合集（图/视/音）",
       "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
       "category": "animation",
       "tags": [
@@ -1366,11 +1366,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 5100
+      "hot": 28
     },
     {
       "name": "Google Genai Skills",
-      "desc": "> **A curated collection of agentic skills for Google AI fra",
+      "desc": "Google AI 生态的 agentic skills 精选合集",
       "url": "https://github.com/cnemri/google-genai-skills",
       "category": "image-gen",
       "tags": [
@@ -1379,7 +1379,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 127
+      "hot": 128
     },
     {
       "name": "Gpt Image2 Ecommerce",
@@ -1392,11 +1392,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 402
+      "hot": 432
     },
     {
       "name": "Haidrrrry Remotion Skill",
-      "desc": "[![License: MIT](https://img.shields.io/badge/License-MIT-bl",
+      "desc": "Claude Code 用 Remotion 生成视频（模板+动画+渲染，MIT）",
       "url": "https://github.com/haidrrrry/claude-remotion-skill",
       "category": "remotion",
       "tags": [
@@ -1405,7 +1405,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 241
+      "hot": 730
     },
     {
       "name": "Heygen Hyperframes Launches",
@@ -1418,7 +1418,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 563
+      "hot": 647
     },
     {
       "name": "HeyGen Skills",
@@ -1431,11 +1431,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 460
+      "hot": 526
     },
     {
       "name": "Hyperframes",
-      "desc": "<p align=\"center\">",
+      "desc": "HeyGen HyperFrames 官方仓库：动效视频框架与示例",
       "url": "https://github.com/heygen-com/hyperframes",
       "category": "ai-video",
       "tags": [
@@ -1444,11 +1444,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 55271
+      "hot": 76002
     },
     {
       "name": "Ad Video Skills",
-      "desc": "> AI coding agent skills for ad / advertising video — turn o",
+      "desc": "广告视频技能：把产品一句话变成可投放广告片",
       "url": "https://github.com/iart-ai/ad-video-skills",
       "category": "ai-video",
       "tags": [
@@ -1458,11 +1458,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 8
+      "hot": 20
     },
     {
       "name": "Data Animation Skills",
-      "desc": "> Data animation / animated infographic skills for AI coding",
+      "desc": "数据动画/动态信息图技能，让数据开口讲故事",
       "url": "https://github.com/iart-ai/data-animation-skills",
       "category": "ai-video",
       "tags": [
@@ -1471,11 +1471,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 6
+      "hot": 16
     },
     {
       "name": "E-Commerce Video Skills",
-      "desc": "> Generate ecommerce / product video — product demos, sale p",
+      "desc": "电商视频技能：产品演示与促销片批量生成",
       "url": "https://github.com/iart-ai/ecommerce-video-skills",
       "category": "ai-video",
       "tags": [
@@ -1485,11 +1485,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 8
+      "hot": 11
     },
     {
       "name": "Explainer Video Skills",
-      "desc": "> Explainer video skills for AI coding agents: script, story",
+      "desc": "解说视频技能：脚本→分镜→成片全流程",
       "url": "https://github.com/iart-ai/explainer-video-skills",
       "category": "ai-video",
       "tags": [
@@ -1499,11 +1499,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 28
+      "hot": 63
     },
     {
       "name": "Kinetic Typography Skills",
-      "desc": "> Kinetic typography skills for AI coding agents — animate h",
+      "desc": "动态文字排版（Kinetic Typography）技能集",
       "url": "https://github.com/iart-ai/kinetic-typography-skills",
       "category": "remotion",
       "tags": [
@@ -1512,11 +1512,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 12
+      "hot": 20
     },
     {
       "name": "Manim Skills",
-      "desc": "> Manim (math animation) skills for AI coding agents — anima",
+      "desc": "Manim 数学科普动画技能合集，面向 AI 编码代理",
       "url": "https://github.com/iart-ai/manim-skills",
       "category": "animation",
       "tags": [
@@ -1525,11 +1525,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 10
+      "hot": 15
     },
     {
       "name": "Map Animation Skills",
-      "desc": "> Map animation skills for AI coding agents — build editoria",
+      "desc": "地图动画技能：编辑级地理叙事视频",
       "url": "https://github.com/iart-ai/map-animation-skills",
       "category": "prompting",
       "tags": [
@@ -1538,11 +1538,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 14
+      "hot": 21
     },
     {
       "name": "Motion Design Skills",
-      "desc": "> Motion design fundamentals, engines, and brand elements as",
+      "desc": "动效设计基础/引擎/品牌元素技能集",
       "url": "https://github.com/iart-ai/motion-design-skills",
       "category": "remotion",
       "tags": [
@@ -1551,11 +1551,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 43
+      "hot": 178
     },
     {
       "name": "Text Message Video Skills",
-      "desc": "> Text-message animation skills for AI coding agents — turn ",
+      "desc": "短信对话动画视频技能：聊天气泡逐条弹出",
       "url": "https://github.com/iart-ai/text-message-video-skills",
       "category": "ai-video",
       "tags": [
@@ -1565,11 +1565,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4
+      "hot": 5
     },
     {
       "name": "TikTok Video Skills",
-      "desc": "> TikTok, Reels, and Shorts skills for AI coding agents — en",
+      "desc": "TikTok/Reels/Shorts 短视频技能集",
       "url": "https://github.com/iart-ai/tiktok-video-skills",
       "category": "ai-video",
       "tags": [
@@ -1579,11 +1579,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 13
+      "hot": 20
     },
     {
       "name": "Web Animation Skills",
-      "desc": "> Web animation skills for AI coding agents — GSAP, SVG, Lot",
+      "desc": "Web 动画技能集：GSAP/SVG/Lottie",
       "url": "https://github.com/iart-ai/web-animation-skills",
       "category": "ai-video",
       "tags": [
@@ -1592,11 +1592,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 30
+      "hot": 64
     },
     {
       "name": "YouTube Video Skills",
-      "desc": "> YouTube intro/outro and podcast audiogram skills for AI co",
+      "desc": "YouTube 片头片尾与播客音频图技能",
       "url": "https://github.com/iart-ai/youtube-video-skills",
       "category": "ai-video",
       "tags": [
@@ -1606,11 +1606,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4
+      "hot": 6
     },
     {
       "name": "Interactive Class Diagram Generator",
-      "desc": "## Workflow",
+      "desc": "交互式类图生成器：可点击展开的 UML 类图",
       "url": "https://github.com/soycodetrail/interactive-class-diagram",
       "category": "diagram",
       "tags": [
@@ -1623,7 +1623,7 @@
     },
     {
       "name": "Interactive Sequence Diagram Generator",
-      "desc": "## Workflow",
+      "desc": "交互式时序图生成器：可分步播放的调用时序",
       "url": "https://github.com/soycodetrail/interactive-sequence-diagram",
       "category": "diagram",
       "tags": [
@@ -1636,7 +1636,7 @@
     },
     {
       "name": "交互式教学讲解构建器",
-      "desc": "> 全网最好的交互式教学讲解 skill——融合电影级舞台引擎 + 玻璃拟态视觉 + 逐步回放交互。",
+      "desc": "交互式教学讲解构建器：电影级舞台引擎+玻璃拟态+逐步回放",
       "url": "https://github.com/soycodetrail/interactive-training-builder",
       "category": "design",
       "tags": [
@@ -1658,7 +1658,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 207
+      "hot": 314
     },
     {
       "name": "Lanshu Animated Architecture Diagram",
@@ -1671,11 +1671,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 987
+      "hot": 1017
     },
     {
       "name": "Leoyeai Seedance Skills",
-      "desc": "> **Packaged for OpenClaw + Hermes Agent** from upstream [Em",
+      "desc": "Seedance 技能包（OpenClaw + Hermes Agent 适配版）",
       "url": "https://github.com/LeoYeAI/seedance-skills",
       "category": "ai-video",
       "tags": [
@@ -1684,11 +1684,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 41
+      "hot": 51
     },
     {
       "name": "Lovart",
-      "desc": "<p align=\"center\">",
+      "desc": "Lovart 设计 Agent 技能：海报/品牌/创意一站式",
       "url": "https://github.com/lovartai/lovart-skill",
       "category": "ai-video",
       "tags": [
@@ -1697,11 +1697,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 133
+      "hot": 147
     },
     {
       "name": "Motion Anything",
-      "desc": "<p align=\"center\"><sub>A project in the <a href=\"https://git",
+      "desc": "万物皆可动：把静态素材变成动效视频的通用技能",
       "url": "https://github.com/nexu-io/motion-anything",
       "category": "animation",
       "tags": [
@@ -1710,11 +1710,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 837
+      "hot": 1016
     },
     {
       "name": "Motion Dev Animations Skill",
-      "desc": "> **Motion.dev** - 10M+ downloads/month, successor to Framer",
+      "desc": "Motion.dev 官方动效技能（月下载 1000 万+，Framer Motion 继任者）",
       "url": "https://github.com/199-biotechnologies/motion-dev-animations-skill",
       "category": "animation",
       "tags": [
@@ -1723,11 +1723,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 102
+      "hot": 215
     },
     {
       "name": "Nano Banana Pro Prompts Skill",
-      "desc": "> 📖 Prompts curated by [YouMind](https://youmind.com/nano-b",
+      "desc": "Nano Banana Pro 10000+ 社区提示词库（YouMind 策展，附在线生成）",
       "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
       "category": "image-gen",
       "tags": [
@@ -1736,7 +1736,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1866
+      "hot": 1893
     },
     {
       "name": "Nano Image Generator Skill",
@@ -1749,7 +1749,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 128
+      "hot": 129
     },
     {
       "name": "纸片分层动画生成Skill",
@@ -1762,7 +1762,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 24
+      "hot": 26
     },
     {
       "name": "Pixel2Motion (v2)",
@@ -1775,11 +1775,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 2363
+      "hot": 2555
     },
     {
       "name": "Portrait Prompt Generator Skill",
-      "desc": "> 🎉 **v2.0 已发布！** 新增跨domain查询和设计系统集成。[查看升级指南 →](UPGRADE_GUI",
+      "desc": "人像提示词生成器 v2.0：跨域查询+设计系统集成",
       "url": "https://github.com/huangserva/skill-prompt-generator",
       "category": "image-gen",
       "tags": [
@@ -1788,7 +1788,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1498
+      "hot": 1518
     },
     {
       "name": "Power Design Skill",
@@ -1801,7 +1801,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 705
+      "hot": 748
     },
     {
       "name": "Mondo Style Design Generator",
@@ -1814,7 +1814,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1239
+      "hot": 1334
     },
     {
       "name": "Remotion Bits",
@@ -1827,7 +1827,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 483
+      "hot": 503
     },
     {
       "name": "Remotion Custom Transitions",
@@ -1840,7 +1840,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 69
+      "hot": 70
     },
     {
       "name": "Robonuggets Seedance Skill",
@@ -1853,7 +1853,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 103
+      "hot": 108
     },
     {
       "name": "Seedance Prompt Skill for Claude Code",
@@ -1866,7 +1866,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2858
+      "hot": 2973
     },
     {
       "name": "Seedance Viral Forge",
@@ -1879,11 +1879,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 18
+      "hot": 20
     },
     {
       "name": "Seedance2 Skill Dexhunter",
-      "desc": "## Description",
+      "desc": "Seedance 2.0 视频生成技能：提示词到成片",
       "url": "https://github.com/dexhunter/seedance2-skill",
       "category": "ai-video",
       "tags": [
@@ -1892,11 +1892,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4121
+      "hot": 4380
     },
     {
       "name": "Spine Animation Ai",
-      "desc": "<!-- ⚠️  AUTO-GENERATED FILE — DO NOT EDIT DIRECTLY",
+      "desc": "Spine 骨骼动画 AI 生成（自动生成的技能文件）",
       "url": "https://github.com/GenielabsOpenSource/spine-animation-ai",
       "category": "animation",
       "tags": [
@@ -1905,11 +1905,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 493
+      "hot": 615
     },
     {
       "name": "Tvc Director Skill",
-      "desc": "## 角色定义",
+      "desc": "TVC 广告导演技能：品牌片角色定义与分镜脚本",
       "url": "https://github.com/Ethanxwang/tvc-director",
       "category": "prompting",
       "tags": [
@@ -1918,11 +1918,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 314
+      "hot": 344
     },
     {
       "name": "Vibe Creating Skill",
-      "desc": "<div align=\"center\">",
+      "desc": "Vibe 创作 skill：一句话主题到氛围感短片",
       "url": "https://github.com/Alisa0808/vibe-creating-skill",
       "category": "ai-video",
       "tags": [
@@ -1931,11 +1931,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 148
+      "hot": 154
     },
     {
       "name": "Vibe Motion Skills",
-      "desc": "<p align=\"right\">",
+      "desc": "Vibe Motion 技能集：右对齐徽章风格的开源动效技能",
       "url": "https://github.com/vibe-motion/skills",
       "category": "animation",
       "tags": [
@@ -1944,11 +1944,11 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1300
+      "hot": 1456
     },
     {
       "name": "Video Production Buddy",
-      "desc": "<p align=\"center\">",
+      "desc": "视频制作助手：从脚本到成片的引导式工作流",
       "url": "https://github.com/video-production-buddy/video-production-buddy",
       "category": "fullstack",
       "tags": [
@@ -1962,7 +1962,7 @@
     },
     {
       "name": "Videoclaw",
-      "desc": "<p align=\"center\">",
+      "desc": "哈工大 TMG 出品 VideoClaw：可控长视频生成",
       "url": "https://github.com/HITsz-TMG/VideoClaw",
       "category": "ai-video",
       "tags": [
@@ -1972,11 +1972,11 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 1834
+      "hot": 1883
     },
     {
       "name": "Videodb Skills",
-      "desc": "[![License][license-shield]][license-url]",
+      "desc": "VideoDB 官方技能：视频库检索/剪辑/发布",
       "url": "https://github.com/video-db/skills",
       "category": "ai-video",
       "tags": [
@@ -1986,7 +1986,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 124
+      "hot": 139
     },
     {
       "name": "Vox Director Skill",
@@ -1999,7 +1999,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2107
+      "hot": 2539
     },
     {
       "name": "Whiteboard Animation Skills",
@@ -2012,7 +2012,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 74
+      "hot": 77
     },
     {
       "name": "Manim Skill for Claude Code",
@@ -2025,7 +2025,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 158
+      "hot": 186
     },
     {
       "name": "Z-Image Generation",
@@ -2051,7 +2051,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 163
+      "hot": 161
     },
     {
       "name": "DaisyWriter",
@@ -2077,7 +2077,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 876
+      "hot": 929
     },
     {
       "name": "Lorn.NovelWriteSkills",
@@ -2091,11 +2091,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 223
+      "hot": 246
     },
     {
       "name": "Novel Control Station Skill",
-      "desc": "## Overview",
+      "desc": "小说控制台技能：大纲/人物/伏笔统一管理",
       "url": "https://github.com/jingtai123/Novel-Control-Station-Skill",
       "category": "longform",
       "tags": [
@@ -2105,11 +2105,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 415
+      "hot": 432
     },
     {
       "name": "NovelForge",
-      "desc": "<div align=\"center\">",
+      "desc": "NovelForge 小说锻造：世界观到章节的流水线",
       "url": "https://github.com/RhythmicWave/NovelForge",
       "category": "longform",
       "tags": [
@@ -2119,7 +2119,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1223
+      "hot": 1265
     },
     {
       "name": "Academic Humanizer",
@@ -2132,11 +2132,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1758
+      "hot": 3067
     },
     {
       "name": "Agent Xiaohongshu Workbench",
-      "desc": "<p align=\"center\">",
+      "desc": "小红书工作台 Agent：选题/文案/配图一体",
       "url": "https://github.com/EthanYoQ/agent-xiaohongshu-workbench",
       "category": "longform",
       "tags": [
@@ -2145,7 +2145,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 147
+      "hot": 166
     },
     {
       "name": "Ai Novelist",
@@ -2159,11 +2159,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 224
+      "hot": 225
     },
     {
       "name": "AI Research Skills",
-      "desc": "> A skill catalog that won't let you spend 6 months on a res",
+      "desc": "科研技能目录：省下 6 个月摸索的研究工作流",
       "url": "https://github.com/WenyuChiou/ai-research-skills",
       "category": "longform",
       "tags": [
@@ -2172,7 +2172,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 295
+      "hot": 436
     },
     {
       "name": "Anti-AI-Slop Writing Skill",
@@ -2185,7 +2185,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 484
+      "hot": 580
     },
     {
       "name": "Avoid Ai Writing",
@@ -2198,11 +2198,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 4820
+      "hot": 5342
     },
     {
       "name": "Best AI Humanizer Handbook",
-      "desc": "## A practical guide to making AI-assisted writing clearer, ",
+      "desc": "人味写作手册：让 AI 辅助写作更清晰自然的实操指南",
       "url": "https://github.com/lynote-ai/best-humanizer-handbook",
       "category": "humanizer",
       "tags": [
@@ -2216,7 +2216,7 @@
     },
     {
       "name": "Chinese Novelist Skill",
-      "desc": "## 三大黄金法则",
+      "desc": "中文小说家技能：三大黄金法则驱动的创作流",
       "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
       "category": "longform",
       "tags": [
@@ -2226,7 +2226,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 3263
+      "hot": 4488
     },
     {
       "name": "5 Skills That Fix Claude's Writing",
@@ -2239,7 +2239,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 102
+      "hot": 118
     },
     {
       "name": "Econ Writing Skill",
@@ -2252,11 +2252,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 633
+      "hot": 688
     },
     {
       "name": "Human Writing",
-      "desc": "<p align=\"center\">",
+      "desc": "Human Writing：把 AI 文改出人味的写作技能",
       "url": "https://github.com/KKKKhazix/human-writing",
       "category": "humanizer",
       "tags": [
@@ -2265,7 +2265,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 3919
+      "hot": 4289
     },
     {
       "name": "Humanizer Br",
@@ -2278,7 +2278,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 95
+      "hot": 97
     },
     {
       "name": "Редактор русского текста",
@@ -2291,7 +2291,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 182
+      "hot": 199
     },
     {
       "name": "Humanizer-ZH-Academic：中文学术写作去AI味指南",
@@ -2304,11 +2304,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 303
+      "hot": 348
     },
     {
       "name": "Liurun Bookwriter Skills",
-      "desc": "> 两个 skill，两种风格，一个目的——让你写出有\"作家味\"的长文。",
+      "desc": "刘润风格书写作技能：两种风格写出作家味长文",
       "url": "https://github.com/liangdabiao/liurun-bookwriter-skills",
       "category": "longform",
       "tags": [
@@ -2318,11 +2318,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 271
+      "hot": 285
     },
     {
       "name": "Natural Japanese",
-      "desc": "[![License: MIT](https://img.shields.io/badge/License-MIT-bl",
+      "desc": "自然日语写作 skill：去除翻译腔的日文润色",
       "url": "https://github.com/coji/natural-japanese",
       "category": "humanizer",
       "tags": [
@@ -2331,11 +2331,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1825
+      "hot": 1999
     },
     {
       "name": "No Ai Slop Writing Rules",
-      "desc": "[![skills.sh](https://skills.sh/b/realrossmanngroup/no_ai_sl",
+      "desc": "反 AI 味写作规则集（skills.sh 收录）",
       "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
       "category": "humanizer",
       "tags": [
@@ -2344,11 +2344,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 695
+      "hot": 708
     },
     {
       "name": "Novel Creator Skill",
-      "desc": "## Iron Law（铁律 — 任何情况下不可违反）",
+      "desc": "小说创作铁律技能：任何场景不可违反的创作底线",
       "url": "https://github.com/leenbj/novel-creator-skill",
       "category": "longform",
       "tags": [
@@ -2358,7 +2358,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 661
+      "hot": 703
     },
     {
       "name": "Novel-Harness",
@@ -2372,11 +2372,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 129
+      "hot": 131
     },
     {
       "name": "Novel Writer - AI 驱动的中文小说创作工具",
-      "desc": "[![npm version](https://badge.fury.io/js/novel-writer-cn.svg",
+      "desc": "中文小说创作工具（npm 包）：AI 驱动全流程",
       "url": "https://github.com/wordflowlab/novel-writer",
       "category": "longform",
       "tags": [
@@ -2386,11 +2386,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 953
+      "hot": 959
     },
     {
       "name": "Novel Writing Framework",
-      "desc": "[![License: MIT](https://img.shields.io/badge/License-MIT-ye",
+      "desc": "小说写作框架：MIT 协议的章节工程化技能",
       "url": "https://github.com/LAY-lgtm/novel-writing-framework",
       "category": "longform",
       "tags": [
@@ -2400,11 +2400,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 242
+      "hot": 267
     },
     {
       "name": "公文写作",
-      "desc": "## Purpose",
+      "desc": "公文写作技能：党政机关公文格式与行文规范",
       "url": "https://github.com/Liuxiangjian-ai/official-document-skill",
       "category": "longform",
       "tags": [
@@ -2413,7 +2413,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 379
+      "hot": 416
     },
     {
       "name": "Official Document Writing Skill",
@@ -2426,7 +2426,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 296
+      "hot": 308
     },
     {
       "name": "Patina",
@@ -2439,7 +2439,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 359
+      "hot": 382
     },
     {
       "name": "须弥写作 (Sumeru Writing)",
@@ -2452,11 +2452,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 193
+      "hot": 217
     },
     {
       "name": "Tianming Skill",
-      "desc": "## 一、本 Skill 的工作哲学",
+      "desc": "天命 Skill：以工作哲学驱动的网文创作体系",
       "url": "https://github.com/zy-zmc/tianming-skill",
       "category": "longform",
       "tags": [
@@ -2465,11 +2465,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 150
+      "hot": 159
     },
     {
       "name": "台灣正式文件撰寫助手",
-      "desc": "## Quick Start",
+      "desc": "台湾正式文件撰写助手：公文书信格式规范",
       "url": "https://github.com/Imbad0202/tw-formal-writing",
       "category": "methodology",
       "tags": [
@@ -2478,7 +2478,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 178
+      "hot": 195
     },
     {
       "name": "Ux Writing Skill",
@@ -2491,11 +2491,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 215
+      "hot": 249
     },
     {
       "name": "Webnovel Writer",
-      "desc": "[![License](https://img.shields.io/badge/License-GPL%20v3-bl",
+      "desc": "网文写手技能：GPL v3 的长篇连载工作流",
       "url": "https://github.com/lingfengQAQ/webnovel-writer",
       "category": "longform",
       "tags": [
@@ -2505,11 +2505,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 7283
+      "hot": 7760
     },
     {
       "name": "WeChat Article Publisher Skill",
-      "desc": "<p align=\"center\">",
+      "desc": "公众号文章发布技能：排版到草稿箱一步到位",
       "url": "https://github.com/iamzifei/wechat-article-publisher-skill",
       "category": "longform",
       "tags": [
@@ -2531,7 +2531,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 653
+      "hot": 717
     },
     {
       "name": "Wechat Publisher",
@@ -2544,11 +2544,11 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 114
+      "hot": 120
     },
     {
       "name": "WeChat Writing Team",
-      "desc": "[![Obsidian 微信发布插件](https://img.shields.io/badge/Obsidian-微信",
+      "desc": "微信写作团队：Obsidian 插件+多 Agent 协作发文",
       "url": "https://github.com/DavidLam-oss/wechat-writing-team",
       "category": "longform",
       "tags": [
@@ -2557,7 +2557,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 43
+      "hot": 46
     },
     {
       "name": "Wjs Burning Subtitles",
@@ -2572,7 +2572,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Wjs Converting Text To Video",
@@ -2587,7 +2587,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Wjs Dubbing Video",
@@ -2602,7 +2602,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Wjs Editing Multicam",
@@ -2617,7 +2617,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Wjs Localizing Video",
@@ -2632,7 +2632,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Wjs Overlaying Video",
@@ -2647,7 +2647,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Wjs Reframing Video",
@@ -2662,7 +2662,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Wjs Segmenting Video",
@@ -2677,7 +2677,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Wjs Syncing Multicam",
@@ -2692,7 +2692,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Wjs Transcribing Audio",
@@ -2707,7 +2707,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Wjs Translating Subtitles",
@@ -2722,7 +2722,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Wjs Uploading Video",
@@ -2737,7 +2737,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "VoiceDrop",
@@ -2752,7 +2752,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "VoiceDrop Cover Selection",
@@ -2767,7 +2767,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "VoiceDrop 文章后处理",
@@ -2782,7 +2782,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 131
+      "hot": 137
     },
     {
       "name": "Remotion Best Practices",
@@ -2797,7 +2797,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "Remotion Captions",
@@ -2812,7 +2812,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "Remotion Create",
@@ -2827,7 +2827,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "Remotion Docs",
@@ -2842,7 +2842,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "Remotion Interactivity",
@@ -2857,7 +2857,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "Remotion Maps",
@@ -2872,7 +2872,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "Remotion Markup",
@@ -2887,7 +2887,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "Remotion Multimedia",
@@ -2902,7 +2902,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "Remotion Render",
@@ -2917,7 +2917,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "Remotion Saas",
@@ -2932,7 +2932,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "Remotion Studio",
@@ -2947,7 +2947,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "Upgrade Remotion",
@@ -2962,7 +2962,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 4800
+      "hot": 5915
     },
     {
       "name": "知识讲解视频生成器",
@@ -2977,7 +2977,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 60
+      "hot": 67
     },
     {
       "name": "Lottie 动画讲解短视频生成器",
@@ -2992,7 +2992,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 60
+      "hot": 67
     },
     {
       "name": "Tumblr Post Video Generator",
@@ -3007,7 +3007,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 60
+      "hot": 67
     },
     {
       "name": "Frontend Slides",
@@ -3023,7 +3023,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 30048
+      "hot": 31611
     },
     {
       "name": "HTML PPT Studio",
@@ -3039,7 +3039,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 8562
+      "hot": 8916
     },
     {
       "name": "PPT Agent Skills",
@@ -3055,7 +3055,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 902
+      "hot": 918
     },
     {
       "name": "Claude Office Skills",
@@ -3071,7 +3071,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 834
+      "hot": 845
     },
     {
       "name": "McKinsey PPTX",
@@ -3087,7 +3087,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 593
+      "hot": 597
     },
     {
       "name": "Reveal.js Skill",
@@ -3103,7 +3103,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 413
+      "hot": 417
     },
     {
       "name": "Draw.io Skill",
@@ -3119,7 +3119,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 9788
+      "hot": 10471
     },
     {
       "name": "Research Writing Skill",
@@ -3135,7 +3135,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 3298
+      "hot": 3557
     },
     {
       "name": "Academic Paper (ARS)",
@@ -3151,7 +3151,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 50086
+      "hot": 54673
     },
     {
       "name": "Clipify",
@@ -3167,7 +3167,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 582
+      "hot": 621
     },
     {
       "name": "花叔 Design",
@@ -3184,7 +3184,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 24566
+      "hot": 28224
     },
     {
       "name": "Dashi PPT",
@@ -3200,7 +3200,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 9037
+      "hot": 10194
     },
     {
       "name": "Apple Bento Grid",
@@ -3216,7 +3216,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 234
+      "hot": 238
     },
     {
       "name": "Baseline UI",
@@ -3232,7 +3232,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 9308
+      "hot": 10382
     },
     {
       "name": "小互公众号排版",
@@ -3248,7 +3248,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 699
+      "hot": 706
     },
     {
       "name": "仓颉 · 拆书蒸馏",
@@ -3264,7 +3264,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 10808
+      "hot": 11913
     },
     {
       "name": "女娲 · 造人术",
@@ -3280,7 +3280,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 33436
+      "hot": 36889
     },
     {
       "name": "Video Use",
@@ -3296,7 +3296,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 27824
+      "hot": 30168
     },
     {
       "name": "OpenEdit 视频剪辑",
@@ -3312,7 +3312,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 1427
+      "hot": 1754
     },
     {
       "name": "口播视频精剪",
@@ -3344,7 +3344,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1846
+      "hot": 1887
     },
     {
       "name": "Scientific Writing 科研写作",
@@ -3360,7 +3360,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 47293
+      "hot": 55396
     },
     {
       "name": "Scientific Schematics 科研配图",
@@ -3376,7 +3376,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 47293
+      "hot": 55396
     },
     {
       "name": "Stop Slop 去 AI 味",
@@ -3392,7 +3392,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 17694
+      "hot": 18486
     },
     {
       "name": "ljg-writes 中文写作引擎",
@@ -3408,7 +3408,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 7439
+      "hot": 7597
     },
     {
       "name": "Claude Blog 博客写作",
@@ -3424,7 +3424,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 2301
+      "hot": 2591
     },
     {
       "name": "Anthropic Frontend Design",
@@ -3440,7 +3440,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 179313
+      "hot": 185230
     },
     {
       "name": "Anthropic Canvas Design",
@@ -3456,7 +3456,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 179313
+      "hot": 185230
     },
     {
       "name": "KrillinAI 字幕",
@@ -3472,7 +3472,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 12548
+      "hot": 14040
     },
     {
       "name": "KrillinAI 配音",
@@ -3488,7 +3488,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 12548
+      "hot": 14040
     },
     {
       "name": "Algorithmic Art (官方)",
@@ -3504,7 +3504,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 179313
+      "hot": 185230
     },
     {
       "name": "PPTX (官方)",
@@ -3520,7 +3520,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 179313
+      "hot": 185230
     },
     {
       "name": "Brand Guidelines (官方)",
@@ -3536,7 +3536,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 179313
+      "hot": 185230
     },
     {
       "name": "Theme Factory (官方)",
@@ -3552,7 +3552,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 179313
+      "hot": 185230
     },
     {
       "name": "Web Artifacts Builder (官方)",
@@ -3568,7 +3568,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 179313
+      "hot": 185230
     },
     {
       "name": "DOCX (官方)",
@@ -3584,7 +3584,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 179313
+      "hot": 185230
     },
     {
       "name": "Doc Co-Authoring (官方)",
@@ -3600,7 +3600,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 179313
+      "hot": 185230
     },
     {
       "name": "AI Motion Director",
@@ -3616,7 +3616,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 665
+      "hot": 693
     },
     {
       "name": "Dark SaaS Magic Video",
@@ -3632,7 +3632,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 665
+      "hot": 693
     },
     {
       "name": "Diagram Design",
@@ -3649,7 +3649,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 43002
+      "hot": 63244
     },
     {
       "name": "PDF 处理（Anthropic 官方）",
@@ -3666,7 +3666,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 179313
+      "hot": 185230
     },
     {
       "name": "内部沟通写作（Anthropic 官方）",
@@ -3683,7 +3683,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 179313
+      "hot": 185230
     },
     {
       "name": "网文长篇写作 oh-story",
@@ -3700,7 +3700,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 7195
+      "hot": 8156
     },
     {
       "name": "OpenClaw Video Toolkit",
@@ -3717,7 +3717,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2157
+      "hot": 2391
     },
     {
       "name": "i-have-adhd 输出整形",
@@ -3733,7 +3733,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 52691
+      "hot": 59493
     },
     {
       "name": "Agent Sprite Forge",
@@ -3750,7 +3750,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 4243
+      "hot": 4722
     },
     {
       "name": "Text-to-Lottie",
@@ -3767,7 +3767,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 5530
+      "hot": 5652
     },
     {
       "name": "Logo Generator",
@@ -3784,7 +3784,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 2175
+      "hot": 2312
     },
     {
       "name": "归藏社媒卡片",
@@ -3801,7 +3801,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 7329
+      "hot": 7862
     },
     {
       "name": "Superpowers · 写作计划",
@@ -3818,7 +3818,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 293913
+      "hot": 309360
     },
     {
       "name": "Matt Pocock · Grill Me",
@@ -3835,7 +3835,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 273795
+      "hot": 307399
     },
     {
       "name": "VideoCut 字幕",
@@ -3852,7 +3852,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 287
+      "hot": 296
     },
     {
       "name": "DeerFlow PPT 生成",
@@ -3868,7 +3868,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 83314
+      "hot": 84737
     },
     {
       "name": "DeerFlow 图像生成",
@@ -3884,7 +3884,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 83314
+      "hot": 84737
     },
     {
       "name": "Web Design Engineer",
@@ -3900,7 +3900,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 12711
+      "hot": 13422
     },
     {
       "name": "DeerFlow 视频生成",
@@ -3916,7 +3916,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 83314
+      "hot": 84737
     },
     {
       "name": "Web Video Presentation",
@@ -3932,7 +3932,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 12711
+      "hot": 13422
     },
     {
       "name": "Content Research Writer",
@@ -3948,7 +3948,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1999
+      "hot": 2009
     },
     {
       "name": "Conversion Copywriting",
@@ -3964,7 +3964,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 52151
+      "hot": 57501
     },
     {
       "name": "ML Paper Writing",
@@ -3980,7 +3980,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 13174
+      "hot": 14126
     },
     {
       "name": "DBS 内容创作诊断",
@@ -3996,7 +3996,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 10388
+      "hot": 10990
     },
     {
       "name": "Gorden PPT 技能",
@@ -4012,7 +4012,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 3177
+      "hot": 3837
     },
     {
       "name": "Ian 小黑正文配图",
@@ -4028,7 +4028,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 12276
+      "hot": 12983
     },
     {
       "name": "GPT Image 2 生图",
@@ -4044,7 +4044,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 5621
+      "hot": 5954
     },
     {
       "name": "Impeccable 前端设计",
@@ -4060,7 +4060,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 73599
+      "hot": 96920
     },
     {
       "name": "Taste 反模板前端",
@@ -4076,7 +4076,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 91771
+      "hot": 106259
     },
     {
       "name": "科研论文写作",
@@ -4092,7 +4092,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 7199
+      "hot": 7952
     },
     {
       "name": "麦肯锡 PPT 设计系统",
@@ -4108,7 +4108,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 293
+      "hot": 325
     },
     {
       "name": "设计奖项匹配",
@@ -4124,7 +4124,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 714
+      "hot": 711
     },
     {
       "name": "Vega 数据图表",
@@ -4140,7 +4140,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 3350
+      "hot": 3386
     },
     {
       "name": "乔木智能视频导演",
@@ -4156,7 +4156,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 372
+      "hot": 377
     },
     {
       "name": "故事转手绘动画",
@@ -4172,7 +4172,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2125
+      "hot": 2324
     },
     {
       "name": "Archify 架构图",
@@ -4187,7 +4187,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 75772
+      "hot": 91809
     },
     {
       "name": "Banana 图像创意总监",
@@ -4202,7 +4202,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1069
+      "hot": 1154
     },
     {
       "name": "学术 PPT 结构师",
@@ -4217,7 +4217,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1100
+      "hot": 1410
     },
     {
       "name": "Pretty Mermaid 美化",
@@ -4232,7 +4232,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1499
+      "hot": 1555
     },
     {
       "name": "Effective HTML 原型",
@@ -4247,7 +4247,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 3492
+      "hot": 3802
     },
     {
       "name": "NotebookLM 研究写作",
@@ -4262,7 +4262,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 463
+      "hot": 486
     },
     {
       "name": "Pexo AI 视频工厂",
@@ -4277,7 +4277,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 799
+      "hot": 817
     },
     {
       "name": "IP as Logo",
@@ -4293,7 +4293,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 5750
+      "hot": 6294
     },
     {
       "name": "女性人像提示词导演",
@@ -4309,7 +4309,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1621
+      "hot": 1685
     },
     {
       "name": "极简 Zine 海报",
@@ -4325,7 +4325,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 7239
+      "hot": 7442
     },
     {
       "name": "PPT Image First",
@@ -4341,7 +4341,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1223
+      "hot": 1232
     },
     {
       "name": "图片转可编辑 PPT",
@@ -4357,7 +4357,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 2753
+      "hot": 3179
     },
     {
       "name": "Deep Research",
@@ -4373,7 +4373,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1158
+      "hot": 1203
     },
     {
       "name": "真实感视频提示词",
@@ -4389,7 +4389,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 328
+      "hot": 332
     },
     {
       "name": "AI 自动剪辑 Vlog",
@@ -4405,7 +4405,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 139
+      "hot": 168
     },
     {
       "name": "宝玉 Design（本地版 Claude Design）",
@@ -4421,7 +4421,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 4236
+      "hot": 5445
     },
     {
       "name": "Lieflat Charts 图表品味法典",
@@ -4437,7 +4437,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 5865
+      "hot": 6501
     },
     {
       "name": "Design DNA 设计基因提取",
@@ -4453,7 +4453,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1870
+      "hot": 2053
     },
     {
       "name": "ScrollCraft 滚动叙事站",
@@ -4469,7 +4469,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 2896
+      "hot": 4262
     },
     {
       "name": "Codex Slides 幻灯工作台",
@@ -4485,7 +4485,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 922
+      "hot": 965
     },
     {
       "name": "FLUX 3 商品广告图（BFL 官方）",
@@ -4501,7 +4501,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 123
+      "hot": 135
     },
     {
       "name": "im-not-ai 韩语去 AI 味",
@@ -4517,7 +4517,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 5815
+      "hot": 6338
     },
     {
       "name": "Sepia 去 AI 味（叙事 + 职场双通道）",
@@ -4533,7 +4533,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 2930
+      "hot": 3559
     },
     {
       "name": "DeepPaperNote 论文精读笔记",
@@ -4549,7 +4549,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1140
+      "hot": 1274
     },
     {
       "name": "AI 短剧制作（全链路）",
@@ -4565,7 +4565,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2430
+      "hot": 3562
     },
     {
       "name": "HyperFrames 动效导演（中文优先）",
@@ -4581,7 +4581,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 450
+      "hot": 471
     },
     {
       "name": "Video Explainer（Remotion 带闸门）",
@@ -4597,7 +4597,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 120
+      "hot": 122
     },
     {
       "name": "Video Talkcraft 口播视频",
@@ -4613,7 +4613,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 1333
+      "hot": 1970
     },
     {
       "name": "SQL to ER 图",
@@ -4629,7 +4629,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 187
+      "hot": 192
     },
     {
       "name": "tldraw 白板绘图",
@@ -4661,7 +4661,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 567
+      "hot": 578
     },
     {
       "name": "Faceless Shorts 生成式短视频",
@@ -4677,7 +4677,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 271
+      "hot": 292
     },
     {
       "name": "Bolt Slides",
@@ -4693,7 +4693,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1097
+      "hot": 1151
     },
     {
       "name": "GPT Image Skill",
@@ -4709,7 +4709,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 171
+      "hot": 184
     },
     {
       "name": "Kill AI Slop",
@@ -4725,7 +4725,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1308
+      "hot": 1401
     },
     {
       "name": "Codebase to Course",
@@ -4741,7 +4741,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 5610
+      "hot": 5745
     },
     {
       "name": "学术论文写作·撰稿",
@@ -4757,7 +4757,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1352
+      "hot": 1451
     },
     {
       "name": "学术论文写作·策略规划",
@@ -4773,7 +4773,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 1352
+      "hot": 1451
     },
     {
       "name": "Lanshu AI 主讲人视频",
@@ -4789,7 +4789,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2049
+      "hot": 2848
     },
     {
       "name": "No AI Slop",
@@ -4805,7 +4805,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 11662
+      "hot": 12980
     },
     {
       "name": "Awesome Novel Agent",
@@ -4821,7 +4821,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 775
+      "hot": 851
     },
     {
       "name": "Violin 视频翻译",
@@ -4837,7 +4837,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 1075
+      "hot": 1084
     },
     {
       "name": "FireRed OpenStoryline",
@@ -4853,7 +4853,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 3457
+      "hot": 3596
     },
     {
       "name": "Emil Kowalski 设计动画技能合集",
@@ -4869,7 +4869,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 42680
+      "hot": 51937
     },
     {
       "name": "Meng To 设计 UI 技能合集",
@@ -4885,7 +4885,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 6553
+      "hot": 7140
     },
     {
       "name": "Visual Explainer",
@@ -4902,7 +4902,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 10158
+      "hot": 10706
     },
     {
       "name": "Claude Shorts",
@@ -4919,7 +4919,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 217
+      "hot": 258
     },
     {
       "name": "Video Podcast Maker",
@@ -4936,7 +4936,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 1640
+      "hot": 1707
     },
     {
       "name": "Paper Writing Skill",
@@ -4953,7 +4953,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 230
+      "hot": 247
     },
     {
       "name": "Lit Search（高召回文献检索）",
@@ -4970,7 +4970,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 853
+      "hot": 876
     },
     {
       "name": "Nature Skills · 学术写作",
@@ -4986,7 +4986,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 45497
+      "hot": 51497
     },
     {
       "name": "Supervisor Skills · 论文写作",
@@ -5002,7 +5002,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 7794
+      "hot": 11165
     },
     {
       "name": "ARIS · 论文写作",
@@ -5018,7 +5018,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 16875
+      "hot": 18342
     },
     {
       "name": "Markdown Viewer · 信息图",
@@ -5034,7 +5034,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 3350
+      "hot": 3386
     },
     {
       "name": "SenseNova · 标准 PPT",
@@ -5050,7 +5050,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 5731
+      "hot": 5985
     },
     {
       "name": "VideoCut · 视频剪辑",
@@ -5066,7 +5066,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 3025
+      "hot": 3158
     },
     {
       "name": "Remotion Video Toolkit",
@@ -5083,7 +5083,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 664
+      "hot": 673
     },
     {
       "name": "AI Video Gen",
@@ -5100,7 +5100,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 664
+      "hot": 673
     },
     {
       "name": "Video Subtitles",
@@ -5117,7 +5117,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 664
+      "hot": 673
     },
     {
       "name": "OpenAI Image Gen",
@@ -5134,7 +5134,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 664
+      "hot": 673
     },
     {
       "name": "Chapter Writing",
@@ -5151,7 +5151,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 257
+      "hot": 371
     },
     {
       "name": "YouTube Clipper",
@@ -5169,7 +5169,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2221
+      "hot": 2269
     },
     {
       "name": "Narrator AI 解说大师",
@@ -5186,7 +5186,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 3021
+      "hot": 3080
     },
     {
       "name": "BibiGPT 视频总结",
@@ -5203,7 +5203,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 128
+      "hot": 133
     },
     {
       "name": "UI/UX Pro Max",
@@ -5221,7 +5221,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 132327
+      "hot": 142999
     },
     {
       "name": "X Article Publisher",
@@ -5238,7 +5238,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 870
+      "hot": 874
     },
     {
       "name": "Vercel Web 设计指南",
@@ -5254,7 +5254,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 31811
+      "hot": 33258
     },
     {
       "name": "InkOS 小说创作",
@@ -5270,7 +5270,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 10103
+      "hot": 10926
     },
     {
       "name": "OpenMontage AI 视频生成",
@@ -5286,7 +5286,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 62130
+      "hot": 73352
     },
     {
       "name": "Seedance 爆款短片提示词",
@@ -5302,7 +5302,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 395
+      "hot": 446
     },
     {
       "name": "MuAPI Logo 品牌包",
@@ -5318,7 +5318,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 5100
+      "hot": 28
     },
     {
       "name": "Noiz AI 视频翻译配音",
@@ -5334,7 +5334,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 526
+      "hot": 531
     },
     {
       "name": "Claude Design 专家",
@@ -5351,7 +5351,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 199
+      "hot": 213
     },
     {
       "name": "Book Illustrator 童书插画",
@@ -5367,7 +5367,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 212
+      "hot": 226
     },
     {
       "name": "Soviet Storybook 复古插画",
@@ -5383,7 +5383,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 595
+      "hot": 621
     },
     {
       "name": "Viral Short-Form 短视频爆款",
@@ -5400,7 +5400,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 123
+      "hot": 178
     },
     {
       "name": "Flyworks 数字人视频",
@@ -5416,7 +5416,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 461
+      "hot": 473
     },
     {
       "name": "GitHub Generate Image",
@@ -5432,7 +5432,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 39600
+      "hot": 40606
     },
     {
       "name": "GitHub Anti UI Slop",
@@ -5448,7 +5448,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 39600
+      "hot": 40606
     },
     {
       "name": "GitHub Premium Frontend UI",
@@ -5464,7 +5464,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 39600
+      "hot": 40606
     },
     {
       "name": "GitHub Excalidraw 图表生成",
@@ -5480,7 +5480,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 39600
+      "hot": 40606
     },
     {
       "name": "GitHub Web Design Reviewer",
@@ -5496,7 +5496,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 39600
+      "hot": 40606
     },
     {
       "name": "GitHub 文档写作（Diátaxis）",
@@ -5512,7 +5512,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 39600
+      "hot": 40606
     },
     {
       "name": "Diagram Design",
@@ -5544,7 +5544,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 5815
+      "hot": 6338
     },
     {
       "name": "视频解说 Recap",
@@ -5560,7 +5560,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 542
+      "hot": 598
     },
     {
       "name": "Econ Writing (经济学论文写作)",
@@ -5576,7 +5576,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 633
+      "hot": 688
     },
     {
       "name": "Slack GIF Creator",
@@ -5592,7 +5592,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 179313
+      "hot": 185231
     },
     {
       "name": "Diagrammer 蓝图图表",
@@ -5608,7 +5608,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 32269
+      "hot": 33001
     },
     {
       "name": "ImageGen 图像生成（OpenAI）",
@@ -5624,7 +5624,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 32269
+      "hot": 33001
     },
     {
       "name": "Marp 幻灯片",
@@ -5640,7 +5640,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 32269
+      "hot": 33001
     },
     {
       "name": "Motion Canvas 动画",
@@ -5656,7 +5656,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 32269
+      "hot": 33001
     },
     {
       "name": "Sora 视频生成",
@@ -5672,7 +5672,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 32269
+      "hot": 33001
     },
     {
       "name": "文献综述 Literature Review",
@@ -5688,7 +5688,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 47293
+      "hot": 55396
     },
     {
       "name": "同行评审 Peer Review",
@@ -5704,7 +5704,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 47293
+      "hot": 55396
     },
     {
       "name": "AI 图像生成器",
@@ -5720,7 +5720,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1034
+      "hot": 1089
     },
     {
       "name": "Create Viz 数据可视化",
@@ -5736,7 +5736,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 25958
+      "hot": 34011
     },
     {
       "name": "DeerFlow 图表可视化",
@@ -5752,7 +5752,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 83314
+      "hot": 84737
     },
     {
       "name": "Deep Research 深度研究",
@@ -5768,7 +5768,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 50086
+      "hot": 54673
     },
     {
       "name": "讯飞视频翻译",
@@ -5784,7 +5784,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 212
+      "hot": 213
     },
     {
       "name": "Resume Master 简历导师",
@@ -5800,7 +5800,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 186
+      "hot": 224
     },
     {
       "name": "Vibe Resume",
@@ -5816,7 +5816,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 82
+      "hot": 96
     },
     {
       "name": "Resume Builder 中文简历",
@@ -5832,7 +5832,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 162
+      "hot": 177
     },
     {
       "name": "ASu 高密度履历",
@@ -5848,7 +5848,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 363
+      "hot": 414
     },
     {
       "name": "ResumeSkills 求职技能库",
@@ -5864,7 +5864,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 2507
+      "hot": 2965
     },
     {
       "name": "Resume Optimizer 简历优化",
@@ -5879,7 +5879,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 490
+      "hot": 545
     },
     {
       "name": "Resume Tailoring",
@@ -5894,7 +5894,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 762
+      "hot": 839
     },
     {
       "name": "Repo to Resume",
@@ -5909,7 +5909,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 127
+      "hot": 128
     },
     {
       "name": "牛肉项目雷达",
@@ -5925,7 +5925,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 345
+      "hot": 367
     },
     {
       "name": "LLMInternSkill",
@@ -5941,7 +5941,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 324
+      "hot": 334
     },
     {
       "name": "career-ops",
@@ -5957,7 +5957,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 73239
+      "hot": 78878
     },
     {
       "name": "AI Job Search",
@@ -5973,7 +5973,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 44691
+      "hot": 67937
     },
     {
       "name": "ASu-skills 中文求职工作流",
@@ -5989,7 +5989,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 5298
+      "hot": 6109
     },
     {
       "name": "Job OK",
@@ -6005,7 +6005,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 409
+      "hot": 431
     },
     {
       "name": "Job Application Agent",
@@ -6021,7 +6021,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 153
+      "hot": 171
     },
     {
       "name": "Proficiently 求职技能包",
@@ -6037,7 +6037,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 403
+      "hot": 442
     },
     {
       "name": "Offer Toolkit",
@@ -6053,7 +6053,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 514
+      "hot": 547
     },
     {
       "name": "实习.skill",
@@ -6069,7 +6069,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 614
+      "hot": 703
     },
     {
       "name": "Mokio 面试技能",
@@ -6085,7 +6085,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 44
+      "hot": 52
     },
     {
       "name": "鱼皮 Agent Skill",
@@ -6101,7 +6101,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 442
+      "hot": 453
     },
     {
       "name": "Magic Resume",
@@ -6117,7 +6117,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 10907
+      "hot": 11286
     },
     {
       "name": "简历打分 Skill（Uncle城）",
@@ -6148,7 +6148,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 266
+      "hot": 273
     },
     {
       "name": "LinkedIn Skills",
@@ -6164,7 +6164,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 3901
+      "hot": 5390
     },
     {
       "name": "Composio 简历定制生成器",
@@ -6179,7 +6179,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 76310
+      "hot": 78350
     },
     {
       "name": "国内求职一条龙",
@@ -6195,7 +6195,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 19
+      "hot": 40
     },
     {
       "name": "Career Ops 求职插件",
@@ -6211,7 +6211,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 501
+      "hot": 507
     },
     {
       "name": "Auto Job Apply",
@@ -6227,7 +6227,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 164
+      "hot": 182
     },
     {
       "name": "Job Seeker",
@@ -6243,7 +6243,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 31
+      "hot": 62
     },
     {
       "name": "Resume Tuning",
@@ -6259,7 +6259,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 44
+      "hot": 45
     },
     {
       "name": "Resumx 简历写作",
@@ -6274,7 +6274,7 @@
       "icon": "✨",
       "bg": "",
       "tool": "career",
-      "hot": 26
+      "hot": 29
     },
     {
       "name": "Hallmark 设计",
@@ -6290,7 +6290,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 29395
+      "hot": 42898
     },
     {
       "name": "Anything2Explainer",
@@ -6306,7 +6306,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2218
+      "hot": 2858
     },
     {
       "name": "PR Lens",
@@ -6322,7 +6322,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 1804
+      "hot": 2303
     },
     {
       "name": "Excalidraw 手绘图表",
@@ -6338,7 +6338,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 660
+      "hot": 704
     },
     {
       "name": "Jianying Headless",
@@ -6354,7 +6354,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 2948
+      "hot": 3943
     },
     {
       "name": "UI 设计 Wiki",
@@ -6370,7 +6370,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 900
+      "hot": 936
     },
     {
       "name": "PPTAgent",
@@ -6386,7 +6386,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 5079
+      "hot": 5179
     },
     {
       "name": "Extract Design System",
@@ -6402,7 +6402,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 231
+      "hot": 265
     },
     {
       "name": "Landing Page Design",
@@ -6418,7 +6418,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 2339
+      "hot": 12843
     },
     {
       "name": "公众号文章转视频",
@@ -6434,7 +6434,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 204
+      "hot": 210
     },
     {
       "name": "口播视频 Remotion",
@@ -6450,7 +6450,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 204
+      "hot": 210
     },
     {
       "name": "Content Production",
@@ -6466,7 +6466,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 27161
+      "hot": 29028
     },
     {
       "name": "Copy Editing",
@@ -6482,7 +6482,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 27161
+      "hot": 29028
     },
     {
       "name": "Tailwind 设计系统",
@@ -6499,7 +6499,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 40139
+      "hot": 42020
     },
     {
       "name": "Better UI 界面打磨",
@@ -6516,7 +6516,7 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 7410
+      "hot": 9332
     },
     {
       "name": "CLI Anything 字幕生成",
@@ -6533,7 +6533,7 @@
       "icon": "🎬",
       "bg": "",
       "tool": "video",
-      "hot": 51216
+      "hot": 57826
     },
     {
       "name": "Auto Empirical 学术论文",
@@ -6550,7 +6550,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 4459
+      "hot": 4842
     },
     {
       "name": "SEO/AEO 博客写作",
@@ -6567,7 +6567,7 @@
       "icon": "✍️",
       "bg": "",
       "tool": "writing",
-      "hot": 47163
+      "hot": 48840
     },
     {
       "name": "OJO 设计方法论",
@@ -6584,7 +6584,1976 @@
       "icon": "🎨",
       "bg": "",
       "tool": "visual",
-      "hot": 148
+      "hot": 169
+    },
+    {
+      "name": "Figma 命令式/声明式画布操控",
+      "desc": "把 Figma 变成 Agent 可读写画布：命令式单步或 JSX 声明式渲染，批量创建/修改/查询/导出设计元素并做一致性 Lint",
+      "url": "https://github.com/dannote/figma-use",
+      "category": "design",
+      "tags": [
+        "Figma",
+        "设计",
+        "UI",
+        "设计系统",
+        "自动化"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 614
+    },
+    {
+      "name": "整书翻译流水线",
+      "desc": "把 PDF/DOCX/EPUB/Markdown 书籍拆块、用共享术语表并行子代理翻译、再合并构建为 HTML/DOCX/EPUB/PDF",
+      "url": "https://github.com/deusyu/translate-book",
+      "category": "longform",
+      "tags": [
+        "翻译",
+        "书籍",
+        "长文",
+        "术语表",
+        "多格式"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 2169
+    },
+    {
+      "name": "技术文章翻译（中英/中日）",
+      "desc": "把英文/日文技术文章翻译成自然流畅的中文：保留术语与品牌名、消除机翻味，Markdown 格式零失真",
+      "url": "https://github.com/feiskyer/claude-code-settings",
+      "category": "methodology",
+      "tags": [
+        "翻译",
+        "技术",
+        "中文",
+        "方法论",
+        "去机翻味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1668
+    },
+    {
+      "name": "DTCG 设计令牌",
+      "desc": "按三层架构（原始到语义到组件）生成/扩展/审计 DTCG 格式设计令牌，覆盖色彩/字体/间距/动效等多品牌主题",
+      "url": "https://github.com/plugin87/ux-ui-agent-skills",
+      "category": "design",
+      "tags": [
+        "设计令牌",
+        "DTCG",
+        "设计系统",
+        "主题",
+        "WCAG"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 3062
+    },
+    {
+      "name": "自然语言动画视频生成",
+      "desc": "从自然语言描述生成动画视频/动态图形：自动搭建 Vite+React+Framer Motion 项目，浏览器内自动播放",
+      "url": "https://github.com/OneWave-AI/claude-skills",
+      "category": "animation",
+      "tags": [
+        "动画",
+        "视频",
+        "Framer Motion",
+        "动态图形",
+        "React"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 400
+    },
+    {
+      "name": "文章塑形（Writing Shape）",
+      "desc": "把零散素材「逼问」成结构严谨的文章：先立读者前提、逼出 2-3 个开头选项、再逐段生长，每段都要挣到位置",
+      "url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-shape",
+      "category": "longform",
+      "tags": [
+        "长文",
+        "写作",
+        "方法论",
+        "结构",
+        "mattpocock"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 307400
+    },
+    {
+      "name": "叙事节拍（Writing Beats）",
+      "desc": "把素材组装成「选择你自己的冒险」式叙事：用户选起始节拍，只写那一拍，再给 2-3 个岔路，一拍一拍走到自然结尾",
+      "url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-beats",
+      "category": "longform",
+      "tags": [
+        "叙事",
+        "写作",
+        "方法论",
+        "结构",
+        "mattpocock"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 307400
+    },
+    {
+      "name": "素材碎片（Writing Fragments）",
+      "desc": "在搭结构之前，先把脑子里的高质量写作素材快速「倒」出来：捕捉原始片段，留给后续塑形/节拍消费",
+      "url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-fragments",
+      "category": "longform",
+      "tags": [
+        "素材",
+        "写作",
+        "方法论",
+        "mattpocock"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 307400
+    },
+    {
+      "name": "场景视频编辑器（Video Editor）",
+      "desc": "从 scenes.json + 帧素材端到端产出社媒视频：ffmpeg/TikTok 字幕烧录、Ken Burns、多分辨率归一，Remotion 兜底高清",
+      "url": "https://github.com/minicoohei/ai-agent-camp/tree/main/.claude/skills/video-editor",
+      "category": "fullstack",
+      "tags": [
+        "视频",
+        "Remotion",
+        "ffmpeg",
+        "字幕",
+        "短视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 345
+    },
+    {
+      "name": "爆款短视频脚本（Viral Short Video）",
+      "desc": "生成 Hook/正文/CTA 结构的病毒短视频脚本+故事板：多 Hook 变体、可转 storyboard、可选峰值 Hook 分析，直接衔接视频编辑",
+      "url": "https://github.com/minicoohei/ai-agent-camp/tree/main/.claude/skills/viral-short-video",
+      "category": "prompting",
+      "tags": [
+        "短视频",
+        "脚本",
+        "Hook",
+        "故事板",
+        "爆款"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 345
+    },
+    {
+      "name": "Logo Design Skill",
+      "desc": "把 AI Agent 变成严谨的标识设计师：从 brief 到生产级 SVG 与品牌指南",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "category": "design",
+      "tags": [
+        "Logo",
+        "品牌设计",
+        "SVG",
+        "Branding"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 5389
+    },
+    {
+      "name": "Appllama App Design",
+      "desc": "研究顶级创收 App 的屏幕与流程，产出原生质感的 Expo / React Native 界面",
+      "url": "https://github.com/Appllama/appllama-skills",
+      "category": "design",
+      "tags": [
+        "移动端",
+        "App 设计",
+        "React Native",
+        "UI"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 3841
+    },
+    {
+      "name": "Agent Vision Toolkit",
+      "desc": "给纯文本 LLM 装上一双眼睛：图像理解、长截图 OCR、前端 UI 还原、GUI 自动化",
+      "url": "https://github.com/Anionex/agent-vision-toolkit",
+      "category": "design",
+      "tags": [
+        "视觉理解",
+        "OCR",
+        "UI 还原",
+        "GUI 自动化"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1252
+    },
+    {
+      "name": "OpenChatCut",
+      "desc": "对话式本地 AI 视频编辑器：自然语言驱动多轨剪辑、字幕、特效与导出",
+      "url": "https://github.com/0xsline/OpenChatCut",
+      "category": "fullstack",
+      "tags": [
+        "视频编辑",
+        "MCP",
+        "多轨剪辑",
+        "字幕"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 2800
+    },
+    {
+      "name": "原生字幕拼图",
+      "desc": "保留视频内嵌字幕精确取帧，生成 3:4 社交长图，两种字幕模式从不混用",
+      "url": "https://github.com/chengyi-ai/native-subtitle-quote-image",
+      "category": "subtitle",
+      "tags": [
+        "字幕拼图",
+        "取帧",
+        "社交长图",
+        "JPG"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 2752
+    },
+    {
+      "name": "自媒体内容生产流",
+      "desc": "通用模块化的自媒体内容生产闭环：从选题策略到多平台文案、短视频与发布",
+      "url": "https://github.com/yanhua1010/self-media-content-workflow",
+      "category": "methodology",
+      "tags": [
+        "自媒体",
+        "内容运营",
+        "多平台",
+        "工作流"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 629
+    },
+    {
+      "name": "ElevenLabs Dubbing",
+      "desc": "用 ElevenLabs 批量配音与译制视频（多语言配音翻译）",
+      "url": "https://github.com/inference-sh/skills",
+      "category": "dubbing",
+      "tags": [
+        "配音",
+        "译制",
+        "多语言",
+        "ElevenLabs"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 793
+    },
+    {
+      "name": "YouTube Script Writer",
+      "desc": "YouTube 脚本写作方法论（钩子 / 结构 / CTA）",
+      "url": "https://github.com/Jakeschincariol/youtube-agent-skill",
+      "category": "methodology",
+      "tags": [
+        "YouTube",
+        "脚本",
+        "方法论",
+        "内容创作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 3845
+    },
+    {
+      "name": "Creative Writing Muse",
+      "desc": "长文创意写作灵感助手（长篇创作）",
+      "url": "https://github.com/haowjy/creative-writing-skills",
+      "category": "longform",
+      "tags": [
+        "创意写作",
+        "长篇",
+        "灵感",
+        "小说"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 554
+    },
+    {
+      "name": "Claude Blog Writer",
+      "desc": "博客文章全流程写作（选题到成稿与 SEO）",
+      "url": "https://github.com/AgriciDaniel/claude-blog",
+      "category": "longform",
+      "tags": [
+        "博客",
+        "长文",
+        "SEO",
+        "内容创作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 2591
+    },
+    {
+      "name": "AntV Chart Visualization",
+      "desc": "数据可视化图表选型与 AntV 代码生成",
+      "url": "https://github.com/antvis/chart-visualization-skills",
+      "category": "dataviz",
+      "tags": [
+        "数据可视化",
+        "图表",
+        "AntV",
+        "G2"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 518
+    },
+    {
+      "name": "MiniMax PPT 生成器",
+      "desc": "基于 PptxGenJS 从零生成/编辑/读取 PowerPoint，含封面、目录、内容、章节分隔、总结页",
+      "url": "https://github.com/MiniMax-AI/skills",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "PPTX",
+        "PowerPoint",
+        "MiniMax",
+        "PptxGenJS"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 13745
+    },
+    {
+      "name": "iOS HIG 设计规范",
+      "desc": "按 Apple 人机界面指南设计原生 iOS 界面（SwiftUI/UIKit、SF Symbols、安全区、无障碍）",
+      "url": "https://github.com/wondelai/skills",
+      "category": "design",
+      "tags": [
+        "iOS",
+        "SwiftUI",
+        "UIKit",
+        "HIG",
+        "Apple",
+        "UX"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 2541
+    },
+    {
+      "name": "GooseWorks 图像生成 (FAL)",
+      "desc": "调用 FAL 任意图像模型（nano-banana/gpt-image/flux）生成或编辑图像，用于关键帧、产品主图",
+      "url": "https://github.com/gooseworks-ai/goose-skills",
+      "category": "image-gen",
+      "tags": [
+        "图像生成",
+        "FAL",
+        "GPT-Image",
+        "Flux",
+        "广告素材"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1273
+    },
+    {
+      "name": "Google 广告文案生成",
+      "desc": "生成并 A/B 测试 Google Ads RSA 文案（标题/描述/变体），提升 CTR",
+      "url": "https://github.com/nowork-studio/notfair-plugin",
+      "category": "methodology",
+      "tags": [
+        "广告文案",
+        "Google Ads",
+        "RSA",
+        "A/B 测试",
+        "营销"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 4087
+    },
+    {
+      "name": "SEO 内容写作",
+      "desc": "写完整 SEO 文章：自带反 AI 味规则集（禁用词/禁用结构）+ 声音规则，Agent 自研 SERP",
+      "url": "https://github.com/inhouseseo/superseo-skills",
+      "category": "methodology",
+      "tags": [
+        "SEO",
+        "内容写作",
+        "去AI味",
+        "长文",
+        "内容营销"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 375
+    },
+    {
+      "name": "GooseWorks 视频生成 (FAL)",
+      "desc": "调用 FAL 任意视频模型（Kling/Seedance/Veo）做图生视频/文生视频，产出广告基底片段",
+      "url": "https://github.com/gooseworks-ai/goose-skills",
+      "category": "ai-video",
+      "tags": [
+        "视频生成",
+        "FAL",
+        "Kling",
+        "Seedance",
+        "Veo",
+        "广告"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1273
+    },
+    {
+      "name": "GooseWorks 字幕烧录",
+      "desc": "为竖屏成片烧录字幕：按真实音频逐词定时，Pillow+ffmpeg 烧录，支持分屏/CTA 卡",
+      "url": "https://github.com/gooseworks-ai/goose-skills",
+      "category": "subtitle",
+      "tags": [
+        "字幕",
+        "烧录",
+        "Whisper",
+        "竖屏",
+        "视频广告"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1273
+    },
+    {
+      "name": "Tastemaker 设计品味",
+      "desc": "让 AI 生成的 UI 告别千篇一律的「AI 腔」：从真实参考图提取配色、锁定 WCAG 合规调色板、接入真实素材并跨项目记住你的品味",
+      "url": "https://github.com/codeswithroh/tastemaker",
+      "category": "design",
+      "tags": [
+        "UI 设计",
+        "去 AI 味",
+        "调色板",
+        "设计系统",
+        "前端"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 509
+    },
+    {
+      "name": "Stitch 设计生成",
+      "desc": "Google Labs 官方 Stitch 技能：用一句话提示生成可直接用于 Stitch 的设计稿，配套设计系统管理与 React 代码导出",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "category": "design",
+      "tags": [
+        "UI 设计",
+        "Google",
+        "设计稿转代码",
+        "Stitch",
+        "官方"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 8641
+    },
+    {
+      "name": "编剧专业技能集",
+      "desc": "26 个专业编剧 / 电视剧 / 戏剧构作 Agent Skill：人物冲突、系列创作、京剧板腔、契诃夫戏剧法等多流派方法论",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "category": "methodology",
+      "tags": [
+        "编剧",
+        "剧本",
+        "方法论",
+        "短剧",
+        "故事结构"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1896
+    },
+    {
+      "name": "Animate 程序化短片",
+      "desc": "用提示词 + 参考音乐生成画布程序化动画短片：7 种内置风格，逐节拍分镜审批，导出多比例 MP4，适合发布预告 / 讲解动画",
+      "url": "https://github.com/cth9191/animate",
+      "category": "ai-video",
+      "tags": [
+        "动画",
+        "短片",
+        "Canvas",
+        "程序化",
+        "音乐可视化"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1152
+    },
+    {
+      "name": "写作 DNA 蒸馏器",
+      "desc": "给 AI 20+ 篇范文，自动蒸馏出你的专属「写作 DNA」（语言习惯 / 结构 / 选题 / 认知框架），之后每次写作先读规则再动笔",
+      "url": "https://github.com/larashero3-dotcom/writing-dna-skill",
+      "category": "humanizer",
+      "tags": [
+        "写作风格",
+        "去 AI 味",
+        "风格蒸馏",
+        "个人声音",
+        "方法论"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 2774
+    },
+    {
+      "name": "Dream Loop",
+      "desc": "先让 AI 生成目标截图，再让 Agent 对着截图搭建 Three.js/Blender 3D 场景，配 critic 子代理循环打磨到一致",
+      "url": "https://github.com/achimala/dream-loop",
+      "category": "animation",
+      "tags": [
+        "3D",
+        "Three.js",
+        "Blender",
+        "视觉原型",
+        "Demo"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1766
+    },
+    {
+      "name": "STEM 科研插图",
+      "desc": "24 套学科场景模板生成科研/教学示意图，含学术诚信护栏，严格几何图改走 matplotlib",
+      "url": "https://github.com/liangdabiao/stem-illustration-skill",
+      "category": "image-gen",
+      "tags": [
+        "科研绘图",
+        "STEM",
+        "示意图",
+        "教学插图",
+        "学术"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 133
+    },
+    {
+      "name": "Holo Card Studio",
+      "desc": "一句话/参考图生成可编辑的 3D 全息闪卡（Blender 工程 + Three.js 交互网页）",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "category": "design",
+      "tags": [
+        "3D",
+        "Blender",
+        "Three.js",
+        "全息卡",
+        "收藏卡"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 2024
+    },
+    {
+      "name": "Showtime",
+      "desc": "一句话描述，Agent 当导演、本机渲染成片：动态图形/旁白/音乐/字幕，全程无云端 AI",
+      "url": "https://github.com/FavioVazquez/showtime",
+      "category": "fullstack",
+      "tags": [
+        "本地视频",
+        "视频工作室",
+        "动态图形",
+        "字幕",
+        "无云端"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 309
+    },
+    {
+      "name": "Yomiyasu（読みやすさ）",
+      "desc": "把 AI 生成的日语推敲成自然、信息密度高的人类文本，含 AI 味量化检查脚本",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "category": "humanizer",
+      "tags": [
+        "去 AI 味",
+        "日语",
+        "技术写作",
+        "文本润色",
+        "方法论"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 2748
+    },
+    {
+      "name": "归藏 Product Video（产品宣传片）",
+      "desc": "归藏出品：用真实代码组件 + GSAP/Three.js 动效 + 原创配乐，把软件产品/版本更新做成代码驱动的宣传片，拒绝套模板",
+      "url": "https://github.com/op7418/guizang-product-video-skill",
+      "category": "fullstack",
+      "tags": [
+        "产品宣传片",
+        "发布视频",
+        "代码驱动",
+        "GSAP",
+        "原创配乐"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 888
+    },
+    {
+      "name": "Remotion Video Factory",
+      "desc": "Clawfirm 出品：智能视频工厂，分析 GitHub 仓库或对话上下文，自动生成 Remotion 分镜脚本（含烧录字幕）并渲染成 MP4",
+      "url": "https://github.com/npc-live/clawfirm",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "视频工厂",
+        "产品演示",
+        "字幕",
+        "程序化视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 156
+    },
+    {
+      "name": "Logo Designer（SVG 迭代）",
+      "desc": "neonwatty 出品：用 SVG 手写迭代式设计 Logo，分步访谈→探索→精修→导出，无需任何 API Key",
+      "url": "https://github.com/neonwatty/logo-designer-skill",
+      "category": "design",
+      "tags": [
+        "Logo",
+        "SVG",
+        "品牌",
+        "图标",
+        "设计系统"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 189
+    },
+    {
+      "name": "Shuohao 小说转短剧（剧本）",
+      "desc": "eternityspring 出品：把小说手稿转成角色圣经、大纲、美术参考、剧本与分镜，覆盖短剧全生产链路",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "category": "longform",
+      "tags": [
+        "小说改编",
+        "短剧",
+        "剧本",
+        "分镜",
+        "网文"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 5737
+    },
+    {
+      "name": "AniDoodle（代码动画）",
+      "desc": "Alex Greenshpun 出品：纯代码绘制静帧、绘画延时、短片、解说与可交互网页动画，32 种风格 + 作曲，无生成式素材",
+      "url": "https://github.com/alexgreensh/anidoodle",
+      "category": "animation",
+      "tags": [
+        "动画",
+        "代码绘制",
+        "动效",
+        "短片",
+        "配乐"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1185
+    },
+    {
+      "name": "GSAP 官方动效技能（核心）",
+      "desc": "GreenSock 官方出品：用 GSAP 核心 API 做专业 Web 动效（缓动/时间线/响应式）",
+      "url": "https://github.com/greensock/gsap-skills",
+      "category": "animation",
+      "tags": [
+        "GSAP",
+        "动效",
+        "Web 动画",
+        "时间线"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 17586
+    },
+    {
+      "name": "Mono Color 单色编辑风生图",
+      "desc": "单色/双色孔版印刷风编辑级图像生成，品牌一致、无 AI 味",
+      "url": "https://github.com/yanliudesign/mono-color-skill",
+      "category": "image-gen",
+      "tags": [
+        "生图",
+        "单色",
+        "Risograph",
+        "编辑设计"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 3554
+    },
+    {
+      "name": "Three.js 程序化几何",
+      "desc": "Three.js 程序化生成高质量生产级网格（硬表面/人形/挤出）",
+      "url": "https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+      "category": "animation",
+      "tags": [
+        "Three.js",
+        "3D",
+        "程序化",
+        "WebGL"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 951
+    },
+    {
+      "name": "Higgsfield 叙事解说视频",
+      "desc": "从 10 秒分镜块生成带旁白的叙事/解说视频（Seedance + Gemini）",
+      "url": "https://github.com/higgsfield-ai/skills",
+      "category": "ai-video",
+      "tags": [
+        "AI 视频",
+        "解说视频",
+        "分镜",
+        "旁白"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1821
+    },
+    {
+      "name": "BaoCut 本地字幕剪辑",
+      "desc": "全本地转录/字幕/翻译/配音/切条，隐私零延迟、无需云 API",
+      "url": "https://github.com/JimLiu/baocut",
+      "category": "subtitle",
+      "tags": [
+        "字幕",
+        "转录",
+        "配音",
+        "本地"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1630
+    },
+    {
+      "name": "Book-to-Skill 知识蒸馏",
+      "desc": "把书/文档蒸馏成可调用 Agent Skill，章节按需加载省 token",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "category": "methodology",
+      "tags": [
+        "方法论",
+        "知识蒸馏",
+        "Skill 构建",
+        "文档"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 36586
+    },
+    {
+      "name": "Editable Design 可编辑海报",
+      "desc": "中山大学出品：把海报/信息图写成可编辑 HTML 图层，文字真实可选、改文案不重渲",
+      "url": "https://github.com/yejy53/Editable-Design",
+      "category": "design",
+      "tags": [
+        "海报",
+        "信息图",
+        "可编辑HTML",
+        "设计"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1217
+    },
+    {
+      "name": "Photo Abstract Editorial",
+      "desc": "把照片抽象成竖向杂志感编辑版面，提取原图色彩/构图/空间逻辑生成高级小众视觉",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "category": "image-gen",
+      "tags": [
+        "图像生成",
+        "摄影",
+        "编辑设计",
+        "抽象"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 6022
+    },
+    {
+      "name": "Gorden Super PPT",
+      "desc": "先出图再拆层还原为可编辑 PPTX：背景/框架/图标/文本四层重组，视觉炸裂且可改",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "PPTX",
+        "可编辑",
+        "视觉"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 2203
+    },
+    {
+      "name": "SRT 白板动画",
+      "desc": "丢一份 SRT 字幕，AI 驱动手绘白板动画，笔尖连续落墨、配音口音可选",
+      "url": "https://github.com/geeklee/srt-whiteboard-animation",
+      "category": "ai-video",
+      "tags": [
+        "白板动画",
+        "字幕驱动",
+        "手绘",
+        "视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 5190
+    },
+    {
+      "name": "Lieflat 去 AI 腔",
+      "desc": "基于 283 万字人/AI 语料统计的去 AI 味规则，抓「不是A而是B」句式与密集破折号",
+      "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+      "category": "humanizer",
+      "tags": [
+        "去AI味",
+        "中文写作",
+        "方法论",
+        "润色"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 4656
+    },
+    {
+      "name": "YouTube 留存分析仪",
+      "desc": "分析观众留存曲线，定位真实流失点，给出针对性内容调整建议（11 合 1 YouTube 工具箱）",
+      "url": "https://github.com/Jakeschincariol/youtube-agent-skill",
+      "category": "fullstack",
+      "tags": [
+        "YouTube",
+        "留存分析",
+        "数据分析",
+        "内容创作"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 3845
+    },
+    {
+      "name": "邮票风格边框",
+      "desc": "把任意图片一键打成邮票风格——半圆锯齿孔洞 + 柔和投影，默认真透明背景 PNG，还能拼成等宽列邮票合集",
+      "url": "https://github.com/xianxie6/stamp-edge-skill",
+      "category": "image-gen",
+      "tags": [
+        "邮票",
+        "透明PNG",
+        "图片处理",
+        "合集"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 153
+    },
+    {
+      "name": "小红书笔记创作",
+      "desc": "从资料到成稿再到配图卡片：自动写小红书标题正文、渲染 8 种主题封面/正文卡片，可一键发布",
+      "url": "https://github.com/comeonzhj/Auto-Redbook-Skills",
+      "category": "image-gen",
+      "tags": [
+        "小红书",
+        "图文卡片",
+        "社交媒体",
+        "排版"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 2416
+    },
+    {
+      "name": "CRT 复古界面漫画",
+      "desc": "把肖像/合照/物体重绘成约 1980 年代位图编辑漫画，置于早期 Mac/Minitel 风格窗口，强约束不描摹",
+      "url": "https://github.com/TaiT-tt/tait-crt-interface-skill",
+      "category": "image-gen",
+      "tags": [
+        "CRT",
+        "复古",
+        "漫画",
+        "头像"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 539
+    },
+    {
+      "name": "Photo Relic 编辑感海报",
+      "desc": "把普通照片升级为「真景+手作遗物」式编辑感艺术海报：保留真实照片，下方配克制抽象遗物",
+      "url": "https://github.com/wnby/photo-relic-editorial",
+      "category": "image-gen",
+      "tags": [
+        "编辑感",
+        "艺术海报",
+        "摄影",
+        "抽象"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 445
+    },
+    {
+      "name": "生命感人像摄影",
+      "desc": "把废片/游客照升级为色彩鲜明、镜头亲密、有电影感与现场情绪的高级生命感人像作品",
+      "url": "https://github.com/dacnay816y62-hub/fantasy-life-force-portrait-photography",
+      "category": "image-gen",
+      "tags": [
+        "人像",
+        "摄影",
+        "生命感",
+        "氛围"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 453
+    },
+    {
+      "name": "实景拼贴杂志海报",
+      "desc": "把照片做成 tactile 极简拼贴杂志海报：真景为锚、插画成场、撕纸成界、纸面会呼吸",
+      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+      "category": "image-gen",
+      "tags": [
+        "拼贴",
+        "杂志",
+        "撕纸",
+        "海报"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 5577
+    },
+    {
+      "name": "演示设计（断言-证据法）",
+      "desc": "以「受众中心 + 断言-证据」框架设计评估演示：消灭要点罗列病，附认知负荷诊断与评估",
+      "url": "https://github.com/jwynia/agent-skills",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "演示设计",
+        "方法论",
+        "演讲稿"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 180
+    },
+    {
+      "name": "SCI/SSCI 科研写作",
+      "desc": "从自有材料规划、起草、修订、润色 SCI/SSCI 论文，证据保全、不改科学、多语言",
+      "url": "https://github.com/Yila-AI/awesome-research-skills",
+      "category": "longform",
+      "tags": [
+        "学术论文",
+        "SCI/SSCI",
+        "润色",
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 140
+    },
+    {
+      "name": "口播视频图形包装",
+      "desc": "给口播/访谈/播客视频叠加定时设计的图形卡（动态标题、下三分之一、数据 callout、画中画），导出 MP4",
+      "url": "https://github.com/coco-research/coco",
+      "category": "fullstack",
+      "tags": [
+        "口播",
+        "图形叠加",
+        "视频包装",
+        "后期"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 795
+    },
+    {
+      "name": "ChatCut 视频译制",
+      "desc": "端到端视频译制：转录→翻译→配音→口型同步，保留原音色",
+      "url": "https://github.com/ChatCut-Inc/agent-plugin",
+      "category": "dubbing",
+      "tags": [
+        "视频译制",
+        "配音",
+        "字幕",
+        "多语言"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 993
+    },
+    {
+      "name": "Claude Watch 视频理解",
+      "desc": "让 Claude 观看并理解视频：下载、抽帧、转录、回答视频内容问题",
+      "url": "https://github.com/bradautomates/claude-video",
+      "category": "subtitle",
+      "tags": [
+        "视频理解",
+        "转录",
+        "抽帧",
+        "分析"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 19572
+    },
+    {
+      "name": "Higgsfield 电影工作室",
+      "desc": "Higgsfield Cinema Studio 专业电影工作流提示词：多镜头、运镜、调色、Soul Cast 演员",
+      "url": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill",
+      "category": "prompting",
+      "tags": [
+        "视频提示词",
+        "电影制作",
+        "Higgsfield",
+        "多镜头"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 825
+    },
+    {
+      "name": "Arcads 图像广告",
+      "desc": "通过 Arcads API 用 ChatGPT Image 2 生成 Meta 静态图片广告创意",
+      "url": "https://github.com/krusemediallc/arcads-claude-code",
+      "category": "image-gen",
+      "tags": [
+        "图像生成",
+        "广告创意",
+        "ChatGPT Image",
+        "Meta"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1635
+    },
+    {
+      "name": "技术文档写作",
+      "desc": "结构化产出高质量技术文档：API 参考、用户指南、教程、变更日志、架构文档",
+      "url": "https://github.com/seb1n/awesome-ai-agent-skills",
+      "category": "methodology",
+      "tags": [
+        "技术写作",
+        "文档",
+        "API 参考",
+        "教程"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 234
+    },
+    {
+      "name": "社媒图文设计师",
+      "desc": "为 LinkedIn 等社媒帖子生成配图：按内容自动选择 HTML/CSS 版式或 AI 信息图",
+      "url": "https://github.com/charlie947/social-media-skills",
+      "category": "design",
+      "tags": [
+        "社媒配图",
+        "信息图",
+        "LinkedIn",
+        "图文"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 4461
+    },
+    {
+      "name": "Oil UI",
+      "desc": "宿主中立的 UI 设计技能：探索设计方向、生成多风格同屏对比页、基于真实截图打磨视觉层级",
+      "url": "https://github.com/oil-oil/oil-ui",
+      "category": "design",
+      "tags": [
+        "UI 设计",
+        "设计对比",
+        "界面评审",
+        "设计系统"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 2528
+    },
+    {
+      "name": "花叔动效 Huashu Motion",
+      "desc": "把产品宣传片/发布会影片当代码来导演：会作曲、能指着画面改，商业级 motion 直出",
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "category": "animation",
+      "tags": [
+        "动效",
+        "宣传片",
+        "发布影片",
+        "GSAP"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1923
+    },
+    {
+      "name": "Motionmaxxing",
+      "desc": "把产品做成专业级 motion 影片：launch video、产品宣传、功能揭晓，像导演一样运镜",
+      "url": "https://github.com/Tejashmakwana/motionmaxxing",
+      "category": "animation",
+      "tags": [
+        "动效",
+        "品牌影片",
+        "运镜",
+        "Motion 设计"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1139
+    },
+    {
+      "name": "Cinetic",
+      "desc": "用代码导演电影级 motion 设计：launch film、产品/功能影片，Remotion+GSAP 可渲染",
+      "url": "https://github.com/Leonxlnx/cinetic",
+      "category": "animation",
+      "tags": [
+        "电影感",
+        "Motion 设计",
+        "Remotion",
+        "Launch Film"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 929
+    },
+    {
+      "name": "SeeCode",
+      "desc": "用紧凑 JSON 规范生成 45 类可动画、可探索的编辑级图表（架构/流程/时序/状态机…）",
+      "url": "https://github.com/Aryanutkarsh/SeeCode",
+      "category": "diagram",
+      "tags": [
+        "图表",
+        "动画图",
+        "架构图",
+        "可交互"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 740
+    },
+    {
+      "name": "AI 宣传片制作器",
+      "desc": "一句话生成商业质感宣传片（4K MP4 + 网页版）：调研→风格样帧→真实截图→配乐卡点→AI 旁白",
+      "url": "https://github.com/liyupi/ai-promo-video-maker",
+      "category": "ai-video",
+      "tags": [
+        "宣传片",
+        "产品视频",
+        "4K",
+        "AI 旁白"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 412
+    },
+    {
+      "name": "中文技术文档写作",
+      "desc": "按阮一峰规范写/改中文技术文档：短句、平实、无 AI 腔，自带 AI 腔清单自检",
+      "url": "https://github.com/leter/zh-tech-writing",
+      "category": "methodology",
+      "tags": [
+        "技术写作",
+        "中文文档",
+        "去 AI 腔",
+        "规范"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 397
+    },
+    {
+      "name": "萝卜 PPT (Luobo PPT)",
+      "desc": "一站式做/美化可编辑原生 .pptx：从题目/文章/大纲生成，或从参考图美化，带口播备注",
+      "url": "https://github.com/zhouwei713/luobo-ppt",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "可编辑",
+        "原生 pptx",
+        "美化"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 426
+    },
+    {
+      "name": "Brag（发布视频生成）",
+      "desc": "把你的项目一键变成可分享的发布视频：自动构思故事线、配乐与分享文案，HyperFrames 驱动",
+      "url": "https://github.com/latent-spaces/brag",
+      "category": "ai-video",
+      "tags": [
+        "视频生成",
+        "发布视频",
+        "Launch Video",
+        "HyperFrames"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 19621
+    },
+    {
+      "name": "xilo-opus-video（代码做视频）",
+      "desc": "用 Opus 写代码做视频：先给 3 个方案+预览，你确认后逐帧渲染成片（Canvas/WebGL/Three.js/Remotion）",
+      "url": "https://github.com/Kianzzz/xilo-opus-video",
+      "category": "prompting",
+      "tags": [
+        "视频导演",
+        "代码视频",
+        "Remotion",
+        "Canvas"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 326
+    },
+    {
+      "name": "长篇内容框架（Long-Form Frameworks）",
+      "desc": "资深编辑的长篇结构手册：案例研究/白皮书/研究报告/权威指南/宣言/电子书的 7 种格式与结构原型",
+      "url": "https://github.com/rampstackco/claude-skills",
+      "category": "longform",
+      "tags": [
+        "长篇写作",
+        "内容结构",
+        "方法论",
+        "编辑"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1011
+    },
+    {
+      "name": "Data Viz Deck（数据可视化成片）",
+      "desc": "把审计/分析数据一键变成可交付物：PPTX 演示、交互式 HTML 仪表盘或带图表的 Markdown 报告",
+      "url": "https://github.com/thatrebeccarae/claude-marketing",
+      "category": "dataviz",
+      "tags": [
+        "数据可视化",
+        "PPTX",
+        "仪表盘",
+        "图表"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 187
+    },
+    {
+      "name": "Dashboard Creator（仪表盘生成）",
+      "desc": "一句话生成自包含 HTML 仪表盘：KPI 卡片、SVG 柱状/饼/折线图、进度条与数据表",
+      "url": "https://github.com/mhattingpete/claude-skills-marketplace",
+      "category": "dataviz",
+      "tags": [
+        "仪表盘",
+        "HTML",
+        "KPI",
+        "SVG 图表"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 689
+    },
+    {
+      "name": "Dashboard Design（仪表盘设计品味）",
+      "desc": "给编码 Agent 资深产品设计师的仪表盘品味：KPI 磁贴、图表、日期选择器、排名列表，并以截图 QA 收尾",
+      "url": "https://github.com/abdiraimov-otabek/dashboard-design-skill",
+      "category": "design",
+      "tags": [
+        "仪表盘设计",
+        "UI 品味",
+        "设计系统",
+        "QA"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 190
+    },
+    {
+      "name": "Anatomy（技术概念等距插画）",
+      "desc": "把技术概念画成可交互的等距 SVG/WebGL 实体图：测试台、仪表、绘图仪等精密构件 + 四色光影 + 几何审计 + A4 海报导出",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "category": "diagram",
+      "tags": [
+        "等距插画",
+        "技术图解",
+        "SVG",
+        "WebGL"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 22989
+    },
+    {
+      "name": "Ekko Remotion（代码驱动视频）",
+      "desc": "把短视频创意变成可编辑、可渲染的 Remotion+React 项目：竖屏短视、产品演示、口播、字幕、配音、音效全流程",
+      "url": "https://github.com/EKKOLearnAI/ekko-studio",
+      "category": "remotion",
+      "tags": [
+        "Remotion",
+        "React 视频",
+        "短视频",
+        "MP4"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 11613
+    },
+    {
+      "name": "SEO 实战（Search Console MCP）",
+      "desc": "免费 Google Search Console / Analytics / Bing / Ahrefs MCP+CLI：诊断流量下滑、关键词研究、技术爬取、内链与竞品分析",
+      "url": "https://github.com/iannuttall/seo",
+      "category": "methodology",
+      "tags": [
+        "SEO",
+        "Search Console",
+        "关键词研究",
+        "技术爬取"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 603
+    },
+    {
+      "name": "Not Ai（溯源保真润色）",
+      "desc": "研究驱动的编辑型去 AI 味：保留事实与作者声音，拒绝为过检测器而编造，支持多语种与声音匹配",
+      "url": "https://github.com/udaysharmadev/Not-Ai",
+      "category": "humanizer",
+      "tags": [
+        "去 AI 味",
+        "润色",
+        "多语种",
+        "声音匹配"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 151
+    },
+    {
+      "name": "Work Humanizer（职场写作去 AI 味）",
+      "desc": "面向职场写作的实证去 AI 味：销售/客服/HR/法务/邮件/文档，两种模式——改写或访谈式重建",
+      "url": "https://github.com/phuryn/work-humanizer",
+      "category": "humanizer",
+      "tags": [
+        "去 AI 味",
+        "职场写作",
+        "文案",
+        "访谈重建"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 121
+    },
+    {
+      "name": "Ant Design CLI（官方组件知识）",
+      "desc": "官方 Ant Design 离线 CLI：查组件 API/示例/令牌、lint 用法、按版本迁移、分析项目 antd 使用",
+      "url": "https://github.com/ant-design/antd-skill",
+      "category": "design",
+      "tags": [
+        "Ant Design",
+        "组件库",
+        "离线 CLI",
+        "迁移"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 137
+    },
+    {
+      "name": "X 长文写作 + 去 AI 味",
+      "desc": "创始人/CEO 视角的 X 长文与长线程：反直觉角度 + 数据佐证 + ASCII 图，发布前强制跑 24 条去 AI 味清单",
+      "url": "https://github.com/ericosiu/ai-marketing-skills",
+      "category": "longform",
+      "tags": [
+        "X 写作",
+        "长文",
+        "去 AI 味",
+        "创始人声线"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 3756
+    },
+    {
+      "name": "Awwwards 级网站生成",
+      "desc": "一句话出获奖级网站：以 Awwwards SOTD 为质量标尺，覆盖概念、美术指导、排版、WebGL、转场、真实内容与性能，浏览器内视觉 QA",
+      "url": "https://github.com/juliobsz/skills",
+      "category": "design",
+      "tags": [
+        "网页设计",
+        "Awwwards",
+        "WebGL",
+        "动效",
+        "Next.js"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1029
+    },
+    {
+      "name": "Hypit 视频导演制作",
+      "desc": "25.6k★ 视频生产技能：以自生成素材 + 创作组件导演完整成片，支持参考片拆解、SVML 脚本编排、模型/服务商接入与本地渲染",
+      "url": "https://github.com/hypit-ai/hypit",
+      "category": "fullstack",
+      "tags": [
+        "视频制作",
+        "导演",
+        "SVML",
+        "参考片拆解",
+        "渲染"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 26865
+    },
+    {
+      "name": "手绘讲解视频",
+      "desc": "852★ 把主题/文章/讲稿做成带封面的手绘讲解视频：逐笔描线、按笔顺手写、旁白先行、客观指标门禁拦截，出品白板动画/科普手绘",
+      "url": "https://github.com/threerocks/sweety-handdraw-video",
+      "category": "animation",
+      "tags": [
+        "手绘动画",
+        "白板动画",
+        "科普视频",
+        "字幕",
+        "旁白"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 967
+    },
+    {
+      "name": "Dashi 口播动画",
+      "desc": "130★ 把 15–60 秒中文口播变成 1920×1080/30fps 带字幕的讲解动画：画面由 Claude 用 HTML/Canvas 代码逐帧绘制，无需图像生成模型",
+      "url": "https://github.com/chuspeeism/dashi-animationstyle",
+      "category": "animation",
+      "tags": [
+        "口播动画",
+        "HTML/Canvas",
+        "中文字幕",
+        "科普"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 153
+    },
+    {
+      "name": "Beautiful Article",
+      "desc": "ConardLi 出品：把任意素材（URL/PDF/DOCX/Markdown/截图）编辑设计成一篇可离线打开的单文件 HTML 网页文章",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "category": "longform",
+      "tags": [
+        "长文",
+        "单文件 HTML",
+        "排版",
+        "设计感"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 13422
+    },
+    {
+      "name": "Motion Showreel",
+      "desc": "ConardLi 出品：用代码制作图形/文字/界面动画视频，输出 MP4 与可编辑源码，最长 20 分钟",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "category": "animation",
+      "tags": [
+        "动画",
+        "Remotion",
+        "动效",
+        "MP4"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 13422
+    },
+    {
+      "name": "GPT Image 2 图像生成",
+      "desc": "ConardLi 出品：面向 GPT Image 2 的图像生成/编辑技能，内置 80+ 结构化模板与三种运行模式",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "category": "image-gen",
+      "tags": [
+        "图像生成",
+        "GPT Image 2",
+        "提示词",
+        "编辑"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 13422
+    },
+    {
+      "name": "Banner Creator",
+      "desc": "ReScienceLab 出品：用 AI 图像生成做迭代式 Banner/封面/Hero，自动裁切到目标比例",
+      "url": "https://github.com/ReScienceLab/opc-skills",
+      "category": "design",
+      "tags": [
+        "Banner",
+        "封面",
+        "Hero",
+        "图像生成"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1887
+    },
+    {
+      "name": "Tech-Doc-Style-Chinese",
+      "desc": "Fenng 出品：中文技术文档/产品文案写作规范 Skill，让 AI 改写得更精准、更少营销腔",
+      "url": "https://github.com/Fenng/Tech-Doc-Style-Chinese",
+      "category": "methodology",
+      "tags": [
+        "技术写作",
+        "中文",
+        "文档规范",
+        "文案"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1564
+    },
+    {
+      "name": "Simplified Technical English",
+      "desc": "0xpili 出品：用 ASD-STE100 受控语言规范写作/审查技术文档，附 Python 校验工具",
+      "url": "https://github.com/0xpili/simplified-technical-english",
+      "category": "methodology",
+      "tags": [
+        "技术写作",
+        "STE",
+        "受控语言",
+        "文档审查"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1017
+    },
+    {
+      "name": "Design Extract",
+      "desc": "一条命令从任意网站提取完整设计系统（DTCG 令牌 / 语义+原始+复合），含 MCP、多端发射器与 CSS/WCAG 健康审计",
+      "url": "https://github.com/Manavarya09/design-extract",
+      "category": "design",
+      "tags": [
+        "设计系统",
+        "Design Token",
+        "Figma",
+        "MCP",
+        "Tailwind"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 4428
+    },
+    {
+      "name": "img2threejs",
+      "desc": "把一张参考图重建成代码优先、程序化、可动画的 Three.js 3D 模型（TypeScript 工厂），token 高效的图像转 3D",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "category": "design",
+      "tags": [
+        "3D",
+        "Three.js",
+        "图像转3D",
+        "WebGL",
+        "程序化生成"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 19877
+    },
+    {
+      "name": "Onetake",
+      "desc": "一镜到底的连贯动效视频 Skill：每个画面都从上一个长出来，连续运镜，做产品发布片 / 功能演示 / 预告",
+      "url": "https://github.com/feitangyuan/onetake",
+      "category": "fullstack",
+      "tags": [
+        "视频",
+        "动效",
+        "产品发布",
+        "一镜到底",
+        "Motion"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 3536
+    },
+    {
+      "name": "ISO 24495 Plain Language",
+      "desc": "按 ISO 24495-1 国际标准把文本改写成浅白语言（英文 + 繁体中文），读者导向的可读性重写",
+      "url": "https://github.com/danyuchn/iso-24495-skill",
+      "category": "methodology",
+      "tags": [
+        "技术写作",
+        "浅白语言",
+        "ISO 24495",
+        "繁体中文",
+        "文档规范"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 154
+    },
+    {
+      "name": "CyberPPT",
+      "desc": "高密度、可编辑、咨询风格 PowerPoint 生成 Skill：SCR 叙事 + 8 套视觉风格 + 多层 PPTX 质量门禁",
+      "url": "https://github.com/crazyykhllc-bit/CyberPPT",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "咨询风格",
+        "PowerPoint",
+        "高密度",
+        "质量门禁"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1843
+    },
+    {
+      "name": "Motion Video Kit",
+      "desc": "高端 AI 辅助商业视频 Skill：独立评审循环 + 28 部发布片方法论 + Three.js 模式 + 音效 / 商业剧本",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "category": "ai-video",
+      "tags": [
+        "视频",
+        "商业广告",
+        "Motion",
+        "Three.js",
+        "质量评审"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1256
+    },
+    {
+      "name": "Diagram Design 编辑级图表",
+      "desc": "62.4k★ 爆款编辑级图表技能：45 种图型输出自包含 HTML/SVG，彻底告别「Mermaid 味」",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "category": "diagram",
+      "tags": [
+        "图表",
+        "架构图",
+        "SVG",
+        "设计系统",
+        "数据可视化"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 62372
+    },
+    {
+      "name": "Anatomy 机理等距插画",
+      "desc": "21.9k★ 把技术概念画成「会动的等距机械图」：数百精密零件 + WebGL 特效，文档级技术插画",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "category": "image-gen",
+      "tags": [
+        "技术插画",
+        "Isometric",
+        "SVG",
+        "WebGL",
+        "文档配图"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 21928
+    },
+    {
+      "name": "Logo Design 品牌标识设计",
+      "desc": "4.9k★ 从 brief 到生产的专业 Logo 设计技能：8 类标识 + 1400+ 真实 SVG 参考库",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "category": "design",
+      "tags": [
+        "Logo",
+        "品牌设计",
+        "SVG",
+        "标识",
+        "Branding"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 5389
+    },
+    {
+      "name": "SEO Autopilot 自动 SEO",
+      "desc": "642★ 端到端自动 SEO 技能：每日巡检站点健康、关键词地图、文章与对比页，状态落库可复跑",
+      "url": "https://github.com/Illyism/seo-skills",
+      "category": "methodology",
+      "tags": [
+        "SEO",
+        "内容营销",
+        "关键词",
+        "增长",
+        "自动化"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 687
+    },
+    {
+      "name": "ReelBench 逐镜拉片",
+      "desc": "1.2k★ 把成片拆成逐镜头分析表：景别/运镜/节奏由代码量，模型只判该判的，15 道质量门",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "category": "prompting",
+      "tags": [
+        "拉片",
+        "分镜",
+        "视频分析",
+        "镜头表",
+        "后期"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 1187
+    },
+    {
+      "name": "Remotion Superpowers",
+      "desc": "145★ 把 Remotion 变成完整视频制片厂：配音/配乐/音效/素材/AI 生成/字幕/转场/AI 审片",
+      "url": "https://github.com/DojoCodingLabs/remotion-superpowers",
+      "category": "fullstack",
+      "tags": [
+        "Remotion",
+        "视频制片",
+        "配音",
+        "字幕",
+        "AI视频"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 151
+    },
+    {
+      "name": "FFmpeg 视频剪辑工坊",
+      "desc": "4.1k★ 本地 FFmpeg 视频/音频剪辑：字幕、配音、转场、平台导出，纯命令行零云依赖",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "category": "fullstack",
+      "tags": [
+        "FFmpeg",
+        "视频剪辑",
+        "字幕",
+        "本地优先",
+        "配音"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 4107
+    },
+    {
+      "name": "EasyEdit 影评混剪",
+      "desc": "165★ 一句话把电影剪成「最佳台词 + 逐词字幕 + 卡点蒙太奇 + 黑白片头」的粉丝向混剪",
+      "url": "https://github.com/blixvip/easyedit",
+      "category": "fullstack",
+      "tags": [
+        "混剪",
+        "字幕",
+        "影视二创",
+        "蒙太奇"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 165
+    },
+    {
+      "name": "Product Launch Motion",
+      "desc": "397★ 用 HTML/CSS/GSAP 做产品发布片：真实运镜、电影级调色、广播响度母带",
+      "url": "https://github.com/AbubakrChan/product-launch-motion",
+      "category": "fullstack",
+      "tags": [
+        "产品视频",
+        "动态图形",
+        "GSAP",
+        "品牌"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 397
+    },
+    {
+      "name": "3D 标题序列",
+      "desc": "493★ 发布级动态图形技能库中的 3D 标题序列：代码驱动的电影感片头，含 13 个场景技能",
+      "url": "https://github.com/charlie947/motion-graphics-skills",
+      "category": "animation",
+      "tags": [
+        "动态图形",
+        "3D",
+        "片头",
+        "Motion"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 495
+    },
+    {
+      "name": "Design Taste 反 AI 味设计",
+      "desc": "208★ 反 AI 味落地页/作品集设计技能：读需求、定设计方向、发货不像生成器的界面",
+      "url": "https://github.com/madebymustafa/design-taste",
+      "category": "design",
+      "tags": [
+        "反AI味",
+        "UI设计",
+        "落地页",
+        "设计系统"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 208
+    },
+    {
+      "name": "学术写作工作流",
+      "desc": "1.7k★ Emory 实战打磨的学术工作流：28 个技能覆盖 LaTeX 写作、R 分析、文献与审稿",
+      "url": "https://github.com/pedrohcgs/claude-code-my-workflow",
+      "category": "methodology",
+      "tags": [
+        "学术写作",
+        "LaTeX",
+        "科研",
+        "方法论"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1675
+    },
+    {
+      "name": "Newsletter 增长策略",
+      "desc": "723★ 邮件通讯增长技能：选题规划、订阅增长、打开率优化与变现一体化",
+      "url": "https://github.com/OpenClaudia/openclaudia-skills",
+      "category": "methodology",
+      "tags": [
+        "Newsletter",
+        "内容增长",
+        "邮件",
+        "变现"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 723
     }
   ],
   "categories": [

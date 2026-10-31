@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-02 04:33:12
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-31 07:19:19
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（433 个条目 / 20 个分类）
+## 📑 内容导航（553 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -95,6 +95,16 @@
   标签：PPT / Marp / Slides / Markdown
 - [PPTAgent](https://github.com/icip-cas/pptagent) — 上海AI实验室等联合出品：让 Agent 创作、修订并可视觉审阅可编辑 PPTX 文稿，学术/汇报级成片  
   标签：PPT / PPTX / 学术汇报 / 可编辑
+- [MiniMax PPT 生成器](https://github.com/MiniMax-AI/skills) — 基于 PptxGenJS 从零生成/编辑/读取 PowerPoint，含封面、目录、内容、章节分隔、总结页  
+  标签：PPT / PPTX / PowerPoint / MiniMax / PptxGenJS
+- [Gorden Super PPT](https://github.com/GordenSun/GordenSuperPPTSkills) — 先出图再拆层还原为可编辑 PPTX：背景/框架/图标/文本四层重组，视觉炸裂且可改  
+  标签：PPT / PPTX / 可编辑 / 视觉
+- [演示设计（断言-证据法）](https://github.com/jwynia/agent-skills) — 以「受众中心 + 断言-证据」框架设计评估演示：消灭要点罗列病，附认知负荷诊断与评估  
+  标签：PPT / 演示设计 / 方法论 / 演讲稿
+- [萝卜 PPT (Luobo PPT)](https://github.com/zhouwei713/luobo-ppt) — 一站式做/美化可编辑原生 .pptx：从题目/文章/大纲生成，或从参考图美化，带口播备注  
+  标签：PPT / 可编辑 / 原生 pptx / 美化
+- [CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) — 高密度、可编辑、咨询风格 PowerPoint 生成 Skill：SCR 叙事 + 8 套视觉风格 + 多层 PPTX 质量门禁  
+  标签：PPT / 咨询风格 / PowerPoint / 高密度 / 质量门禁
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -118,7 +128,7 @@
   标签：像素画 / Pillow / GIF / 精灵表
 - [Blender Skills](https://github.com/kevinbadi/blender-skills) — Blender 3D 产品工作流（Meshy+6 种运镜）  
   标签：3D / Blender / Meshy / 运镜
-- [3brown1blue](https://github.com/AmitSubhash/3brown1blue) — <p align="center">  
+- [3brown1blue](https://github.com/AmitSubhash/3brown1blue) — 3B1B 风格数学科普动画生成 skill（Manim 系）  
   标签：动画
 - [Blender Mcp Skill](https://github.com/sandraschi/blender-mcp) — Control Blender with natural language through MCP. Tell Clau  
   标签：动画
@@ -126,17 +136,17 @@
   标签：动画
 - [Cc Blender Skill](https://github.com/RobLe3/cc-blender-skill) — A Claude Code skill plugin that lets Claude use Blender like  
   标签：动画
-- [Character Animation Creator Skill](https://github.com/tachikomared/character-animation-creator-skill) — ## Overview  
+- [Character Animation Creator Skill](https://github.com/tachikomared/character-animation-creator-skill) — 角色动画创作 skill：为角色生成连贯动作与演出  
   标签：动画
-- [Claude Art Skill](https://github.com/aplaceforallmystuff/claude-art-skill) — [![Oathe Security](https://img.shields.io/endpoint?url=https  
+- [Claude Art Skill](https://github.com/aplaceforallmystuff/claude-art-skill) — Claude 艺术创作 skill，附安全徽章的工作流规范  
   标签：动画
-- [Generative Media Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — [![Powered by MuAPI](https://img.shields.io/badge/Powered%20  
+- [Generative Media Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — MuAPI 驱动的生成式媒体技能合集（图/视/音）  
   标签：动画
-- [Manim Skills](https://github.com/iart-ai/manim-skills) — > Manim (math animation) skills for AI coding agents — anima  
+- [Manim Skills](https://github.com/iart-ai/manim-skills) — Manim 数学科普动画技能合集，面向 AI 编码代理  
   标签：动画
-- [Motion Anything](https://github.com/nexu-io/motion-anything) — <p align="center"><sub>A project in the <a href="https://git  
+- [Motion Anything](https://github.com/nexu-io/motion-anything) — 万物皆可动：把静态素材变成动效视频的通用技能  
   标签：动画
-- [Motion Dev Animations Skill](https://github.com/199-biotechnologies/motion-dev-animations-skill) — > **Motion.dev** - 10M+ downloads/month, successor to Framer  
+- [Motion Dev Animations Skill](https://github.com/199-biotechnologies/motion-dev-animations-skill) — Motion.dev 官方动效技能（月下载 1000 万+，Framer Motion 继任者）  
   标签：动画
 - [Nano Image Generator Skill](https://github.com/lxfater/nano-image-generator-skill) — Generate images using Nano Banana Pro (Gemini 3 Pro Preview)  
   标签：动画
@@ -144,9 +154,9 @@
   标签：动画
 - [Pixel2Motion (v2)](https://github.com/nolangz/pixel2motion) — **Pixel → Vector → Motion.** This skill fuses two discipline  
   标签：动画
-- [Spine Animation Ai](https://github.com/GenielabsOpenSource/spine-animation-ai) — <!-- ⚠️  AUTO-GENERATED FILE — DO NOT EDIT DIRECTLY  
+- [Spine Animation Ai](https://github.com/GenielabsOpenSource/spine-animation-ai) — Spine 骨骼动画 AI 生成（自动生成的技能文件）  
   标签：动画
-- [Vibe Motion Skills](https://github.com/vibe-motion/skills) — <p align="right">  
+- [Vibe Motion Skills](https://github.com/vibe-motion/skills) — Vibe Motion 技能集：右对齐徽章风格的开源动效技能  
   标签：动画
 - [Whiteboard Animation Skills](https://github.com/YangAgent/whiteboard-animation-skill) — 用于生成白板动画视频的可复用 Agent Skills 仓库。  
   标签：动画
@@ -158,12 +168,36 @@
   标签：GIF / Animation / Slack / Anthropic
 - [Motion Canvas 动画](https://github.com/davila7/claude-code-templates) — 用 TypeScript 以编程方式制作 2D 动画视频  
   标签：Animation / Motion Canvas / TypeScript / 2D
+- [自然语言动画视频生成](https://github.com/OneWave-AI/claude-skills) — 从自然语言描述生成动画视频/动态图形：自动搭建 Vite+React+Framer Motion 项目，浏览器内自动播放  
+  标签：动画 / 视频 / Framer Motion / 动态图形 / React
+- [Dream Loop](https://github.com/achimala/dream-loop) — 先让 AI 生成目标截图，再让 Agent 对着截图搭建 Three.js/Blender 3D 场景，配 critic 子代理循环打磨到一致  
+  标签：3D / Three.js / Blender / 视觉原型 / Demo
+- [AniDoodle（代码动画）](https://github.com/alexgreensh/anidoodle) — Alex Greenshpun 出品：纯代码绘制静帧、绘画延时、短片、解说与可交互网页动画，32 种风格 + 作曲，无生成式素材  
+  标签：动画 / 代码绘制 / 动效 / 短片 / 配乐
+- [GSAP 官方动效技能（核心）](https://github.com/greensock/gsap-skills) — GreenSock 官方出品：用 GSAP 核心 API 做专业 Web 动效（缓动/时间线/响应式）  
+  标签：GSAP / 动效 / Web 动画 / 时间线
+- [Three.js 程序化几何](https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills) — Three.js 程序化生成高质量生产级网格（硬表面/人形/挤出）  
+  标签：Three.js / 3D / 程序化 / WebGL
+- [花叔动效 Huashu Motion](https://github.com/alchaincyf/huashu-motion) — 把产品宣传片/发布会影片当代码来导演：会作曲、能指着画面改，商业级 motion 直出  
+  标签：动效 / 宣传片 / 发布影片 / GSAP
+- [Motionmaxxing](https://github.com/Tejashmakwana/motionmaxxing) — 把产品做成专业级 motion 影片：launch video、产品宣传、功能揭晓，像导演一样运镜  
+  标签：动效 / 品牌影片 / 运镜 / Motion 设计
+- [Cinetic](https://github.com/Leonxlnx/cinetic) — 用代码导演电影级 motion 设计：launch film、产品/功能影片，Remotion+GSAP 可渲染  
+  标签：电影感 / Motion 设计 / Remotion / Launch Film
+- [手绘讲解视频](https://github.com/threerocks/sweety-handdraw-video) — 852★ 把主题/文章/讲稿做成带封面的手绘讲解视频：逐笔描线、按笔顺手写、旁白先行、客观指标门禁拦截，出品白板动画/科普手绘  
+  标签：手绘动画 / 白板动画 / 科普视频 / 字幕 / 旁白
+- [Dashi 口播动画](https://github.com/chuspeeism/dashi-animationstyle) — 130★ 把 15–60 秒中文口播变成 1920×1080/30fps 带字幕的讲解动画：画面由 Claude 用 HTML/Canvas 代码逐帧绘制，无需图像生成模型  
+  标签：口播动画 / HTML/Canvas / 中文字幕 / 科普
+- [Motion Showreel](https://github.com/ConardLi/garden-skills) — ConardLi 出品：用代码制作图形/文字/界面动画视频，输出 MP4 与可编辑源码，最长 20 分钟  
+  标签：动画 / Remotion / 动效 / MP4
+- [3D 标题序列](https://github.com/charlie947/motion-graphics-skills) — 493★ 发布级动态图形技能库中的 3D 标题序列：代码驱动的电影感片头，含 13 个场景技能  
+  标签：动态图形 / 3D / 片头 / Motion
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
 ### 🎨 图像生成
 
-- [Nano Banana Pro Prompts](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) — 10000+ Nano Banana Pro 提示词库（带样图）  
+- [Nano Banana Pro Prompts](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) — Nano Banana Pro 精选提示词推荐（YouMind 策展）  
   标签：AI 绘画 / 提示词 / Nano Banana
 - [Ultimate AI Media Generator](https://github.com/ZeroLu/Ultimate-AI-Media-Generator-Skill) — 多模型图/视/音一站式生成  
   标签：AI 绘画 / 视频 / 音频 / 多模型
@@ -181,15 +215,15 @@
   标签：AI绘画
 - [Document Illustrator Skill](https://github.com/op7418/Document-illustrator-skill) — 基于 AI 智能分析的文档配图生成工具。无需依赖特定格式，自动理解内容并生成专业配图。  
   标签：AI绘画
-- [Gemini Drawing Skill](https://github.com/WJZ-P/gemini-skill) — ## ⚠️ 操作优先级（必须遵守）  
+- [Gemini Drawing Skill](https://github.com/WJZ-P/gemini-skill) — Gemini 绘图操作规范：优先级与安全约束前置的生图技能  
   标签：AI绘画
-- [Google Genai Skills](https://github.com/cnemri/google-genai-skills) — > **A curated collection of agentic skills for Google AI fra  
+- [Google Genai Skills](https://github.com/cnemri/google-genai-skills) — Google AI 生态的 agentic skills 精选合集  
   标签：AI绘画
 - [Gpt Image2 Ecommerce](https://github.com/buluslan/gpt-image2-ecommerce) — Generate e-commerce images using GPT-Image-2 via Codex CLI.   
   标签：AI绘画
-- [Nano Banana Pro Prompts Skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) — > 📖 Prompts curated by [YouMind](https://youmind.com/nano-b  
+- [Nano Banana Pro Prompts Skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) — Nano Banana Pro 10000+ 社区提示词库（YouMind 策展，附在线生成）  
   标签：AI绘画
-- [Portrait Prompt Generator Skill](https://github.com/huangserva/skill-prompt-generator) — > 🎉 **v2.0 已发布！** 新增跨domain查询和设计系统集成。[查看升级指南 →](UPGRADE_GUI  
+- [Portrait Prompt Generator Skill](https://github.com/huangserva/skill-prompt-generator) — 人像提示词生成器 v2.0：跨域查询+设计系统集成  
   标签：AI绘画
 - [Power Design Skill](https://github.com/ItsssssJack/power-design) — You are an expert designer powered by two pillars:  
   标签：AI绘画
@@ -235,6 +269,32 @@
   标签：Image / OpenAI / Inpainting / Product Shot
 - [AI 图像生成器](https://github.com/jezweb/claude-skills) — jezweb 出品：基于结构化提示与参考图引导的 AI 图像生成技能，产出角色、场景、产品与概念图  
   标签：AI 绘画 / 图像生成 / 概念图 / 视觉资产
+- [GooseWorks 图像生成 (FAL)](https://github.com/gooseworks-ai/goose-skills) — 调用 FAL 任意图像模型（nano-banana/gpt-image/flux）生成或编辑图像，用于关键帧、产品主图  
+  标签：图像生成 / FAL / GPT-Image / Flux / 广告素材
+- [STEM 科研插图](https://github.com/liangdabiao/stem-illustration-skill) — 24 套学科场景模板生成科研/教学示意图，含学术诚信护栏，严格几何图改走 matplotlib  
+  标签：科研绘图 / STEM / 示意图 / 教学插图 / 学术
+- [Mono Color 单色编辑风生图](https://github.com/yanliudesign/mono-color-skill) — 单色/双色孔版印刷风编辑级图像生成，品牌一致、无 AI 味  
+  标签：生图 / 单色 / Risograph / 编辑设计
+- [Photo Abstract Editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) — 把照片抽象成竖向杂志感编辑版面，提取原图色彩/构图/空间逻辑生成高级小众视觉  
+  标签：图像生成 / 摄影 / 编辑设计 / 抽象
+- [邮票风格边框](https://github.com/xianxie6/stamp-edge-skill) — 把任意图片一键打成邮票风格——半圆锯齿孔洞 + 柔和投影，默认真透明背景 PNG，还能拼成等宽列邮票合集  
+  标签：邮票 / 透明PNG / 图片处理 / 合集
+- [小红书笔记创作](https://github.com/comeonzhj/Auto-Redbook-Skills) — 从资料到成稿再到配图卡片：自动写小红书标题正文、渲染 8 种主题封面/正文卡片，可一键发布  
+  标签：小红书 / 图文卡片 / 社交媒体 / 排版
+- [CRT 复古界面漫画](https://github.com/TaiT-tt/tait-crt-interface-skill) — 把肖像/合照/物体重绘成约 1980 年代位图编辑漫画，置于早期 Mac/Minitel 风格窗口，强约束不描摹  
+  标签：CRT / 复古 / 漫画 / 头像
+- [Photo Relic 编辑感海报](https://github.com/wnby/photo-relic-editorial) — 把普通照片升级为「真景+手作遗物」式编辑感艺术海报：保留真实照片，下方配克制抽象遗物  
+  标签：编辑感 / 艺术海报 / 摄影 / 抽象
+- [生命感人像摄影](https://github.com/dacnay816y62-hub/fantasy-life-force-portrait-photography) — 把废片/游客照升级为色彩鲜明、镜头亲密、有电影感与现场情绪的高级生命感人像作品  
+  标签：人像 / 摄影 / 生命感 / 氛围
+- [实景拼贴杂志海报](https://github.com/Zeejay0/gathered-scenes-zine-skill) — 把照片做成 tactile 极简拼贴杂志海报：真景为锚、插画成场、撕纸成界、纸面会呼吸  
+  标签：拼贴 / 杂志 / 撕纸 / 海报
+- [Arcads 图像广告](https://github.com/krusemediallc/arcads-claude-code) — 通过 Arcads API 用 ChatGPT Image 2 生成 Meta 静态图片广告创意  
+  标签：图像生成 / 广告创意 / ChatGPT Image / Meta
+- [GPT Image 2 图像生成](https://github.com/ConardLi/garden-skills) — ConardLi 出品：面向 GPT Image 2 的图像生成/编辑技能，内置 80+ 结构化模板与三种运行模式  
+  标签：图像生成 / GPT Image 2 / 提示词 / 编辑
+- [Anatomy 机理等距插画](https://github.com/wheresryan22/anatomy) — 21.9k★ 把技术概念画成「会动的等距机械图」：数百精密零件 + WebGL 特效，文档级技术插画  
+  标签：技术插画 / Isometric / SVG / WebGL / 文档配图
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -261,9 +321,9 @@
   标签：技术图 / GIF / SVG / 几何
 - [Best Skills 合集](https://github.com/xstongxue/best-skills) — 14 个高质量 skill（drawio/excalidraw/codegen/PPT）  
   标签：合集 / DrawIO / Excalidraw / PPT
-- [Interactive Class Diagram Generator](https://github.com/soycodetrail/interactive-class-diagram) — ## Workflow  
+- [Interactive Class Diagram Generator](https://github.com/soycodetrail/interactive-class-diagram) — 交互式类图生成器：可点击展开的 UML 类图  
   标签：图表
-- [Interactive Sequence Diagram Generator](https://github.com/soycodetrail/interactive-sequence-diagram) — ## Workflow  
+- [Interactive Sequence Diagram Generator](https://github.com/soycodetrail/interactive-sequence-diagram) — 交互式时序图生成器：可分步播放的调用时序  
   标签：图表
 - [Lanshu Animated Architecture Diagram](https://github.com/cclank/lanshu-animated-architecture-diagram) — Create a polished black-background hand-drawn technical diag  
   标签：图表
@@ -289,6 +349,12 @@
   标签：Diagram / SVG / Architecture / Blueprint
 - [PR Lens](https://github.com/coldteadotai/pr-lens) — 把代码改动/系统画成动画架构图与数据流图，可独立成图或附在 Pull Request 评论里  
   标签：架构图 / 数据流 / Pull Request / 动画 SVG
+- [SeeCode](https://github.com/Aryanutkarsh/SeeCode) — 用紧凑 JSON 规范生成 45 类可动画、可探索的编辑级图表（架构/流程/时序/状态机…）  
+  标签：图表 / 动画图 / 架构图 / 可交互
+- [Anatomy（技术概念等距插画）](https://github.com/wheresryan22/anatomy) — 把技术概念画成可交互的等距 SVG/WebGL 实体图：测试台、仪表、绘图仪等精密构件 + 四色光影 + 几何审计 + A4 海报导出  
+  标签：等距插画 / 技术图解 / SVG / WebGL
+- [Diagram Design 编辑级图表](https://github.com/cathrynlavery/diagram-design) — 62.4k★ 爆款编辑级图表技能：45 种图型输出自包含 HTML/SVG，彻底告别「Mermaid 味」  
+  标签：图表 / 架构图 / SVG / 设计系统 / 数据可视化
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -310,6 +376,12 @@
   标签：数据可视化 / 图表 / DataViz / 分析报告
 - [DeerFlow 图表可视化](https://github.com/bytedance/deer-flow) — 字节 DeerFlow 出品：用代码生成高质量数据图表，支持柱状/折线/饼/散点等多种类型  
   标签：图表 / 数据可视化 / DataViz / DeerFlow
+- [AntV Chart Visualization](https://github.com/antvis/chart-visualization-skills) — 数据可视化图表选型与 AntV 代码生成  
+  标签：数据可视化 / 图表 / AntV / G2
+- [Data Viz Deck（数据可视化成片）](https://github.com/thatrebeccarae/claude-marketing) — 把审计/分析数据一键变成可交付物：PPTX 演示、交互式 HTML 仪表盘或带图表的 Markdown 报告  
+  标签：数据可视化 / PPTX / 仪表盘 / 图表
+- [Dashboard Creator（仪表盘生成）](https://github.com/mhattingpete/claude-skills-marketplace) — 一句话生成自包含 HTML 仪表盘：KPI 卡片、SVG 柱状/饼/折线图、进度条与数据表  
+  标签：仪表盘 / HTML / KPI / SVG 图表
 
 <a id="cat-设计-ui" name="cat-设计-ui"></a>
 
@@ -319,7 +391,7 @@
   标签：设计 / 封面 / 海报 / Logo / UI
 - [Anthropic 官方 Skills](https://github.com/anthropics/skills) — Anthropic 官方 17 skill（algorithmic-art/gif/canvas）  
   标签：官方 / 创意 / GIF / Canvas / 合集
-- [交互式教学讲解构建器](https://github.com/soycodetrail/interactive-training-builder) — > 全网最好的交互式教学讲解 skill——融合电影级舞台引擎 + 玻璃拟态视觉 + 逐步回放交互。  
+- [交互式教学讲解构建器](https://github.com/soycodetrail/interactive-training-builder) — 交互式教学讲解构建器：电影级舞台引擎+玻璃拟态+逐步回放  
   标签：设计
 - [花叔 Design](https://github.com/alchaincyf/huashu-design) — 用 HTML 做高保真原型 / 幻灯片 / 动画 / 可视化，任何新设计先出三方向初稿再执行  
   标签：设计 / 原型 / HTML / PPT / 动画
@@ -387,6 +459,48 @@
   标签：UI / 打磨 / 动效 / 组件 / 设计工程
 - [OJO 设计方法论](https://github.com/touchine-ojo/OJO-Design-Skills) — 给 AI Coding Agent 装上真实审美：双轨方法论（规约赛道 + 创新赛道）+ 9 份参考文件，专治界面 AI-slop  
   标签：UI / UX / 设计系统 / 去AI味 / 方法论
+- [Figma 命令式/声明式画布操控](https://github.com/dannote/figma-use) — 把 Figma 变成 Agent 可读写画布：命令式单步或 JSX 声明式渲染，批量创建/修改/查询/导出设计元素并做一致性 Lint  
+  标签：Figma / 设计 / UI / 设计系统 / 自动化
+- [DTCG 设计令牌](https://github.com/plugin87/ux-ui-agent-skills) — 按三层架构（原始到语义到组件）生成/扩展/审计 DTCG 格式设计令牌，覆盖色彩/字体/间距/动效等多品牌主题  
+  标签：设计令牌 / DTCG / 设计系统 / 主题 / WCAG
+- [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) — 把 AI Agent 变成严谨的标识设计师：从 brief 到生产级 SVG 与品牌指南  
+  标签：Logo / 品牌设计 / SVG / Branding
+- [Appllama App Design](https://github.com/Appllama/appllama-skills) — 研究顶级创收 App 的屏幕与流程，产出原生质感的 Expo / React Native 界面  
+  标签：移动端 / App 设计 / React Native / UI
+- [Agent Vision Toolkit](https://github.com/Anionex/agent-vision-toolkit) — 给纯文本 LLM 装上一双眼睛：图像理解、长截图 OCR、前端 UI 还原、GUI 自动化  
+  标签：视觉理解 / OCR / UI 还原 / GUI 自动化
+- [iOS HIG 设计规范](https://github.com/wondelai/skills) — 按 Apple 人机界面指南设计原生 iOS 界面（SwiftUI/UIKit、SF Symbols、安全区、无障碍）  
+  标签：iOS / SwiftUI / UIKit / HIG / Apple / UX
+- [Tastemaker 设计品味](https://github.com/codeswithroh/tastemaker) — 让 AI 生成的 UI 告别千篇一律的「AI 腔」：从真实参考图提取配色、锁定 WCAG 合规调色板、接入真实素材并跨项目记住你的品味  
+  标签：UI 设计 / 去 AI 味 / 调色板 / 设计系统 / 前端
+- [Stitch 设计生成](https://github.com/google-labs-code/stitch-skills) — Google Labs 官方 Stitch 技能：用一句话提示生成可直接用于 Stitch 的设计稿，配套设计系统管理与 React 代码导出  
+  标签：UI 设计 / Google / 设计稿转代码 / Stitch / 官方
+- [Holo Card Studio](https://github.com/EverettFish/holo-card-studio) — 一句话/参考图生成可编辑的 3D 全息闪卡（Blender 工程 + Three.js 交互网页）  
+  标签：3D / Blender / Three.js / 全息卡 / 收藏卡
+- [Logo Designer（SVG 迭代）](https://github.com/neonwatty/logo-designer-skill) — neonwatty 出品：用 SVG 手写迭代式设计 Logo，分步访谈→探索→精修→导出，无需任何 API Key  
+  标签：Logo / SVG / 品牌 / 图标 / 设计系统
+- [Editable Design 可编辑海报](https://github.com/yejy53/Editable-Design) — 中山大学出品：把海报/信息图写成可编辑 HTML 图层，文字真实可选、改文案不重渲  
+  标签：海报 / 信息图 / 可编辑HTML / 设计
+- [社媒图文设计师](https://github.com/charlie947/social-media-skills) — 为 LinkedIn 等社媒帖子生成配图：按内容自动选择 HTML/CSS 版式或 AI 信息图  
+  标签：社媒配图 / 信息图 / LinkedIn / 图文
+- [Oil UI](https://github.com/oil-oil/oil-ui) — 宿主中立的 UI 设计技能：探索设计方向、生成多风格同屏对比页、基于真实截图打磨视觉层级  
+  标签：UI 设计 / 设计对比 / 界面评审 / 设计系统
+- [Dashboard Design（仪表盘设计品味）](https://github.com/abdiraimov-otabek/dashboard-design-skill) — 给编码 Agent 资深产品设计师的仪表盘品味：KPI 磁贴、图表、日期选择器、排名列表，并以截图 QA 收尾  
+  标签：仪表盘设计 / UI 品味 / 设计系统 / QA
+- [Ant Design CLI（官方组件知识）](https://github.com/ant-design/antd-skill) — 官方 Ant Design 离线 CLI：查组件 API/示例/令牌、lint 用法、按版本迁移、分析项目 antd 使用  
+  标签：Ant Design / 组件库 / 离线 CLI / 迁移
+- [Awwwards 级网站生成](https://github.com/juliobsz/skills) — 一句话出获奖级网站：以 Awwwards SOTD 为质量标尺，覆盖概念、美术指导、排版、WebGL、转场、真实内容与性能，浏览器内视觉 QA  
+  标签：网页设计 / Awwwards / WebGL / 动效 / Next.js
+- [Banner Creator](https://github.com/ReScienceLab/opc-skills) — ReScienceLab 出品：用 AI 图像生成做迭代式 Banner/封面/Hero，自动裁切到目标比例  
+  标签：Banner / 封面 / Hero / 图像生成
+- [Design Extract](https://github.com/Manavarya09/design-extract) — 一条命令从任意网站提取完整设计系统（DTCG 令牌 / 语义+原始+复合），含 MCP、多端发射器与 CSS/WCAG 健康审计  
+  标签：设计系统 / Design Token / Figma / MCP / Tailwind
+- [img2threejs](https://github.com/img2threejs/img2threejs) — 把一张参考图重建成代码优先、程序化、可动画的 Three.js 3D 模型（TypeScript 工厂），token 高效的图像转 3D  
+  标签：3D / Three.js / 图像转3D / WebGL / 程序化生成
+- [Logo Design 品牌标识设计](https://github.com/kaankiziltug/logo-design-skill) — 4.9k★ 从 brief 到生产的专业 Logo 设计技能：8 类标识 + 1400+ 真实 SVG 参考库  
+  标签：Logo / 品牌设计 / SVG / 标识 / Branding
+- [Design Taste 反 AI 味设计](https://github.com/madebymustafa/design-taste) — 208★ 反 AI 味落地页/作品集设计技能：读需求、定设计方向、发货不像生成器的界面  
+  标签：反AI味 / UI设计 / 落地页 / 设计系统
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -396,17 +510,17 @@
   标签：视频 / Remotion / 电影感 / SFX
 - [Remotion Video Skill](https://github.com/wshuyi/remotion-video-skill) — Remotion 编程视频 + TTS 语音合成  
   标签：视频 / Remotion / TTS / 编程
-- [Claude Remotion Skill](https://github.com/haidrrrry/claude-remotion-skill) — Claude Code 用 Remotion 生成视频（模板+动画+渲染）  
+- [Claude Remotion Skill](https://github.com/haidrrrry/claude-remotion-skill) — Claude Code 用 Remotion 生成视频（MIT 协议）  
   标签：Remotion / Claude / 模板 / 动画
 - [Remotion 官方 Skills](https://github.com/remotion-dev/skills) — Remotion 官方 12 个 skill（创建/标记/渲染/字幕/交互/地图/升级）  
   标签：Remotion / 官方 / 字幕 / 地图 / 升级
 - [Remotion Skills - Remotion 最佳实践技能库](https://github.com/buainoai/remotion-skills) — 这是一个为 AI 代理提供的 Remotion 最佳实践技能库,包含了使用 Remotion 进行视频创作的详细指南和代  
   标签：Remotion
-- [Haidrrrry Remotion Skill](https://github.com/haidrrrry/claude-remotion-skill) — [![License: MIT](https://img.shields.io/badge/License-MIT-bl  
+- [Haidrrrry Remotion Skill](https://github.com/haidrrrry/claude-remotion-skill) — Claude Code 用 Remotion 生成视频（模板+动画+渲染，MIT）  
   标签：Remotion
-- [Kinetic Typography Skills](https://github.com/iart-ai/kinetic-typography-skills) — > Kinetic typography skills for AI coding agents — animate h  
+- [Kinetic Typography Skills](https://github.com/iart-ai/kinetic-typography-skills) — 动态文字排版（Kinetic Typography）技能集  
   标签：Remotion
-- [Motion Design Skills](https://github.com/iart-ai/motion-design-skills) — > Motion design fundamentals, engines, and brand elements as  
+- [Motion Design Skills](https://github.com/iart-ai/motion-design-skills) — 动效设计基础/引擎/品牌元素技能集  
   标签：Remotion
 - [Remotion Bits](https://github.com/av/remotion-bits) — https://github.com/user-attachments/assets/2a5760fe-1886-449  
   标签：Remotion
@@ -446,6 +560,10 @@
   标签：Remotion / 公众号 / 图文视频 / 短视频
 - [口播视频 Remotion](https://github.com/liangdabiao/video-skills-toolkit) — 可复用口播视频工程模板：PIP、同步字幕、章节进度、Studio 主题，脚本素材秒变上片  
   标签：Remotion / 口播 / 短视频 / 模板
+- [Remotion Video Factory](https://github.com/npc-live/clawfirm) — Clawfirm 出品：智能视频工厂，分析 GitHub 仓库或对话上下文，自动生成 Remotion 分镜脚本（含烧录字幕）并渲染成 MP4  
+  标签：Remotion / 视频工厂 / 产品演示 / 字幕 / 程序化视频
+- [Ekko Remotion（代码驱动视频）](https://github.com/EKKOLearnAI/ekko-studio) — 把短视频创意变成可编辑、可渲染的 Remotion+React 项目：竖屏短视、产品演示、口播、字幕、配音、音效全流程  
+  标签：Remotion / React 视频 / 短视频 / MP4
 
 <a id="cat-提示词-导演" name="cat-提示词-导演"></a>
 
@@ -455,21 +573,21 @@
   标签：视频 / 导演 / 提示词 / 影视
 - [Video Prompting](https://github.com/Square-Zero-Labs/video-prompting-skill) — T2V/I2V 提示词+角色表（Sora/Veo3/Wan2.2）  
   标签：视频 / T2V / I2V / Sora
-- [Ai Shortfilm Prompts Skill](https://github.com/jnMetaCode/ai-shortfilm-prompts) — > 🌐 **Browse the prompt library online → [prompts.aiolaola.  
+- [Ai Shortfilm Prompts Skill](https://github.com/jnMetaCode/ai-shortfilm-prompts) — AI 短片提示词库，附在线浏览的 prompt library  
   标签：导演
 - [Ai Visual Director Skill](https://github.com/jijiutong/ai-visual-director) — 这是给 agent 执行用的主 Skill，不是产品 README。README 负责介绍、安装和能力展示；本文件只定义  
   标签：导演
-- [Fpv Video Prompting Skill](https://github.com/zhouwei713/fpv-immersive-video-prompting) — ## Overview  
+- [Fpv Video Prompting Skill](https://github.com/zhouwei713/fpv-immersive-video-prompting) — FPV 沉浸式视频提示词工程：穿越机视角运镜方案  
   标签：导演 / 视频
 - [Heygen Hyperframes Launches](https://github.com/heygen-com/hyperframes-launches) — Source for HeyGen's HyperFrames launch videos. Each subdirec  
   标签：导演
-- [Map Animation Skills](https://github.com/iart-ai/map-animation-skills) — > Map animation skills for AI coding agents — build editoria  
+- [Map Animation Skills](https://github.com/iart-ai/map-animation-skills) — 地图动画技能：编辑级地理叙事视频  
   标签：导演
 - [Seedance Prompt Skill for Claude Code](https://github.com/songguoxs/seedance-prompt-skill) — [English](./README.md) | [中文](./README_zh.md)  
   标签：导演
 - [Seedance Viral Forge](https://github.com/11Yuxuanyang/seedance-viral-forge) — Reusable AI video prompt skills for builders who need Chines  
   标签：导演
-- [Tvc Director Skill](https://github.com/Ethanxwang/tvc-director) — ## 角色定义  
+- [Tvc Director Skill](https://github.com/Ethanxwang/tvc-director) — TVC 广告导演技能：品牌片角色定义与分镜脚本  
   标签：导演
 - [Vox Director Skill](https://github.com/Alisa0808/vox-director) — Turn a one-line topic into a finished **Vox-style paper-coll  
   标签：导演
@@ -481,6 +599,14 @@
   标签：视频导演 / 分镜 / AI视频 / 提示词
 - [Seedance 爆款短片提示词](https://github.com/rediumvex/ai-video-generator-claude) — 为 Seedance 2.0 生成刷屏级短视频钩子与分镜提示词  
   标签：短视频 / 提示词 / Seedance / TikTok
+- [爆款短视频脚本（Viral Short Video）](https://github.com/minicoohei/ai-agent-camp/tree/main/.claude/skills/viral-short-video) — 生成 Hook/正文/CTA 结构的病毒短视频脚本+故事板：多 Hook 变体、可转 storyboard、可选峰值 Hook 分析，直接衔接视频编辑  
+  标签：短视频 / 脚本 / Hook / 故事板 / 爆款
+- [Higgsfield 电影工作室](https://github.com/OSideMedia/higgsfield-ai-prompt-skill) — Higgsfield Cinema Studio 专业电影工作流提示词：多镜头、运镜、调色、Soul Cast 演员  
+  标签：视频提示词 / 电影制作 / Higgsfield / 多镜头
+- [xilo-opus-video（代码做视频）](https://github.com/Kianzzz/xilo-opus-video) — 用 Opus 写代码做视频：先给 3 个方案+预览，你确认后逐帧渲染成片（Canvas/WebGL/Three.js/Remotion）  
+  标签：视频导演 / 代码视频 / Remotion / Canvas
+- [ReelBench 逐镜拉片](https://github.com/eternityspring/reelbench-skills) — 1.2k★ 把成片拆成逐镜头分析表：景别/运镜/节奏由代码量，模型只判该判的，15 道质量门  
+  标签：拉片 / 分镜 / 视频分析 / 镜头表 / 后期
 
 <a id="cat-全链路" name="cat-全链路"></a>
 
@@ -490,9 +616,9 @@
   标签：全链路 / AITuber / 脚本 / 配音 / 发布
 - [文章转视频](https://github.com/jianshuo/claude-skills) — 王建硕：文章转视频全流程 skill（搜索→文案→分镜→配音→字幕→BGM）  
   标签：全链路 / 文章转视频 / 分镜 / BGM
-- [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) — <p align="center">  
+- [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) — Claude Code 视频工具箱：脚本/配音/剪辑/渲染一站式  
   标签：全链路 / 视频
-- [Video Production Buddy](https://github.com/video-production-buddy/video-production-buddy) — <p align="center">  
+- [Video Production Buddy](https://github.com/video-production-buddy/video-production-buddy) — 视频制作助手：从脚本到成片的引导式工作流  
   标签：全链路 / 视频
 - [Wjs Editing Multicam](https://github.com/jianshuo/claude-skills) — Use when the user has 2+ recordings of the same event (each with a `.sync.json` sidecar from wjs-syncing-multicam) and wants them combined into a s...  
   标签：全流程 / 工作流 / 自动化
@@ -528,6 +654,30 @@
   标签：YouTube / 视频剪辑 / 字幕翻译 / 双语字幕 / 短视频 / FFmpeg
 - [Jianying Headless](https://github.com/mcncarl/jianying-headless) — 让 AI 直接生成原生剪映/ CapCut 草稿，可打开继续精修，短视频批量生产利器  
   标签：剪映 / CapCut / 草稿 / 短视频
+- [场景视频编辑器（Video Editor）](https://github.com/minicoohei/ai-agent-camp/tree/main/.claude/skills/video-editor) — 从 scenes.json + 帧素材端到端产出社媒视频：ffmpeg/TikTok 字幕烧录、Ken Burns、多分辨率归一，Remotion 兜底高清  
+  标签：视频 / Remotion / ffmpeg / 字幕 / 短视频
+- [OpenChatCut](https://github.com/0xsline/OpenChatCut) — 对话式本地 AI 视频编辑器：自然语言驱动多轨剪辑、字幕、特效与导出  
+  标签：视频编辑 / MCP / 多轨剪辑 / 字幕
+- [Showtime](https://github.com/FavioVazquez/showtime) — 一句话描述，Agent 当导演、本机渲染成片：动态图形/旁白/音乐/字幕，全程无云端 AI  
+  标签：本地视频 / 视频工作室 / 动态图形 / 字幕 / 无云端
+- [归藏 Product Video（产品宣传片）](https://github.com/op7418/guizang-product-video-skill) — 归藏出品：用真实代码组件 + GSAP/Three.js 动效 + 原创配乐，把软件产品/版本更新做成代码驱动的宣传片，拒绝套模板  
+  标签：产品宣传片 / 发布视频 / 代码驱动 / GSAP / 原创配乐
+- [YouTube 留存分析仪](https://github.com/Jakeschincariol/youtube-agent-skill) — 分析观众留存曲线，定位真实流失点，给出针对性内容调整建议（11 合 1 YouTube 工具箱）  
+  标签：YouTube / 留存分析 / 数据分析 / 内容创作
+- [口播视频图形包装](https://github.com/coco-research/coco) — 给口播/访谈/播客视频叠加定时设计的图形卡（动态标题、下三分之一、数据 callout、画中画），导出 MP4  
+  标签：口播 / 图形叠加 / 视频包装 / 后期
+- [Hypit 视频导演制作](https://github.com/hypit-ai/hypit) — 25.6k★ 视频生产技能：以自生成素材 + 创作组件导演完整成片，支持参考片拆解、SVML 脚本编排、模型/服务商接入与本地渲染  
+  标签：视频制作 / 导演 / SVML / 参考片拆解 / 渲染
+- [Onetake](https://github.com/feitangyuan/onetake) — 一镜到底的连贯动效视频 Skill：每个画面都从上一个长出来，连续运镜，做产品发布片 / 功能演示 / 预告  
+  标签：视频 / 动效 / 产品发布 / 一镜到底 / Motion
+- [Remotion Superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) — 145★ 把 Remotion 变成完整视频制片厂：配音/配乐/音效/素材/AI 生成/字幕/转场/AI 审片  
+  标签：Remotion / 视频制片 / 配音 / 字幕 / AI视频
+- [FFmpeg 视频剪辑工坊](https://github.com/kajisho5/ffmpeg-skill) — 4.1k★ 本地 FFmpeg 视频/音频剪辑：字幕、配音、转场、平台导出，纯命令行零云依赖  
+  标签：FFmpeg / 视频剪辑 / 字幕 / 本地优先 / 配音
+- [EasyEdit 影评混剪](https://github.com/blixvip/easyedit) — 165★ 一句话把电影剪成「最佳台词 + 逐词字幕 + 卡点蒙太奇 + 黑白片头」的粉丝向混剪  
+  标签：混剪 / 字幕 / 影视二创 / 蒙太奇
+- [Product Launch Motion](https://github.com/AbubakrChan/product-launch-motion) — 397★ 用 HTML/CSS/GSAP 做产品发布片：真实运镜、电影级调色、广播响度母带  
+  标签：产品视频 / 动态图形 / GSAP / 品牌
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -557,6 +707,10 @@
   标签：配音 / 字幕 / 翻译 / Dubbing
 - [讯飞视频翻译](https://github.com/iflytek/iFly-Skills) — 讯飞 iFly-Skills 出品：视频翻译与字幕本地化，支持多语种识别、翻译与配音  
   标签：视频翻译 / 字幕 / 配音 / 本地化
+- [ElevenLabs Dubbing](https://github.com/inference-sh/skills) — 用 ElevenLabs 批量配音与译制视频（多语言配音翻译）  
+  标签：配音 / 译制 / 多语言 / ElevenLabs
+- [ChatCut 视频译制](https://github.com/ChatCut-Inc/agent-plugin) — 端到端视频译制：转录→翻译→配音→口型同步，保留原音色  
+  标签：视频译制 / 配音 / 字幕 / 多语言
 
 <a id="cat-字幕-配音" name="cat-字幕-配音"></a>
 
@@ -588,6 +742,14 @@
   标签：视频总结 / 字幕提取 / 播客笔记 / B 站 / TikTok
 - [CLI Anything 字幕生成](https://github.com/HKUDS/CLI-Anything) — HKUDS 出品：一条命令完成视频转写→字幕优化→翻译→烧录，支持 99 种语言与 38 种目标语言，本地 Whisper 免费  
   标签：字幕 / 转写 / 翻译 / 本地化 / 烧录
+- [原生字幕拼图](https://github.com/chengyi-ai/native-subtitle-quote-image) — 保留视频内嵌字幕精确取帧，生成 3:4 社交长图，两种字幕模式从不混用  
+  标签：字幕拼图 / 取帧 / 社交长图 / JPG
+- [GooseWorks 字幕烧录](https://github.com/gooseworks-ai/goose-skills) — 为竖屏成片烧录字幕：按真实音频逐词定时，Pillow+ffmpeg 烧录，支持分屏/CTA 卡  
+  标签：字幕 / 烧录 / Whisper / 竖屏 / 视频广告
+- [BaoCut 本地字幕剪辑](https://github.com/JimLiu/baocut) — 全本地转录/字幕/翻译/配音/切条，隐私零延迟、无需云 API  
+  标签：字幕 / 转录 / 配音 / 本地
+- [Claude Watch 视频理解](https://github.com/bradautomates/claude-video) — 让 Claude 观看并理解视频：下载、抽帧、转录、回答视频内容问题  
+  标签：视频理解 / 转录 / 抽帧 / 分析
 
 <a id="cat-ai-视频" name="cat-ai-视频"></a>
 
@@ -603,45 +765,45 @@
   标签：录屏 / macOS / FFmpeg
 - [Agnes Ai Generation Skill](https://github.com/Yacey/agnes-ai-generation-skill) — Use this skill to call Agnes text, image, and video generati  
   标签：视频
-- [Ai Media Generator Skill](https://github.com/Hao0321/ai-media-generator) — > **Codex compatibility:** References that still say “Claude  
+- [Ai Media Generator Skill](https://github.com/Hao0321/ai-media-generator) — 多模型 AI 媒体生成器：文/图/视频一站式调用，已适配 Codex  
   标签：视频
-- [Claude Real Video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) — [![PyPI](https://img.shields.io/pypi/v/claude-real-video)](h  
+- [Claude Real Video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) — 用 Claude 生成真实可播放视频（PyPI 包）  
   标签：视频 / 视频
 - [Dashmotion](https://github.com/csthink/dashmotion) — English | [简体中文](https://github.com/csthink/dashmotion/blob/  
   标签：视频
-- [Hyperframes](https://github.com/heygen-com/hyperframes) — <p align="center">  
+- [Hyperframes](https://github.com/heygen-com/hyperframes) — HeyGen HyperFrames 官方仓库：动效视频框架与示例  
   标签：视频
-- [Ad Video Skills](https://github.com/iart-ai/ad-video-skills) — > AI coding agent skills for ad / advertising video — turn o  
+- [Ad Video Skills](https://github.com/iart-ai/ad-video-skills) — 广告视频技能：把产品一句话变成可投放广告片  
   标签：视频 / 视频
-- [Data Animation Skills](https://github.com/iart-ai/data-animation-skills) — > Data animation / animated infographic skills for AI coding  
+- [Data Animation Skills](https://github.com/iart-ai/data-animation-skills) — 数据动画/动态信息图技能，让数据开口讲故事  
   标签：视频
-- [E-Commerce Video Skills](https://github.com/iart-ai/ecommerce-video-skills) — > Generate ecommerce / product video — product demos, sale p  
+- [E-Commerce Video Skills](https://github.com/iart-ai/ecommerce-video-skills) — 电商视频技能：产品演示与促销片批量生成  
   标签：视频 / 视频
-- [Explainer Video Skills](https://github.com/iart-ai/explainer-video-skills) — > Explainer video skills for AI coding agents: script, story  
+- [Explainer Video Skills](https://github.com/iart-ai/explainer-video-skills) — 解说视频技能：脚本→分镜→成片全流程  
   标签：视频 / 视频
-- [Text Message Video Skills](https://github.com/iart-ai/text-message-video-skills) — > Text-message animation skills for AI coding agents — turn   
+- [Text Message Video Skills](https://github.com/iart-ai/text-message-video-skills) — 短信对话动画视频技能：聊天气泡逐条弹出  
   标签：视频 / 视频
-- [TikTok Video Skills](https://github.com/iart-ai/tiktok-video-skills) — > TikTok, Reels, and Shorts skills for AI coding agents — en  
+- [TikTok Video Skills](https://github.com/iart-ai/tiktok-video-skills) — TikTok/Reels/Shorts 短视频技能集  
   标签：视频 / 视频
-- [Web Animation Skills](https://github.com/iart-ai/web-animation-skills) — > Web animation skills for AI coding agents — GSAP, SVG, Lot  
+- [Web Animation Skills](https://github.com/iart-ai/web-animation-skills) — Web 动画技能集：GSAP/SVG/Lottie  
   标签：视频
-- [YouTube Video Skills](https://github.com/iart-ai/youtube-video-skills) — > YouTube intro/outro and podcast audiogram skills for AI co  
+- [YouTube Video Skills](https://github.com/iart-ai/youtube-video-skills) — YouTube 片头片尾与播客音频图技能  
   标签：视频 / 视频
 - [Jianying Editor Skill](https://github.com/isYangs/jianying-editor-skill) — Use this skill when the user wants to automate video editing  
   标签：视频
-- [Leoyeai Seedance Skills](https://github.com/LeoYeAI/seedance-skills) — > **Packaged for OpenClaw + Hermes Agent** from upstream [Em  
+- [Leoyeai Seedance Skills](https://github.com/LeoYeAI/seedance-skills) — Seedance 技能包（OpenClaw + Hermes Agent 适配版）  
   标签：视频
-- [Lovart](https://github.com/lovartai/lovart-skill) — <p align="center">  
+- [Lovart](https://github.com/lovartai/lovart-skill) — Lovart 设计 Agent 技能：海报/品牌/创意一站式  
   标签：视频
 - [Robonuggets Seedance Skill](https://github.com/robonuggets/seedance-skill) — Generate cinematic motion graphics videos using ByteDance's   
   标签：视频
-- [Seedance2 Skill Dexhunter](https://github.com/dexhunter/seedance2-skill) — ## Description  
+- [Seedance2 Skill Dexhunter](https://github.com/dexhunter/seedance2-skill) — Seedance 2.0 视频生成技能：提示词到成片  
   标签：视频
-- [Vibe Creating Skill](https://github.com/Alisa0808/vibe-creating-skill) — <div align="center">  
+- [Vibe Creating Skill](https://github.com/Alisa0808/vibe-creating-skill) — Vibe 创作 skill：一句话主题到氛围感短片  
   标签：视频
-- [Videoclaw](https://github.com/HITsz-TMG/VideoClaw) — <p align="center">  
+- [Videoclaw](https://github.com/HITsz-TMG/VideoClaw) — 哈工大 TMG 出品 VideoClaw：可控长视频生成  
   标签：视频 / 视频
-- [Videodb Skills](https://github.com/video-db/skills) — [![License][license-shield]][license-url]  
+- [Videodb Skills](https://github.com/video-db/skills) — VideoDB 官方技能：视频库检索/剪辑/发布  
   标签：视频 / 视频
 - [Manim Skill for Claude Code](https://github.com/Yusuke710/manim-skill) — **Create videos like you write code with Claude Code**  
   标签：视频
@@ -687,6 +849,20 @@
   标签：Video / Sora / OpenAI / Text-to-Video
 - [Anything2Explainer](https://github.com/Vincentwei1021/anything2explainer) — 输入任意主题/文档，产出带配音的动态图形解说视频（Remotion 代码渲染，中英双语）  
   标签：解说视频 / Remotion / 动态图形 / 配音
+- [GooseWorks 视频生成 (FAL)](https://github.com/gooseworks-ai/goose-skills) — 调用 FAL 任意视频模型（Kling/Seedance/Veo）做图生视频/文生视频，产出广告基底片段  
+  标签：视频生成 / FAL / Kling / Seedance / Veo / 广告
+- [Animate 程序化短片](https://github.com/cth9191/animate) — 用提示词 + 参考音乐生成画布程序化动画短片：7 种内置风格，逐节拍分镜审批，导出多比例 MP4，适合发布预告 / 讲解动画  
+  标签：动画 / 短片 / Canvas / 程序化 / 音乐可视化
+- [Higgsfield 叙事解说视频](https://github.com/higgsfield-ai/skills) — 从 10 秒分镜块生成带旁白的叙事/解说视频（Seedance + Gemini）  
+  标签：AI 视频 / 解说视频 / 分镜 / 旁白
+- [SRT 白板动画](https://github.com/geeklee/srt-whiteboard-animation) — 丢一份 SRT 字幕，AI 驱动手绘白板动画，笔尖连续落墨、配音口音可选  
+  标签：白板动画 / 字幕驱动 / 手绘 / 视频
+- [AI 宣传片制作器](https://github.com/liyupi/ai-promo-video-maker) — 一句话生成商业质感宣传片（4K MP4 + 网页版）：调研→风格样帧→真实截图→配乐卡点→AI 旁白  
+  标签：宣传片 / 产品视频 / 4K / AI 旁白
+- [Brag（发布视频生成）](https://github.com/latent-spaces/brag) — 把你的项目一键变成可分享的发布视频：自动构思故事线、配乐与分享文案，HyperFrames 驱动  
+  标签：视频生成 / 发布视频 / Launch Video / HyperFrames
+- [Motion Video Kit](https://github.com/echris6/motion-video-kit) — 高端 AI 辅助商业视频 Skill：独立评审循环 + 28 部发布片方法论 + Three.js 模式 + 音效 / 商业剧本  
+  标签：视频 / 商业广告 / Motion / Three.js / 质量评审
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -710,33 +886,33 @@
   标签：写作
 - [Lorn.NovelWriteSkills](https://github.com/lornshrimp/Lorn.NovelWriteSkills) — 一个面向**长篇网文 / 小说创作工作流**的 AI 写作资产库。它不是“随手堆提示词”的仓库，而是一套围绕 **题材设  
   标签：写作 / 小说
-- [Novel Control Station Skill](https://github.com/jingtai123/Novel-Control-Station-Skill) — ## Overview  
+- [Novel Control Station Skill](https://github.com/jingtai123/Novel-Control-Station-Skill) — 小说控制台技能：大纲/人物/伏笔统一管理  
   标签：写作 / 小说
-- [NovelForge](https://github.com/RhythmicWave/NovelForge) — <div align="center">  
+- [NovelForge](https://github.com/RhythmicWave/NovelForge) — NovelForge 小说锻造：世界观到章节的流水线  
   标签：写作 / 小说
-- [Agent Xiaohongshu Workbench](https://github.com/EthanYoQ/agent-xiaohongshu-workbench) — <p align="center">  
+- [Agent Xiaohongshu Workbench](https://github.com/EthanYoQ/agent-xiaohongshu-workbench) — 小红书工作台 Agent：选题/文案/配图一体  
   标签：写作
 - [Ai Novelist](https://github.com/FlickeringLamp/ai-novelist) — [English](README_EN.md) | **中文**  
   标签：写作 / 小说
-- [AI Research Skills](https://github.com/WenyuChiou/ai-research-skills) — > A skill catalog that won't let you spend 6 months on a res  
+- [AI Research Skills](https://github.com/WenyuChiou/ai-research-skills) — 科研技能目录：省下 6 个月摸索的研究工作流  
   标签：写作
-- [Chinese Novelist Skill](https://github.com/PenglongHuang/chinese-novelist-skill) — ## 三大黄金法则  
+- [Chinese Novelist Skill](https://github.com/PenglongHuang/chinese-novelist-skill) — 中文小说家技能：三大黄金法则驱动的创作流  
   标签：写作 / 小说
 - [5 Skills That Fix Claude's Writing](https://github.com/artemnovitckii/content-skills) — Claude is a great writer in the abstract and a generic one b  
   标签：写作
 - [Econ Writing Skill](https://github.com/hanlulong/econ-writing-skill) — **An Agent Skill that transforms AI assistants into expert e  
   标签：写作
-- [Liurun Bookwriter Skills](https://github.com/liangdabiao/liurun-bookwriter-skills) — > 两个 skill，两种风格，一个目的——让你写出有"作家味"的长文。  
+- [Liurun Bookwriter Skills](https://github.com/liangdabiao/liurun-bookwriter-skills) — 刘润风格书写作技能：两种风格写出作家味长文  
   标签：写作 / 小说
-- [Novel Creator Skill](https://github.com/leenbj/novel-creator-skill) — ## Iron Law（铁律 — 任何情况下不可违反）  
+- [Novel Creator Skill](https://github.com/leenbj/novel-creator-skill) — 小说创作铁律技能：任何场景不可违反的创作底线  
   标签：写作 / 小说
 - [Novel-Harness](https://github.com/manhai934/novel-harness) — **面向老书虫转作者和已有作者的 AI 小说创作陪练。**  
   标签：写作 / 小说
-- [Novel Writer - AI 驱动的中文小说创作工具](https://github.com/wordflowlab/novel-writer) — [![npm version](https://badge.fury.io/js/novel-writer-cn.svg  
+- [Novel Writer - AI 驱动的中文小说创作工具](https://github.com/wordflowlab/novel-writer) — 中文小说创作工具（npm 包）：AI 驱动全流程  
   标签：写作 / 小说
-- [Novel Writing Framework](https://github.com/LAY-lgtm/novel-writing-framework) — [![License: MIT](https://img.shields.io/badge/License-MIT-ye  
+- [Novel Writing Framework](https://github.com/LAY-lgtm/novel-writing-framework) — 小说写作框架：MIT 协议的章节工程化技能  
   标签：写作 / 小说
-- [公文写作](https://github.com/Liuxiangjian-ai/official-document-skill) — ## Purpose  
+- [公文写作](https://github.com/Liuxiangjian-ai/official-document-skill) — 公文写作技能：党政机关公文格式与行文规范  
   标签：写作
 - [Official Document Writing Skill](https://github.com/KaguraNanaga/official-document-writing-skill) — 本技能提供党政机关公文写作的完整指南，涵盖格式规范、常用模板、写作技巧和质量检查，确保公文格式正确、语言规范、结构清晰。  
   标签：写作
@@ -744,19 +920,19 @@
   标签：写作
 - [须弥写作 (Sumeru Writing)](https://github.com/xindoo/sumeru) — 专门用于网文创作的AI Agent技能集合，适配Claude Code、OpenCode等AI编程工具，通过Vibe C  
   标签：写作
-- [Tianming Skill](https://github.com/zy-zmc/tianming-skill) — ## 一、本 Skill 的工作哲学  
+- [Tianming Skill](https://github.com/zy-zmc/tianming-skill) — 天命 Skill：以工作哲学驱动的网文创作体系  
   标签：写作
 - [Ux Writing Skill](https://github.com/content-designer/ux-writing-skill) — Write clear, concise, user-centered interface copy (UX text/  
   标签：写作
-- [Webnovel Writer](https://github.com/lingfengQAQ/webnovel-writer) — [![License](https://img.shields.io/badge/License-GPL%20v3-bl  
+- [Webnovel Writer](https://github.com/lingfengQAQ/webnovel-writer) — 网文写手技能：GPL v3 的长篇连载工作流  
   标签：写作 / 小说
-- [WeChat Article Publisher Skill](https://github.com/iamzifei/wechat-article-publisher-skill) — <p align="center">  
+- [WeChat Article Publisher Skill](https://github.com/iamzifei/wechat-article-publisher-skill) — 公众号文章发布技能：排版到草稿箱一步到位  
   标签：写作
 - [微信公众号 AI 运营助手](https://github.com/aiworkskills/wechat-article-skills) — **简体中文** | [English](README_EN.md)  
   标签：写作
 - [Wechat Publisher](https://github.com/sakuraoxo-clio/wechat-publisher) — 把文章变成公众号草稿：排版 → 上传图片 →（可选）生成封面 → 写入草稿箱。用户在 `mp.weixin.qq.com  
   标签：写作
-- [WeChat Writing Team](https://github.com/DavidLam-oss/wechat-writing-team) — [![Obsidian 微信发布插件](https://img.shields.io/badge/Obsidian-微信  
+- [WeChat Writing Team](https://github.com/DavidLam-oss/wechat-writing-team) — 微信写作团队：Obsidian 插件+多 Agent 协作发文  
   标签：写作
 - [Research Writing Skill](https://github.com/Norman-bury/research-writing-skill) — 中文科研写作助手：头脑风暴 / 章节写作 / 文献综述 / LaTeX 输出  
   标签：科研 / 写作 / LaTeX / 文献
@@ -802,6 +978,28 @@
   标签：学术论文 / 研究 / 写作 / 引用 / LaTeX
 - [SEO/AEO 博客写作](https://github.com/sickn33/agentic-awesome-skills) — 写既符合 Google 排名又能被 AI 引擎（Perplexity/ChatGPT/Claude）引用的长文：TL;DR 直答块 + 对比表 + 5 问 FAQ  
   标签：SEO / AEO / 博客 / 长文 / 内容营销
+- [整书翻译流水线](https://github.com/deusyu/translate-book) — 把 PDF/DOCX/EPUB/Markdown 书籍拆块、用共享术语表并行子代理翻译、再合并构建为 HTML/DOCX/EPUB/PDF  
+  标签：翻译 / 书籍 / 长文 / 术语表 / 多格式
+- [文章塑形（Writing Shape）](https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-shape) — 把零散素材「逼问」成结构严谨的文章：先立读者前提、逼出 2-3 个开头选项、再逐段生长，每段都要挣到位置  
+  标签：长文 / 写作 / 方法论 / 结构 / mattpocock
+- [叙事节拍（Writing Beats）](https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-beats) — 把素材组装成「选择你自己的冒险」式叙事：用户选起始节拍，只写那一拍，再给 2-3 个岔路，一拍一拍走到自然结尾  
+  标签：叙事 / 写作 / 方法论 / 结构 / mattpocock
+- [素材碎片（Writing Fragments）](https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-fragments) — 在搭结构之前，先把脑子里的高质量写作素材快速「倒」出来：捕捉原始片段，留给后续塑形/节拍消费  
+  标签：素材 / 写作 / 方法论 / mattpocock
+- [Creative Writing Muse](https://github.com/haowjy/creative-writing-skills) — 长文创意写作灵感助手（长篇创作）  
+  标签：创意写作 / 长篇 / 灵感 / 小说
+- [Claude Blog Writer](https://github.com/AgriciDaniel/claude-blog) — 博客文章全流程写作（选题到成稿与 SEO）  
+  标签：博客 / 长文 / SEO / 内容创作
+- [Shuohao 小说转短剧（剧本）](https://github.com/eternityspring/shuohao-skills) — eternityspring 出品：把小说手稿转成角色圣经、大纲、美术参考、剧本与分镜，覆盖短剧全生产链路  
+  标签：小说改编 / 短剧 / 剧本 / 分镜 / 网文
+- [SCI/SSCI 科研写作](https://github.com/Yila-AI/awesome-research-skills) — 从自有材料规划、起草、修订、润色 SCI/SSCI 论文，证据保全、不改科学、多语言  
+  标签：学术论文 / SCI/SSCI / 润色 / 写作
+- [长篇内容框架（Long-Form Frameworks）](https://github.com/rampstackco/claude-skills) — 资深编辑的长篇结构手册：案例研究/白皮书/研究报告/权威指南/宣言/电子书的 7 种格式与结构原型  
+  标签：长篇写作 / 内容结构 / 方法论 / 编辑
+- [X 长文写作 + 去 AI 味](https://github.com/ericosiu/ai-marketing-skills) — 创始人/CEO 视角的 X 长文与长线程：反直觉角度 + 数据佐证 + ASCII 图，发布前强制跑 24 条去 AI 味清单  
+  标签：X 写作 / 长文 / 去 AI 味 / 创始人声线
+- [Beautiful Article](https://github.com/ConardLi/garden-skills) — ConardLi 出品：把任意素材（URL/PDF/DOCX/Markdown/截图）编辑设计成一篇可离线打开的单文件 HTML 网页文章  
+  标签：长文 / 单文件 HTML / 排版 / 设计感
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -833,9 +1031,9 @@
   标签：去AI味
 - [Avoid Ai Writing](https://github.com/conorbronsdon/avoid-ai-writing) — You are editing content to remove AI writing patterns ("AI-i  
   标签：去AI味
-- [Best AI Humanizer Handbook](https://github.com/lynote-ai/best-humanizer-handbook) — ## A practical guide to making AI-assisted writing clearer,   
+- [Best AI Humanizer Handbook](https://github.com/lynote-ai/best-humanizer-handbook) — 人味写作手册：让 AI 辅助写作更清晰自然的实操指南  
   标签：去AI味 / 小说
-- [Human Writing](https://github.com/KKKKhazix/human-writing) — <p align="center">  
+- [Human Writing](https://github.com/KKKKhazix/human-writing) — Human Writing：把 AI 文改出人味的写作技能  
   标签：去AI味
 - [Humanizer Br](https://github.com/carlosafjr-dev/humanizer-br) — Skill para Claude Code que remove marcas típicas de textos g  
   标签：去AI味
@@ -843,9 +1041,9 @@
   标签：去AI味
 - [Humanizer-ZH-Academic：中文学术写作去AI味指南](https://github.com/redbaronyyyyy-eng/humanizer-zh-academic) — 你是一名中文学术写作编辑，专门识别并消除学术文本中的AI生成痕迹，使文章读起来更自然、更具人类学者的思维纹理。  
   标签：去AI味
-- [Natural Japanese](https://github.com/coji/natural-japanese) — [![License: MIT](https://img.shields.io/badge/License-MIT-bl  
+- [Natural Japanese](https://github.com/coji/natural-japanese) — 自然日语写作 skill：去除翻译腔的日文润色  
   标签：去AI味
-- [No Ai Slop Writing Rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) — [![skills.sh](https://skills.sh/b/realrossmanngroup/no_ai_sl  
+- [No Ai Slop Writing Rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) — 反 AI 味写作规则集（skills.sh 收录）  
   标签：去AI味
 - [Stop Slop 去 AI 味](https://github.com/hardikpandya/stop-slop) — 基于 Wikipedia AI 写作特征指南，系统性剔除 AI 腔与套路化表达  
   标签：去AI味 / 写作 / 编辑 / 英文
@@ -859,6 +1057,16 @@
   标签：去AI味 / 英文 / 写作 / humanizer
 - [Im-Not-AI (韩语去 AI 味)](https://github.com/epoko77-ai/im-not-ai) — 韩语 AI 文本人文化，检测 70 类 AI 痕迹  
   标签：Humanizer / Korean / 去 AI 味 / 润色
+- [写作 DNA 蒸馏器](https://github.com/larashero3-dotcom/writing-dna-skill) — 给 AI 20+ 篇范文，自动蒸馏出你的专属「写作 DNA」（语言习惯 / 结构 / 选题 / 认知框架），之后每次写作先读规则再动笔  
+  标签：写作风格 / 去 AI 味 / 风格蒸馏 / 个人声音 / 方法论
+- [Yomiyasu（読みやすさ）](https://github.com/nanaism/yomiyasu) — 把 AI 生成的日语推敲成自然、信息密度高的人类文本，含 AI 味量化检查脚本  
+  标签：去 AI 味 / 日语 / 技术写作 / 文本润色 / 方法论
+- [Lieflat 去 AI 腔](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) — 基于 283 万字人/AI 语料统计的去 AI 味规则，抓「不是A而是B」句式与密集破折号  
+  标签：去AI味 / 中文写作 / 方法论 / 润色
+- [Not Ai（溯源保真润色）](https://github.com/udaysharmadev/Not-Ai) — 研究驱动的编辑型去 AI 味：保留事实与作者声音，拒绝为过检测器而编造，支持多语种与声音匹配  
+  标签：去 AI 味 / 润色 / 多语种 / 声音匹配
+- [Work Humanizer（职场写作去 AI 味）](https://github.com/phuryn/work-humanizer) — 面向职场写作的实证去 AI 味：销售/客服/HR/法务/邮件/文档，两种模式——改写或访谈式重建  
+  标签：去 AI 味 / 职场写作 / 文案 / 访谈重建
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
@@ -870,7 +1078,7 @@
   标签：网文 / 中文 / 方法论
 - [Writer DNA](https://github.com/liangjfblue/writer-dna) — 写作风格 DNA 分析与保持 skill  
   标签：风格 / DNA / 模仿
-- [台灣正式文件撰寫助手](https://github.com/Imbad0202/tw-formal-writing) — ## Quick Start  
+- [台灣正式文件撰寫助手](https://github.com/Imbad0202/tw-formal-writing) — 台湾正式文件撰写助手：公文书信格式规范  
   标签：方法论
 - [小互公众号排版](https://github.com/xiaohuailabs/xiaohu-wechat-format) — 任意文本一键转微信公众号兼容排版 HTML，30+ 主题 + 标点质检  
   标签：公众号 / 排版 / 微信 / 发布
@@ -920,6 +1128,38 @@
   标签：Deep Research / 调研 / 研究报告 / 文献综合
 - [Copy Editing](https://github.com/alirezarezvani/claude-skills) — 系统化多轮营销文案编辑流程：清晰、语气、简洁、CTA、品牌一致性五重审查  
   标签：文案 / 编辑 / 校对 / 方法论
+- [技术文章翻译（中英/中日）](https://github.com/feiskyer/claude-code-settings) — 把英文/日文技术文章翻译成自然流畅的中文：保留术语与品牌名、消除机翻味，Markdown 格式零失真  
+  标签：翻译 / 技术 / 中文 / 方法论 / 去机翻味
+- [自媒体内容生产流](https://github.com/yanhua1010/self-media-content-workflow) — 通用模块化的自媒体内容生产闭环：从选题策略到多平台文案、短视频与发布  
+  标签：自媒体 / 内容运营 / 多平台 / 工作流
+- [YouTube Script Writer](https://github.com/Jakeschincariol/youtube-agent-skill) — YouTube 脚本写作方法论（钩子 / 结构 / CTA）  
+  标签：YouTube / 脚本 / 方法论 / 内容创作
+- [Google 广告文案生成](https://github.com/nowork-studio/notfair-plugin) — 生成并 A/B 测试 Google Ads RSA 文案（标题/描述/变体），提升 CTR  
+  标签：广告文案 / Google Ads / RSA / A/B 测试 / 营销
+- [SEO 内容写作](https://github.com/inhouseseo/superseo-skills) — 写完整 SEO 文章：自带反 AI 味规则集（禁用词/禁用结构）+ 声音规则，Agent 自研 SERP  
+  标签：SEO / 内容写作 / 去AI味 / 长文 / 内容营销
+- [编剧专业技能集](https://github.com/jtydhr88/screenwriting-skills) — 26 个专业编剧 / 电视剧 / 戏剧构作 Agent Skill：人物冲突、系列创作、京剧板腔、契诃夫戏剧法等多流派方法论  
+  标签：编剧 / 剧本 / 方法论 / 短剧 / 故事结构
+- [Book-to-Skill 知识蒸馏](https://github.com/virgiliojr94/book-to-skill) — 把书/文档蒸馏成可调用 Agent Skill，章节按需加载省 token  
+  标签：方法论 / 知识蒸馏 / Skill 构建 / 文档
+- [技术文档写作](https://github.com/seb1n/awesome-ai-agent-skills) — 结构化产出高质量技术文档：API 参考、用户指南、教程、变更日志、架构文档  
+  标签：技术写作 / 文档 / API 参考 / 教程
+- [中文技术文档写作](https://github.com/leter/zh-tech-writing) — 按阮一峰规范写/改中文技术文档：短句、平实、无 AI 腔，自带 AI 腔清单自检  
+  标签：技术写作 / 中文文档 / 去 AI 腔 / 规范
+- [SEO 实战（Search Console MCP）](https://github.com/iannuttall/seo) — 免费 Google Search Console / Analytics / Bing / Ahrefs MCP+CLI：诊断流量下滑、关键词研究、技术爬取、内链与竞品分析  
+  标签：SEO / Search Console / 关键词研究 / 技术爬取
+- [Tech-Doc-Style-Chinese](https://github.com/Fenng/Tech-Doc-Style-Chinese) — Fenng 出品：中文技术文档/产品文案写作规范 Skill，让 AI 改写得更精准、更少营销腔  
+  标签：技术写作 / 中文 / 文档规范 / 文案
+- [Simplified Technical English](https://github.com/0xpili/simplified-technical-english) — 0xpili 出品：用 ASD-STE100 受控语言规范写作/审查技术文档，附 Python 校验工具  
+  标签：技术写作 / STE / 受控语言 / 文档审查
+- [ISO 24495 Plain Language](https://github.com/danyuchn/iso-24495-skill) — 按 ISO 24495-1 国际标准把文本改写成浅白语言（英文 + 繁体中文），读者导向的可读性重写  
+  标签：技术写作 / 浅白语言 / ISO 24495 / 繁体中文 / 文档规范
+- [SEO Autopilot 自动 SEO](https://github.com/Illyism/seo-skills) — 642★ 端到端自动 SEO 技能：每日巡检站点健康、关键词地图、文章与对比页，状态落库可复跑  
+  标签：SEO / 内容营销 / 关键词 / 增长 / 自动化
+- [学术写作工作流](https://github.com/pedrohcgs/claude-code-my-workflow) — 1.7k★ Emory 实战打磨的学术工作流：28 个技能覆盖 LaTeX 写作、R 分析、文献与审稿  
+  标签：学术写作 / LaTeX / 科研 / 方法论
+- [Newsletter 增长策略](https://github.com/OpenClaudia/openclaudia-skills) — 723★ 邮件通讯增长技能：选题规划、订阅增长、打开率优化与变现一体化  
+  标签：Newsletter / 内容增长 / 邮件 / 变现
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
