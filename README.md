@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-10-31 15:19:27 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-03 15:20:23 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（553 个条目 / 20 个分类）
+## 📑 内容导航（559 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -355,6 +355,14 @@
   标签：等距插画 / 技术图解 / SVG / WebGL
 - [Diagram Design 编辑级图表](https://github.com/cathrynlavery/diagram-design) — 62.4k★ 爆款编辑级图表技能：45 种图型输出自包含 HTML/SVG，彻底告别「Mermaid 味」  
   标签：图表 / 架构图 / SVG / 设计系统 / 数据可视化
+- [SVG Diagram](https://github.com/bybit-exchange/svg-diagram) — 手绘风、零依赖的 SVG 架构/流程/时序图 Agent Skill，自带 lint 门禁与 CJK 安全  
+  标签：SVG / 架构图 / 流程图 / 零依赖
+- [RelaDraw](https://github.com/reladraw/reladraw) — 相对坐标的图文法生成可手写排布感的 SVG，CLI/网页/智能体三端通用  
+  标签：图表 DSL / SVG / 文本绘图 / 零依赖
+- [OpenFlowKit](https://github.com/openflowkit/openflowkit) — 本地优先的实时协作图表画布，智能体通过 MCP 在你的仓库旁画、改、存图表  
+  标签：图表画布 / MCP / 本地优先 / 实时协作
+- [TerraVision 云架构图](https://github.com/patrickchugh/terravision) — 用 AWS/Azure/GCP 官方图标集画云架构图，支持从 Terraform 代码生成或从 JSON 渲染  
+  标签：云架构 / AWS / Azure / GCP / Terraform
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -863,6 +871,10 @@
   标签：视频生成 / 发布视频 / Launch Video / HyperFrames
 - [Motion Video Kit](https://github.com/echris6/motion-video-kit) — 高端 AI 辅助商业视频 Skill：独立评审循环 + 28 部发布片方法论 + Three.js 模式 + 音效 / 商业剧本  
   标签：视频 / 商业广告 / Motion / Three.js / 质量评审
+- [B-roll Loop Engineering](https://github.com/erduo1998-cell/erduo-broll-loop-engineering) — SRT 字幕驱动的 B-roll 自动编排 Agent Skill，智能路由 HyperFrames / Remotion 双后端  
+  标签：B-roll / Remotion / 短视频 / SRT
+- [Edit Timeline Studio](https://github.com/MartinDelophy/ai-video-editor) — 本地优先的开源视频编辑器，人类与 AI 智能体在同一条真实时间轴上协作剪辑  
+  标签：视频剪辑 / 自动字幕 / AI 配音 / 本地优先
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
