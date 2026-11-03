@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-03 15:20:23 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-03 18:22:05 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（559 个条目 / 20 个分类）
+## 📑 内容导航（564 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -363,6 +363,8 @@
   标签：图表画布 / MCP / 本地优先 / 实时协作
 - [TerraVision 云架构图](https://github.com/patrickchugh/terravision) — 用 AWS/Azure/GCP 官方图标集画云架构图，支持从 Terraform 代码生成或从 JSON 渲染  
   标签：云架构 / AWS / Azure / GCP / Terraform
+- [Architecture Designer 架构设计](https://github.com/Jeffallan/claude-skills) — Jeffallan/claude-skills 子技能：从需求到 Mermaid 架构图 + ADR，做有取舍、有风险评审的系统设计  
+  标签：架构设计 / Mermaid / ADR / 系统设计
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -509,6 +511,8 @@
   标签：Logo / 品牌设计 / SVG / 标识 / Branding
 - [Design Taste 反 AI 味设计](https://github.com/madebymustafa/design-taste) — 208★ 反 AI 味落地页/作品集设计技能：读需求、定设计方向、发货不像生成器的界面  
   标签：反AI味 / UI设计 / 落地页 / 设计系统
+- [Understand Figma 设计解析](https://github.com/egonex-ai/understand-anything) — egonex-ai 出品：把 Figma 文件解析成可交互的设计知识图谱，沉淀设计系统、组件与令牌  
+  标签：Figma / 设计系统 / 设计令牌 / 知识图谱
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -686,6 +690,8 @@
   标签：混剪 / 字幕 / 影视二创 / 蒙太奇
 - [Product Launch Motion](https://github.com/AbubakrChan/product-launch-motion) — 397★ 用 HTML/CSS/GSAP 做产品发布片：真实运镜、电影级调色、广播响度母带  
   标签：产品视频 / 动态图形 / GSAP / 品牌
+- [Net-New Video Editor 口播精剪](https://github.com/ericosiu/ai-marketing-skills) — ericosiu/ai-marketing-skills 子技能：把刚录好的口播素材剪成分发就绪的竖版视频，含字幕、hook 卡与画质校验  
+  标签：视频剪辑 / 竖版短视频 / 字幕 / FFmpeg / 口播
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -758,6 +764,8 @@
   标签：字幕 / 转录 / 配音 / 本地
 - [Claude Watch 视频理解](https://github.com/bradautomates/claude-video) — 让 Claude 观看并理解视频：下载、抽帧、转录、回答视频内容问题  
   标签：视频理解 / 转录 / 抽帧 / 分析
+- [Video Caption Generator 视频字幕](https://github.com/ericosiu/ai-marketing-skills) — ericosiu/ai-marketing-skills 子技能：把视频自动生成可读、带品牌风格的字幕与标题卡  
+  标签：字幕 / 视频 / 短视频 / 社媒
 
 <a id="cat-ai-视频" name="cat-ai-视频"></a>
 
@@ -1012,6 +1020,8 @@
   标签：X 写作 / 长文 / 去 AI 味 / 创始人声线
 - [Beautiful Article](https://github.com/ConardLi/garden-skills) — ConardLi 出品：把任意素材（URL/PDF/DOCX/Markdown/截图）编辑设计成一篇可离线打开的单文件 HTML 网页文章  
   标签：长文 / 单文件 HTML / 排版 / 设计感
+- [Article Writing 长文写作](https://github.com/affaan-m/ECC) — affaan-m/ECC 长文写作技能：把笔记/转录/研究写成有观点、声线一致的长文、指南与通讯，自带质量闸门、去 AI 味  
+  标签：长文写作 / Article / 通讯 / 声线一致 / 去AI味
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 

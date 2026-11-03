@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T15:20:23.019Z",
+  "updatedAt": "2026-11-03T18:22:05.059Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -8651,6 +8651,88 @@
       "bg": "",
       "tool": "video",
       "hot": 934
+    },
+    {
+      "name": "Article Writing 长文写作",
+      "desc": "affaan-m/ECC 长文写作技能：把笔记/转录/研究写成有观点、声线一致的长文、指南与通讯，自带质量闸门、去 AI 味",
+      "url": "https://github.com/affaan-m/ECC",
+      "category": "longform",
+      "tags": [
+        "长文写作",
+        "Article",
+        "通讯",
+        "声线一致",
+        "去AI味"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 296346
+    },
+    {
+      "name": "Understand Figma 设计解析",
+      "desc": "egonex-ai 出品：把 Figma 文件解析成可交互的设计知识图谱，沉淀设计系统、组件与令牌",
+      "url": "https://github.com/egonex-ai/understand-anything",
+      "category": "design",
+      "tags": [
+        "Figma",
+        "设计系统",
+        "设计令牌",
+        "知识图谱"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 90229
+    },
+    {
+      "name": "Net-New Video Editor 口播精剪",
+      "desc": "ericosiu/ai-marketing-skills 子技能：把刚录好的口播素材剪成分发就绪的竖版视频，含字幕、hook 卡与画质校验",
+      "url": "https://github.com/ericosiu/ai-marketing-skills",
+      "category": "fullstack",
+      "tags": [
+        "视频剪辑",
+        "竖版短视频",
+        "字幕",
+        "FFmpeg",
+        "口播"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 3772
+    },
+    {
+      "name": "Architecture Designer 架构设计",
+      "desc": "Jeffallan/claude-skills 子技能：从需求到 Mermaid 架构图 + ADR，做有取舍、有风险评审的系统设计",
+      "url": "https://github.com/Jeffallan/claude-skills",
+      "category": "diagram",
+      "tags": [
+        "架构设计",
+        "Mermaid",
+        "ADR",
+        "系统设计"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 12199
+    },
+    {
+      "name": "Video Caption Generator 视频字幕",
+      "desc": "ericosiu/ai-marketing-skills 子技能：把视频自动生成可读、带品牌风格的字幕与标题卡",
+      "url": "https://github.com/ericosiu/ai-marketing-skills",
+      "category": "subtitle",
+      "tags": [
+        "字幕",
+        "视频",
+        "短视频",
+        "社媒"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 3772
     }
   ],
   "categories": [
