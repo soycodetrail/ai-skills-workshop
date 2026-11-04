@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-03 18:22:05 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-04 18:41:29 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（564 个条目 / 20 个分类）
+## 📑 内容导航（569 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -295,6 +295,8 @@
   标签：图像生成 / GPT Image 2 / 提示词 / 编辑
 - [Anatomy 机理等距插画](https://github.com/wheresryan22/anatomy) — 21.9k★ 把技术概念画成「会动的等距机械图」：数百精密零件 + WebGL 特效，文档级技术插画  
   标签：技术插画 / Isometric / SVG / WebGL / 文档配图
+- [Static Visual Design](https://github.com/xorbitsai/xagent) — 把广告/海报/横幅/社媒图一次渲染成 PNG/JPEG：版式、标题与品牌化排版内嵌  
+  标签：海报 / 广告 / 品牌视觉 / 图像生成 / 版式
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -513,6 +515,8 @@
   标签：反AI味 / UI设计 / 落地页 / 设计系统
 - [Understand Figma 设计解析](https://github.com/egonex-ai/understand-anything) — egonex-ai 出品：把 Figma 文件解析成可交互的设计知识图谱，沉淀设计系统、组件与令牌  
   标签：Figma / 设计系统 / 设计令牌 / 知识图谱
+- [Better Colors](https://github.com/jakubkrehel/skills) — 生成并校验色彩系统：调色板、语义 token 命名、格式转换与对比度测量（OKLCH）  
+  标签：配色 / 设计系统 / Token / 可访问性 / OKLCH
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -692,6 +696,8 @@
   标签：产品视频 / 动态图形 / GSAP / 品牌
 - [Net-New Video Editor 口播精剪](https://github.com/ericosiu/ai-marketing-skills) — ericosiu/ai-marketing-skills 子技能：把刚录好的口播素材剪成分发就绪的竖版视频，含字幕、hook 卡与画质校验  
   标签：视频剪辑 / 竖版短视频 / 字幕 / FFmpeg / 口播
+- [Super Video Maker](https://github.com/Bomx/super-video-maker-skill) — 端到端 AI 视频生产：10 步流水线串起 HeyGen / Seedance / Remotion / HyperFrames / 字幕 / 配音  
+  标签：视频生产 / 全链路 / HeyGen / Remotion / 字幕
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -883,6 +889,8 @@
   标签：B-roll / Remotion / 短视频 / SRT
 - [Edit Timeline Studio](https://github.com/MartinDelophy/ai-video-editor) — 本地优先的开源视频编辑器，人类与 AI 智能体在同一条真实时间轴上协作剪辑  
   标签：视频剪辑 / 自动字幕 / AI 配音 / 本地优先
+- [数字人口播 Koubo](https://github.com/andyhuo520/digital-human-koubo) — 一张照片 + 一句话生成数字人口播视频：脚本、字幕、声音清理与 YouTuber 式包装全链路  
+  标签：数字人 / 口播 / AI 视频 / 短视频
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -1182,6 +1190,8 @@
   标签：学术写作 / LaTeX / 科研 / 方法论
 - [Newsletter 增长策略](https://github.com/OpenClaudia/openclaudia-skills) — 723★ 邮件通讯增长技能：选题规划、订阅增长、打开率优化与变现一体化  
   标签：Newsletter / 内容增长 / 邮件 / 变现
+- [SEO 审计（Corey Haines）](https://github.com/coreyhaines31/marketingskills) — 把站点 SEO 健康问题诊断成可执行的修复清单：技术 SEO、Core Web Vitals、索引与排名  
+  标签：SEO / 审计 / 方法论 / 增长 / 内容
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
