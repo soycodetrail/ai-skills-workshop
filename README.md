@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-05 11:52:59 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-05 18:27:56 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（569 个条目 / 20 个分类）
+## 📑 内容导航（574 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -367,6 +367,8 @@
   标签：云架构 / AWS / Azure / GCP / Terraform
 - [Architecture Designer 架构设计](https://github.com/Jeffallan/claude-skills) — Jeffallan/claude-skills 子技能：从需求到 Mermaid 架构图 + ADR，做有取舍、有风险评审的系统设计  
   标签：架构设计 / Mermaid / ADR / 系统设计
+- [stack-diagram](https://github.com/caru-ini/stack-diagram) — 云架构风格技术栈与系统架构图：真实品牌 Logo、分层与连线规范  
+  标签：架构图 / 技术栈 / 云架构 / 系统设计 / 品牌Logo
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -394,6 +396,8 @@
   标签：数据可视化 / PPTX / 仪表盘 / 图表
 - [Dashboard Creator（仪表盘生成）](https://github.com/mhattingpete/claude-skills-marketplace) — 一句话生成自包含 HTML 仪表盘：KPI 卡片、SVG 柱状/饼/折线图、进度条与数据表  
   标签：仪表盘 / HTML / KPI / SVG 图表
+- [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 把复杂回答渲染成单页 HTML 图解：图表、时间线、对比与可视化叙事  
+  标签：HTML图解 / 数据可视化 / 信息图 / 时间线 / 可视化叙事
 
 <a id="cat-设计-ui" name="cat-设计-ui"></a>
 
@@ -517,6 +521,10 @@
   标签：Figma / 设计系统 / 设计令牌 / 知识图谱
 - [Better Colors](https://github.com/jakubkrehel/skills) — 生成并校验色彩系统：调色板、语义 token 命名、格式转换与对比度测量（OKLCH）  
   标签：配色 / 设计系统 / Token / 可访问性 / OKLCH
+- [cc-design](https://github.com/ZeroZ-lab/cc-design) — 高保真 HTML 设计与原型：落地页、PPT 级视觉稿、动效与可交付前端  
+  标签：高保真设计 / HTML原型 / PPT视觉 / 动效 / 前端交付
+- [unslop](https://github.com/heydamir/unslop) — 检测并消除 AI 味 UI：紫渐变、发光、emoji 堆积，重设计为有意设计界面  
+  标签：去AI味 / UI设计 / 设计系统 / 反模式 / 质感
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -623,6 +631,8 @@
   标签：视频导演 / 代码视频 / Remotion / Canvas
 - [ReelBench 逐镜拉片](https://github.com/eternityspring/reelbench-skills) — 1.2k★ 把成片拆成逐镜头分析表：景别/运镜/节奏由代码量，模型只判该判的，15 道质量门  
   标签：拉片 / 分镜 / 视频分析 / 镜头表 / 后期
+- [rea-video](https://github.com/JuneYaooo/rea-video) — 逆向拆解视频制作方式：逐镜判定实拍 / AI / 3D / 代码渲染并给出可复刻方案  
+  标签：视频拆解 / 制作分析 / 分镜 / 影视 / 复刻
 
 <a id="cat-全链路" name="cat-全链路"></a>
 
