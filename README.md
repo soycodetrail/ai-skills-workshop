@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-05 18:27:56 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-06 18:16:56 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（574 个条目 / 20 个分类）
+## 📑 内容导航（579 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -192,6 +192,10 @@
   标签：动画 / Remotion / 动效 / MP4
 - [3D 标题序列](https://github.com/charlie947/motion-graphics-skills) — 493★ 发布级动态图形技能库中的 3D 标题序列：代码驱动的电影感片头，含 13 个场景技能  
   标签：动态图形 / 3D / 片头 / Motion
+- [Claude Animated Shorts](https://github.com/mromidev/claude-animated-shorts) — 本地渲染竖屏动画短片（55-70s）：2D 角色置于 3D 世界，three.js + Remotion，无需 AI 视频生成器  
+  标签：动画短片 / three.js / Remotion / 本地渲染
+- [Pixelfx](https://github.com/patch-gg/pixelfx) — 244 个代码驱动的像素特效与动画，Claude 直接查找 / 生成 / 导出精灵图，游戏素材即取即用  
+  标签：像素艺术 / 游戏素材 / 精灵图 / 特效
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
@@ -633,6 +637,8 @@
   标签：拉片 / 分镜 / 视频分析 / 镜头表 / 后期
 - [rea-video](https://github.com/JuneYaooo/rea-video) — 逆向拆解视频制作方式：逐镜判定实拍 / AI / 3D / 代码渲染并给出可复刻方案  
   标签：视频拆解 / 制作分析 / 分镜 / 影视 / 复刻
+- [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) — 用代码生成电影级短片：66+ 种手绘风格（油画厚涂 / 水彩 / 浮世绘 / 卫星简报 / 产品拆解），无需视频模型或素材  
+  标签：短片 / 代码生成 / 导演 / 风格库
 
 <a id="cat-全链路" name="cat-全链路"></a>
 
@@ -708,6 +714,8 @@
   标签：视频剪辑 / 竖版短视频 / 字幕 / FFmpeg / 口播
 - [Super Video Maker](https://github.com/Bomx/super-video-maker-skill) — 端到端 AI 视频生产：10 步流水线串起 HeyGen / Seedance / Remotion / HyperFrames / 字幕 / 配音  
   标签：视频生产 / 全链路 / HeyGen / Remotion / 字幕
+- [OpenScreen Demo](https://github.com/getopenscreen/openscreen) — 一句话让 Agent 录屏并剪出产品 Demo 视频：自动变焦 / 字幕 / 特效，可挂到 PR 或发到 X  
+  标签：录屏 / 产品Demo / 视频剪辑 / Screen Studio替代
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -1202,6 +1210,8 @@
   标签：Newsletter / 内容增长 / 邮件 / 变现
 - [SEO 审计（Corey Haines）](https://github.com/coreyhaines31/marketingskills) — 把站点 SEO 健康问题诊断成可执行的修复清单：技术 SEO、Core Web Vitals、索引与排名  
   标签：SEO / 审计 / 方法论 / 增长 / 内容
+- [Claude Scholar · Nature Writing](https://github.com/Galaxy-Dawn/claude-scholar) — 按作者证据撰写 Nature 风格论文：摘要 / 引言 / 结果 / 讨论，严守「不编造数据」的科研写作方法论  
+  标签：科研写作 / Nature / 论文 / 方法论
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
