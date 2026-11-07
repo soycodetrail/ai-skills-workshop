@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-06 18:16:56 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-07 19:52:39 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（579 个条目 / 20 个分类）
+## 📑 内容导航（586 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -301,6 +301,10 @@
   标签：技术插画 / Isometric / SVG / WebGL / 文档配图
 - [Static Visual Design](https://github.com/xorbitsai/xagent) — 把广告/海报/横幅/社媒图一次渲染成 PNG/JPEG：版式、标题与品牌化排版内嵌  
   标签：海报 / 广告 / 品牌视觉 / 图像生成 / 版式
+- [GPT Image 2 Skill](https://github.com/wuyoscar/GPT-Image2-Skill) — GPT Image 2/2.5 提示词库 + 生图/编辑 Agent 工作流  
+  标签：GPT Image / 提示词 / 生图 / 图像编辑
+- [Hand-Drawn Styles](https://github.com/threerocks/hand-drawn-styles) — 5 种手绘风格把内容转成可复制的图像提示词  
+  标签：手绘 / 插画 / 提示词 / 风格库
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -909,6 +913,10 @@
   标签：视频剪辑 / 自动字幕 / AI 配音 / 本地优先
 - [数字人口播 Koubo](https://github.com/andyhuo520/digital-human-koubo) — 一张照片 + 一句话生成数字人口播视频：脚本、字幕、声音清理与 YouTuber 式包装全链路  
   标签：数字人 / 口播 / AI 视频 / 短视频
+- [Seedance 2.5 Video Director](https://github.com/liyue-aigc/seedance-2-5-video-director) — Seedance 2.5 导演技能：分镜/延长/智能剪辑/区域编辑/角色锁定  
+  标签：Seedance / 视频导演 / 分镜 / AI 视频
+- [Seedance TVC Director](https://github.com/nutllwhy/seedance-tvc-director) — Seedance 2.5 广告导演技能：15/30 秒商片分镜与 VO 路由  
+  标签：Seedance / 广告 / TVC / 分镜
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -1048,6 +1056,8 @@
   标签：长文 / 单文件 HTML / 排版 / 设计感
 - [Article Writing 长文写作](https://github.com/affaan-m/ECC) — affaan-m/ECC 长文写作技能：把笔记/转录/研究写成有观点、声线一致的长文、指南与通讯，自带质量闸门、去 AI 味  
   标签：长文写作 / Article / 通讯 / 声线一致 / 去AI味
+- [躺平公文](https://github.com/larashero3-dotcom/lieflat-gongwen) — 102 万字真实公文样本蒸馏出 7 类公文风格可量化参数  
+  标签：公文 / 中文写作 / 风格量化 / 政府文书
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -1212,6 +1222,10 @@
   标签：SEO / 审计 / 方法论 / 增长 / 内容
 - [Claude Scholar · Nature Writing](https://github.com/Galaxy-Dawn/claude-scholar) — 按作者证据撰写 Nature 风格论文：摘要 / 引言 / 结果 / 讨论，严守「不编造数据」的科研写作方法论  
   标签：科研写作 / Nature / 论文 / 方法论
+- [Instagram Agent Skill](https://github.com/Jakeschincariol/instagram-agent-skill) — 13 个 Skill 端到端运营 Instagram（脚本/字幕/人设/复盘）  
+  标签：Instagram / 社媒运营 / 内容自动化 / 钩子公式
+- [SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) — 用 ASD-STE100 受控语言写清晰的 Plain English 文档  
+  标签：Plain English / 技术写作 / 受控语言 / 文档
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
