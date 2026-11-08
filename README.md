@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-07 19:52:39 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-08 18:51:06 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（586 个条目 / 20 个分类）
+## 📑 内容导航（591 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -196,6 +196,8 @@
   标签：动画短片 / three.js / Remotion / 本地渲染
 - [Pixelfx](https://github.com/patch-gg/pixelfx) — 244 个代码驱动的像素特效与动画，Claude 直接查找 / 生成 / 导出精灵图，游戏素材即取即用  
   标签：像素艺术 / 游戏素材 / 精灵图 / 特效
+- [Oil Motion（网页交互动画）](https://github.com/oil-oil/oil-motion) — 把视频/序列帧变成随滚动、指针、拖动、触摸、设备方向或音频变化的可验收网页动画  
+  标签：网页动画 / 交互 / 关键帧 / 产品拆解
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
@@ -533,6 +535,8 @@
   标签：高保真设计 / HTML原型 / PPT视觉 / 动效 / 前端交付
 - [unslop](https://github.com/heydamir/unslop) — 检测并消除 AI 味 UI：紫渐变、发光、emoji 堆积，重设计为有意设计界面  
   标签：去AI味 / UI设计 / 设计系统 / 反模式 / 质感
+- [公众号排版引擎（gzh-design）](https://github.com/isjiamu/gzh-design-skill) — 把 Markdown/Word/PDF 一键排成可直接粘进公众号编辑器的精致 HTML，含主题库与自动排版  
+  标签：公众号 / 排版 / HTML / 主题
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -720,6 +724,8 @@
   标签：视频生产 / 全链路 / HeyGen / Remotion / 字幕
 - [OpenScreen Demo](https://github.com/getopenscreen/openscreen) — 一句话让 Agent 录屏并剪出产品 Demo 视频：自动变焦 / 字幕 / 特效，可挂到 PR 或发到 X  
   标签：录屏 / 产品Demo / 视频剪辑 / Screen Studio替代
+- [gbro 纸拼贴 B-roll](https://github.com/pyang5166/gbro-collage-broll) — 把 5 秒口播/观点句做成高级半调纸拼贴 B-roll 动画，三阶段审批防踩坑  
+  标签：B-roll / 纸拼贴 / Gemini / 动画
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -917,6 +923,8 @@
   标签：Seedance / 视频导演 / 分镜 / AI 视频
 - [Seedance TVC Director](https://github.com/nutllwhy/seedance-tvc-director) — Seedance 2.5 广告导演技能：15/30 秒商片分镜与 VO 路由  
   标签：Seedance / 广告 / TVC / 分镜
+- [Seedance 生产流程（seedance-production-workflow）](https://github.com/LearnPrompt/awesome-seedance) — 从 brief 到参考图、分镜、生成交接、逐镜头审阅与定向修复的端到端 Seedance 视频工作流  
+  标签：Seedance / 视频生产 / 分镜 / QA
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -1226,6 +1234,8 @@
   标签：Instagram / 社媒运营 / 内容自动化 / 钩子公式
 - [SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) — 用 ASD-STE100 受控语言写清晰的 Plain English 文档  
   标签：Plain English / 技术写作 / 受控语言 / 文档
+- [PRD 写作（create-prd）](https://github.com/phuryn/pm-skills) — 用 8 段式精益模板生成决策就绪的产品需求文档，约 1-2 页即可对齐团队  
+  标签：PRD / 产品需求 / PM / 方法论
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
