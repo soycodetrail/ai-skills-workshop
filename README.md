@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-08 18:51:06 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-09 21:22:15 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（591 个条目 / 20 个分类）
+## 📑 内容导航（597 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -307,6 +307,8 @@
   标签：GPT Image / 提示词 / 生图 / 图像编辑
 - [Hand-Drawn Styles](https://github.com/threerocks/hand-drawn-styles) — 5 种手绘风格把内容转成可复制的图像提示词  
   标签：手绘 / 插画 / 提示词 / 风格库
+- [像素艺术生成（codixel）](https://github.com/mankidev/codixel) — 教 Agent 画好像素艺术：静态像素图、动画游戏精灵与特效，附风格与技巧指引  
+  标签：像素艺术 / 游戏资产 / 精灵动画 / 复古插画
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -379,6 +381,8 @@
   标签：架构设计 / Mermaid / ADR / 系统设计
 - [stack-diagram](https://github.com/caru-ini/stack-diagram) — 云架构风格技术栈与系统架构图：真实品牌 Logo、分层与连线规范  
   标签：架构图 / 技术栈 / 云架构 / 系统设计 / 品牌Logo
+- [架构图生成（arch-diagram）](https://github.com/bassnova42/arch-diagram-skill) — 把任意来源（仓库 / 文章 / PDF / 本地目录）变成结构贴合内容的密集架构图，八种主题可绘  
+  标签：架构图 / 可视化 / 系统设计 / 技术文档 / 图表
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -537,6 +541,8 @@
   标签：去AI味 / UI设计 / 设计系统 / 反模式 / 质感
 - [公众号排版引擎（gzh-design）](https://github.com/isjiamu/gzh-design-skill) — 把 Markdown/Word/PDF 一键排成可直接粘进公众号编辑器的精致 HTML，含主题库与自动排版  
   标签：公众号 / 排版 / HTML / 主题
+- [品牌识别设计（brand-identity）](https://github.com/fatihaydost/brand-identity-skill) — 一条 brief 产出完整品牌识别系统：Logo、字体、配色一起设计、量化测评并排对比，交付品牌规范包  
+  标签：品牌设计 / Logo / 配色 / 字体 / 设计规范
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -726,6 +732,10 @@
   标签：录屏 / 产品Demo / 视频剪辑 / Screen Studio替代
 - [gbro 纸拼贴 B-roll](https://github.com/pyang5166/gbro-collage-broll) — 把 5 秒口播/观点句做成高级半调纸拼贴 B-roll 动画，三阶段审批防踩坑  
   标签：B-roll / 纸拼贴 / Gemini / 动画
+- [FableCut 视频编辑（edit-video）](https://github.com/ronak-create/FableCut) — 用 JSON 时间轴 + MCP 让 Agent 驱动浏览器视频编辑器，剪辑、加字幕、调色、转场、关键帧一键成片  
+  标签：视频编辑 / FableCut / 字幕 / 调色 / MCP
+- [DaVinci 视频首剪（edit-video）](https://github.com/appariciojunior/video-editor-skills) — 一条命令完成首剪：转录素材、删废话与死气、保留 B-roll，直接在 DaVinci Resolve 时间线里搭好工程  
+  标签：DaVinci / 视频剪辑 / 字幕 / B-roll / 工作流
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -1133,6 +1143,8 @@
   标签：去 AI 味 / 润色 / 多语种 / 声音匹配
 - [Work Humanizer（职场写作去 AI 味）](https://github.com/phuryn/work-humanizer) — 面向职场写作的实证去 AI 味：销售/客服/HR/法务/邮件/文档，两种模式——改写或访谈式重建  
   标签：去 AI 味 / 职场写作 / 文案 / 访谈重建
+- [印尼语去 AI 味（humanizer-indonesia）](https://github.com/adhiprib/humanizer-indonesia) — 面向印尼语的写作拟人化技能：把生硬的 AI 文本润色成自然流畅、有人味的印尼语  
+  标签：去 AI 味 / 印尼语 / 写作润色 / humanizer
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
