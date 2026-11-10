@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-09 21:22:15 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-10 18:10:46 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（597 个条目 / 20 个分类）
+## 📑 内容导航（602 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -105,6 +105,8 @@
   标签：PPT / 可编辑 / 原生 pptx / 美化
 - [CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) — 高密度、可编辑、咨询风格 PowerPoint 生成 Skill：SCR 叙事 + 8 套视觉风格 + 多层 PPTX 质量门禁  
   标签：PPT / 咨询风格 / PowerPoint / 高密度 / 质量门禁
+- [麦肯锡风格 Deck Pipeline](https://github.com/sruthir28/enterprise-ai-skills) — 四 Agent 流水线把单一主题做成可编辑 PPTX：战略家→构建者→批判者→修复者，产出经得起高管质询的 deck  
+  标签：PPT / PPTX / 麦肯锡 / 咨询 / 演示
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -198,6 +200,8 @@
   标签：像素艺术 / 游戏素材 / 精灵图 / 特效
 - [Oil Motion（网页交互动画）](https://github.com/oil-oil/oil-motion) — 把视频/序列帧变成随滚动、指针、拖动、触摸、设备方向或音频变化的可验收网页动画  
   标签：网页动画 / 交互 / 关键帧 / 产品拆解
+- [SimonTalk 白板讲解](https://github.com/trustfuture/simon-skills) — 手绘白板风边画边讲讲解视频：Excalidraw 逐笔动画+codex 生图贴纸+烧录字幕，一句选题出 2 分钟成片  
+  标签：白板动画 / 手绘 / 知识讲解 / 视频生产
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
@@ -412,6 +416,8 @@
   标签：仪表盘 / HTML / KPI / SVG 图表
 - [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 把复杂回答渲染成单页 HTML 图解：图表、时间线、对比与可视化叙事  
   标签：HTML图解 / 数据可视化 / 信息图 / 时间线 / 可视化叙事
+- [Data Viz 信息图渲染器](https://github.com/zebbern/claude-code-guide) — 从 JSON 数据生成自包含 HTML/SVG 信息图：KPI 卡+对比图+流程图+仪表盘，8 套配色、零外部依赖  
+  标签：数据可视化 / 信息图 / HTML / SVG / 图表
 
 <a id="cat-设计-ui" name="cat-设计-ui"></a>
 
@@ -736,6 +742,8 @@
   标签：视频编辑 / FableCut / 字幕 / 调色 / MCP
 - [DaVinci 视频首剪（edit-video）](https://github.com/appariciojunior/video-editor-skills) — 一条命令完成首剪：转录素材、删废话与死气、保留 B-roll，直接在 DaVinci Resolve 时间线里搭好工程  
   标签：DaVinci / 视频剪辑 / 字幕 / B-roll / 工作流
+- [SimonTalk 调查长片](https://github.com/trustfuture/simon-skills) — 不露脸商业/消费调查长片：事实链+真实素材拼贴+Remotion 合成+八平台文案，一句选题出 10 分钟成片  
+  标签：调查视频 / Remotion / 不露脸 / 视频生产
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -1248,6 +1256,8 @@
   标签：Plain English / 技术写作 / 受控语言 / 文档
 - [PRD 写作（create-prd）](https://github.com/phuryn/pm-skills) — 用 8 段式精益模板生成决策就绪的产品需求文档，约 1-2 页即可对齐团队  
   标签：PRD / 产品需求 / PM / 方法论
+- [Slide 叙事线构建](https://github.com/sruthir28/enterprise-ai-skills) — 把模糊主题拆成每句=一页标题的幻灯片叙事线，麦肯锡金字塔结构，deck/提案/董事会更新通用  
+  标签：叙事结构 / 金字塔原理 / 演示写作 / 方法论
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
