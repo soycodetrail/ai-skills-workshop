@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-10 18:10:46 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-11 18:17:44 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（602 个条目 / 20 个分类）
+## 📑 内容导航（608 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -202,6 +202,10 @@
   标签：网页动画 / 交互 / 关键帧 / 产品拆解
 - [SimonTalk 白板讲解](https://github.com/trustfuture/simon-skills) — 手绘白板风边画边讲讲解视频：Excalidraw 逐笔动画+codex 生图贴纸+烧录字幕，一句选题出 2 分钟成片  
   标签：白板动画 / 手绘 / 知识讲解 / 视频生产
+- [花叔艺术动画](https://github.com/alchaincyf/huashu-art-motion) — 36 种实做艺术风格 + 16 种可迁移研究配方 + 9 种解说动画语法，用代码让画动起来，可接口播与 AI 生帧  
+  标签：艺术动画 / 代码动画 / 解说动画 / 风格库
+- [Blender 动画](https://github.com/EL4CTEO/blender-skills) — Blender 5.2 专业动画工作流：槽/层动作与 channelbag API、Python 关键帧、NLA、动捕/Mixamo 重定向、逐片段导出  
+  标签：Blender / 3D 动画 / 关键帧 / 动捕
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
@@ -659,6 +663,8 @@
   标签：视频拆解 / 制作分析 / 分镜 / 影视 / 复刻
 - [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) — 用代码生成电影级短片：66+ 种手绘风格（油画厚涂 / 水彩 / 浮世绘 / 卫星简报 / 产品拆解），无需视频模型或素材  
   标签：短片 / 代码生成 / 导演 / 风格库
+- [短剧技能导航](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) — 从人工核对过的 90+ 短剧/漫剧 skill 清单里，按阶段、视频模型与 agent 帮你挑最合适的那个并给出安装方式  
+  标签：短剧 / 漫剧 / 技能导航 / 视频提示词
 
 <a id="cat-全链路" name="cat-全链路"></a>
 
@@ -744,6 +750,10 @@
   标签：DaVinci / 视频剪辑 / 字幕 / B-roll / 工作流
 - [SimonTalk 调查长片](https://github.com/trustfuture/simon-skills) — 不露脸商业/消费调查长片：事实链+真实素材拼贴+Remotion 合成+八平台文案，一句选题出 10 分钟成片  
   标签：调查视频 / Remotion / 不露脸 / 视频生产
+- [Vibe 知识短片](https://github.com/HeyChengC/vibe-knowledge-film) — 抖音 Vibe 知识大赏式无旁白知识短片：代码逐帧直出，讲到什么屏上就演什么，含四条爆款拆解与渲染引擎  
+  标签：知识短片 / Vibe / 代码动画 / 无旁白
+- [短视频精剪](https://github.com/Melvynx/video-agent-skills) — 把口播原片端到端剪成纸感动态设计短片（1080×1920），自带离线渲染引擎，自动去静音、逐词字幕、配乐与 -14 LUFS  
+  标签：短视频 / 口播精剪 / 字幕 / 离线渲染
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -1258,6 +1268,8 @@
   标签：PRD / 产品需求 / PM / 方法论
 - [Slide 叙事线构建](https://github.com/sruthir28/enterprise-ai-skills) — 把模糊主题拆成每句=一页标题的幻灯片叙事线，麦肯锡金字塔结构，deck/提案/董事会更新通用  
   标签：叙事结构 / 金字塔原理 / 演示写作 / 方法论
+- [医学论文统稿](https://github.com/duyunzhoudyz/dyz-med-paper-skills) — 把已确认的医学研究材料一次性整合为完整初稿，或对各章节做全文连贯性与一致性统稿（面向中国医生/研究生）  
+  标签：医学论文 / 学术写作 / 统稿 / 科研
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
