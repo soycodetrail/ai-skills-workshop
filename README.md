@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-11 18:17:44 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-12 18:28:55 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（608 个条目 / 20 个分类）
+## 📑 内容导航（613 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -953,6 +953,12 @@
   标签：Seedance / 广告 / TVC / 分镜
 - [Seedance 生产流程（seedance-production-workflow）](https://github.com/LearnPrompt/awesome-seedance) — 从 brief 到参考图、分镜、生成交接、逐镜头审阅与定向修复的端到端 Seedance 视频工作流  
   标签：Seedance / 视频生产 / 分镜 / QA
+- [Motion 动效设计](https://github.com/whaleyxbt/claude-motion) — 把自然语言需求转成代码驱动的动态图形（motion design），覆盖动画原理、关键帧与缓动，输出可在网页运行的动效  
+  标签：动效 / Motion / 关键帧 / 网页动画
+- [Motion Design 动效工作流](https://github.com/howseen-ai/claude-motion-design) — 一套详尽的代码驱动动效设计工作流（SKILL.md 约 33KB），把文字需求落成可运行的网页动效与场景化动画  
+  标签：动效 / Motion / 动画工作流 / 网页动画
+- [HyperFrames 动态 Reel](https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill) — 用 HyperFrames（HTML+GSAP+SVG+Canvas）生成 showreel 级、踩点同步的动态图形短片，120 BPM / 60 FPS 到 MP4  
+  标签：HyperFrames / 动态图形 / 音乐可视化 / Reel
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -1270,6 +1276,10 @@
   标签：叙事结构 / 金字塔原理 / 演示写作 / 方法论
 - [医学论文统稿](https://github.com/duyunzhoudyz/dyz-med-paper-skills) — 把已确认的医学研究材料一次性整合为完整初稿，或对各章节做全文连贯性与一致性统稿（面向中国医生/研究生）  
   标签：医学论文 / 学术写作 / 统稿 / 科研
+- [反防御性写作](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) — 把被动语态、缓冲词、免责声明与推诿措辞堆出来的「防御性写作」改写成清晰、直接、敢担责的专业表达  
+  标签：防御性写作 / 清晰表达 / 商务写作 / 技术写作
+- [学术写作与方法论](https://github.com/jamditis/claude-skills-journalism) — 系统化的学术写作与研究方法论，覆盖研究问题、文献检索、IMRaD、同行评审、基金提案与开放获取合规  
+  标签：学术写作 / 研究方法 / 论文 / 科研合规
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
