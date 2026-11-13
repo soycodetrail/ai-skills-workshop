@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-12 18:28:55 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-13 18:14:10 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（613 个条目 / 20 个分类）
+## 📑 内容导航（619 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -553,6 +553,8 @@
   标签：公众号 / 排版 / HTML / 主题
 - [品牌识别设计（brand-identity）](https://github.com/fatihaydost/brand-identity-skill) — 一条 brief 产出完整品牌识别系统：Logo、字体、配色一起设计、量化测评并排对比，交付品牌规范包  
   标签：品牌设计 / Logo / 配色 / 字体 / 设计规范
+- [Frontend UI Engineering](https://github.com/addyosmani/agent-skills) — Addy Osmani 出品：构建生产级、可访问、响应式的用户界面前端工程能力（117k★ 策展合集）  
+  标签：前端 / UI 工程 / 可访问性 / 设计系统
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -665,6 +667,10 @@
   标签：短片 / 代码生成 / 导演 / 风格库
 - [短剧技能导航](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) — 从人工核对过的 90+ 短剧/漫剧 skill 清单里，按阶段、视频模型与 agent 帮你挑最合适的那个并给出安装方式  
   标签：短剧 / 漫剧 / 技能导航 / 视频提示词
+- [Director 视频导演](https://github.com/s1dashu/director) — 把主题/脚本端到端导成成片：研究、剧本、视觉开发、人物与声音设计、分镜、素材生成到交付（导演手册）  
+  标签：视频导演 / 分镜 / 短视频 / 多模式
+- [Video Director 代码导演](https://github.com/win4r/video-director) — 把短片当代码来写：HTML/Canvas/SVG/Three.js/GSAP/Remotion 逐帧渲染成 MP4，自带两轮 QA 校验  
+  标签：视频导演 / 代码动画 / 逐帧渲染 / QA 校验
 
 <a id="cat-全链路" name="cat-全链路"></a>
 
@@ -1169,6 +1175,12 @@
   标签：去 AI 味 / 职场写作 / 文案 / 访谈重建
 - [印尼语去 AI 味（humanizer-indonesia）](https://github.com/adhiprib/humanizer-indonesia) — 面向印尼语的写作拟人化技能：把生硬的 AI 文本润色成自然流畅、有人味的印尼语  
   标签：去 AI 味 / 印尼语 / 写作润色 / humanizer
+- [Avoid AI Writing 去 AI 味](https://github.com/conorbronsdon/avoid-ai-writing) — 审计并改写文本去除 AI 写作痕迹（AI-isms）：检测模式、就地改写、可选声音档案与迭代收敛  
+  标签：去 AI 味 / 写作审计 / 改写 / 英文
+- [Sepia 去 AI 味写作](https://github.com/Nanako0129/sepia) — 让 AI 生成的文字读起来像人写的：虚构叙事的结构修复 + 专业文体的领域规则路由（基于 StoryScope）  
+  标签：去 AI 味 / 虚构写作 / 专业文体 / StoryScope
+- [说人话 去 AI 味](https://github.com/MrGeDiao/shuorenhua) — 按用户要求审稿或去 AI 味，中英双语：保留事实、术语与责任主体，支持只标问题不改写  
+  标签：去 AI 味 / 说人话 / 中文 / 审稿
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
