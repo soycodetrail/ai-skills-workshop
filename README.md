@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-13 18:14:10 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-14 18:15:52 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（619 个条目 / 20 个分类）
+## 📑 内容导航（625 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -107,6 +107,8 @@
   标签：PPT / 咨询风格 / PowerPoint / 高密度 / 质量门禁
 - [麦肯锡风格 Deck Pipeline](https://github.com/sruthir28/enterprise-ai-skills) — 四 Agent 流水线把单一主题做成可编辑 PPTX：战略家→构建者→批判者→修复者，产出经得起高管质询的 deck  
   标签：PPT / PPTX / 麦肯锡 / 咨询 / 演示
+- [Slide Maker 幻灯片](https://github.com/addsumtech/slides_maker) — slides_maker 的 slide-maker 子技能：把论文/代码/文档转成可编辑 PPTX，含原生图表与独立评审  
+  标签：PPT / 幻灯片 / 可编辑 / 演讲
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -206,6 +208,8 @@
   标签：艺术动画 / 代码动画 / 解说动画 / 风格库
 - [Blender 动画](https://github.com/EL4CTEO/blender-skills) — Blender 5.2 专业动画工作流：槽/层动作与 channelbag API、Python 关键帧、NLA、动捕/Mixamo 重定向、逐片段导出  
   标签：Blender / 3D 动画 / 关键帧 / 动捕
+- [Reanimate 动效复刻](https://github.com/NiazMorshed2007/reanimate) — reanimate 子技能：逐帧逆向复刻任意网站/视频的动画，录制对比证明动作一致  
+  标签：动画复刻 / CSS / WebGL / 动效
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
@@ -422,6 +426,10 @@
   标签：HTML图解 / 数据可视化 / 信息图 / 时间线 / 可视化叙事
 - [Data Viz 信息图渲染器](https://github.com/zebbern/claude-code-guide) — 从 JSON 数据生成自包含 HTML/SVG 信息图：KPI 卡+对比图+流程图+仪表盘，8 套配色、零外部依赖  
   标签：数据可视化 / 信息图 / HTML / SVG / 图表
+- [McKinsey 风格可视化](https://github.com/kgraph57/mckinsey-style-visualization-skill) — 麦肯锡咨询级图表技能：22 种图表类型的 SVG 渲染器，输出干净的商务数据可视化  
+  标签：数据可视化 / 麦肯锡 / SVG / 商务图表
+- [论文科研配图](https://github.com/ChenLiu-1996/figures4papers) — figures4papers 的 scientific-figure-making 子技能：论文级 matplotlib 科研图，复现 10+ 顶刊案例  
+  标签：科研绘图 / matplotlib / 论文配图 / 数据可视化
 
 <a id="cat-设计-ui" name="cat-设计-ui"></a>
 
@@ -793,6 +801,8 @@
   标签：配音 / 译制 / 多语言 / ElevenLabs
 - [ChatCut 视频译制](https://github.com/ChatCut-Inc/agent-plugin) — 端到端视频译制：转录→翻译→配音→口型同步，保留原音色  
   标签：视频译制 / 配音 / 字幕 / 多语言
+- [Qwen 视频翻译配音](https://github.com/QwenLM/Qwen-MM-Plugins) — Qwen-MM-Plugins 的 video-translation 子技能：说话人保持的跨语言视频翻译与字幕/配音  
+  标签：视频翻译 / 配音 / 字幕 / 多模态
 
 <a id="cat-字幕-配音" name="cat-字幕-配音"></a>
 
@@ -1292,6 +1302,8 @@
   标签：防御性写作 / 清晰表达 / 商务写作 / 技术写作
 - [学术写作与方法论](https://github.com/jamditis/claude-skills-journalism) — 系统化的学术写作与研究方法论，覆盖研究问题、文献检索、IMRaD、同行评审、基金提案与开放获取合规  
   标签：学术写作 / 研究方法 / 论文 / 科研合规
+- [学术写作 co-researcher](https://github.com/poemswe/co-researcher) — co-researcher 的 academic-writing 子技能：去 AI 味的学术写作与润色，覆盖论文/基金/审稿回复  
+  标签：学术写作 / 去AI味 / 论文润色 / 科研
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
