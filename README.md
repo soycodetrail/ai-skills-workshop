@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-14 18:15:52 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-16 16:36:45 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（625 个条目 / 20 个分类）
+## 📑 内容导航（631 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -395,6 +395,8 @@
   标签：架构图 / 技术栈 / 云架构 / 系统设计 / 品牌Logo
 - [架构图生成（arch-diagram）](https://github.com/bassnova42/arch-diagram-skill) — 把任意来源（仓库 / 文章 / PDF / 本地目录）变成结构贴合内容的密集架构图，八种主题可绘  
   标签：架构图 / 可视化 / 系统设计 / 技术文档 / 图表
+- [Design Doc Mermaid 图表](https://github.com/SpillwaveSolutions/design-doc-mermaid) — skills.sh 数据可视化榜首（98.6k 安装）：把文字规格、架构思路或现有代码一键转成专业 Mermaid 图  
+  标签：Mermaid / 架构图 / 技术文档 / 可视化
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -563,6 +565,8 @@
   标签：品牌设计 / Logo / 配色 / 字体 / 设计规范
 - [Frontend UI Engineering](https://github.com/addyosmani/agent-skills) — Addy Osmani 出品：构建生产级、可访问、响应式的用户界面前端工程能力（117k★ 策展合集）  
   标签：前端 / UI 工程 / 可访问性 / 设计系统
+- [Stageshow 仿真产品 UI 演示](https://github.com/benjitaylor/skills) — 把一句产品描述变成像真产品的高保真 UI 插画与带光标的循环演示，做 hero / 功能卡 / 产品 walkthrough 一步到位  
+  标签：UI 演示 / 产品 Mockup / React / 动画
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -768,6 +772,10 @@
   标签：知识短片 / Vibe / 代码动画 / 无旁白
 - [短视频精剪](https://github.com/Melvynx/video-agent-skills) — 把口播原片端到端剪成纸感动态设计短片（1080×1920），自带离线渲染引擎，自动去静音、逐词字幕、配乐与 -14 LUFS  
   标签：短视频 / 口播精剪 / 字幕 / 离线渲染
+- [AIEV 视频剪辑流水线](https://github.com/notivn/AIEVv2) — Claude 当导演的全自动 AI 剪辑：卡拉OK字幕、动态排版、节拍缩放、配音翻译，一条提示词出 MP4  
+  标签：AI 剪辑 / HyperFrames / Remotion / 字幕
+- [Video Autopilot 视频自动驾驶](https://github.com/Hao0321/video-autopilot-kit) — 从 brief 到成片发布包的全流程视频工作流：长视频与竖屏 Shorts 都用「证据门控」逐环节审校  
+  标签：视频全流程 / Shorts / 证据门控 / 剪辑
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -1304,6 +1312,10 @@
   标签：学术写作 / 研究方法 / 论文 / 科研合规
 - [学术写作 co-researcher](https://github.com/poemswe/co-researcher) — co-researcher 的 academic-writing 子技能：去 AI 味的学术写作与润色，覆盖论文/基金/审稿回复  
   标签：学术写作 / 去AI味 / 论文润色 / 科研
+- [清晰简洁写作法则](https://github.com/softaworks/agent-toolkit) — 把 Strunk《风格的要素》变成可执行规则：文档、提交信息、报错、UI 文案一律写得更清楚有力  
+  标签：技术写作 / Strunk / 简洁 / 文案
+- [PRD 需求文档撰写](https://github.com/refoundai/lenny-skills) — 把抽象想法变成可执行的项目规格，让工程与设计团队对「问题是什么、怎么算成功」达成一致  
+  标签：PRD / 产品需求 / 方法论 / 规格文档
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
