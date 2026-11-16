@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-16 16:36:45 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-16 18:33:14 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（631 个条目 / 20 个分类）
+## 📑 内容导航（638 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -109,6 +109,8 @@
   标签：PPT / PPTX / 麦肯锡 / 咨询 / 演示
 - [Slide Maker 幻灯片](https://github.com/addsumtech/slides_maker) — slides_maker 的 slide-maker 子技能：把论文/代码/文档转成可编辑 PPTX，含原生图表与独立评审  
   标签：PPT / 幻灯片 / 可编辑 / 演讲
+- [咨询级 PPT 制作](https://github.com/carnot-tech/jinba-consulting-pptx-skill) — 以咨询公司 slide-rules 规范为核心，20 种版式零件 + 机器校验 FAIL 0，产出经营会议级幻灯片  
+  标签：PPT / 咨询风 / HTML / PDF / 幻灯片规范
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -210,6 +212,8 @@
   标签：Blender / 3D 动画 / 关键帧 / 动捕
 - [Reanimate 动效复刻](https://github.com/NiazMorshed2007/reanimate) — reanimate 子技能：逐帧逆向复刻任意网站/视频的动画，录制对比证明动作一致  
   标签：动画复刻 / CSS / WebGL / 动效
+- [SVG 线条动画](https://github.com/JDhruv14/line-art-animation) — 用 SVG + TypeScript 绘制会走会跑的人物、街景与昼夜循环的钢笔线条动画，可导出视频  
+  标签：线条动画 / SVG / 插画 / 手绘 / 逐帧
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
@@ -397,6 +401,10 @@
   标签：架构图 / 可视化 / 系统设计 / 技术文档 / 图表
 - [Design Doc Mermaid 图表](https://github.com/SpillwaveSolutions/design-doc-mermaid) — skills.sh 数据可视化榜首（98.6k 安装）：把文字规格、架构思路或现有代码一键转成专业 Mermaid 图  
   标签：Mermaid / 架构图 / 技术文档 / 可视化
+- [活体架构监控面板](https://github.com/ythx-101/live-panel-skill) — 从一份 JSON 配置生成终端风格「一直运行的」架构图/监控面板动画，并渲染为 mp4  
+  标签：架构图 / 监控面板 / 动画 / mp4 / 数据可视化
+- [FigGenie 顶会论文插图](https://github.com/Sleepy-Avacado/FigGenie-paper-diagram-skill) — 按 OSDI/ICLR 等顶会规范画出版级论文配图 SVG：架构图、机制图与 Figure 1，可转可编辑 PPT  
+  标签：论文配图 / SVG / 架构图 / Figure 1 / 学术
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -776,6 +784,8 @@
   标签：AI 剪辑 / HyperFrames / Remotion / 字幕
 - [Video Autopilot 视频自动驾驶](https://github.com/Hao0321/video-autopilot-kit) — 从 brief 到成片发布包的全流程视频工作流：长视频与竖屏 Shorts 都用「证据门控」逐环节审校  
   标签：视频全流程 / Shorts / 证据门控 / 剪辑
+- [Bang Motion 电影感动效](https://github.com/bangtutorial/bang-motion) — 用 HTML+CSS+GSAP 做出像真视频一样的宣传片与动态排版，而非幻灯片，可渲染 MP4  
+  标签：动效 / GSAP / 宣传片 / MP4 / 动态排版
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -1199,6 +1209,8 @@
   标签：去 AI 味 / 虚构写作 / 专业文体 / StoryScope
 - [说人话 去 AI 味](https://github.com/MrGeDiao/shuorenhua) — 按用户要求审稿或去 AI 味，中英双语：保留事实、术语与责任主体，支持只标问题不改写  
   标签：去 AI 味 / 说人话 / 中文 / 审稿
+- [AI 文案与去味编辑器](https://github.com/mikiarlo3/ai-copywriter) — 一套技能干两件事：写出能转化的标题/文案/CTA，再用维基「AI 写作特征」清单去除机器腔  
+  标签：文案 / 去AI味 / 标题 / CTA / 营销
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
@@ -1316,6 +1328,8 @@
   标签：技术写作 / Strunk / 简洁 / 文案
 - [PRD 需求文档撰写](https://github.com/refoundai/lenny-skills) — 把抽象想法变成可执行的项目规格，让工程与设计团队对「问题是什么、怎么算成功」达成一致  
   标签：PRD / 产品需求 / 方法论 / 规格文档
+- [短剧编剧审稿](https://github.com/Vi7QY/screenwriter-skill) — 以头部平台内容负责人的实战方法论预审短剧/漫剧剧本：选题判断、首集质检、改稿方向  
+  标签：短剧 / 剧本审稿 / 编剧 / 改稿 / 方法论
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 

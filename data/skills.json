@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T16:36:45.855Z",
+  "updatedAt": "2026-11-16T18:33:14.600Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -9820,6 +9820,125 @@
       "bg": "",
       "tool": "writing",
       "hot": 1484
+    },
+    {
+      "name": "Bang Motion 电影感动效",
+      "desc": "用 HTML+CSS+GSAP 做出像真视频一样的宣传片与动态排版，而非幻灯片，可渲染 MP4",
+      "url": "https://github.com/bangtutorial/bang-motion",
+      "category": "fullstack",
+      "tags": [
+        "动效",
+        "GSAP",
+        "宣传片",
+        "MP4",
+        "动态排版"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 2280
+    },
+    {
+      "name": "咨询级 PPT 制作",
+      "desc": "以咨询公司 slide-rules 规范为核心，20 种版式零件 + 机器校验 FAIL 0，产出经营会议级幻灯片",
+      "url": "https://github.com/carnot-tech/jinba-consulting-pptx-skill",
+      "category": "ppt",
+      "tags": [
+        "PPT",
+        "咨询风",
+        "HTML",
+        "PDF",
+        "幻灯片规范"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 1622
+    },
+    {
+      "name": "AI 文案与去味编辑器",
+      "desc": "一套技能干两件事：写出能转化的标题/文案/CTA，再用维基「AI 写作特征」清单去除机器腔",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "category": "humanizer",
+      "tags": [
+        "文案",
+        "去AI味",
+        "标题",
+        "CTA",
+        "营销"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 1214
+    },
+    {
+      "name": "SVG 线条动画",
+      "desc": "用 SVG + TypeScript 绘制会走会跑的人物、街景与昼夜循环的钢笔线条动画，可导出视频",
+      "url": "https://github.com/JDhruv14/line-art-animation",
+      "category": "animation",
+      "tags": [
+        "线条动画",
+        "SVG",
+        "插画",
+        "手绘",
+        "逐帧"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 910
+    },
+    {
+      "name": "活体架构监控面板",
+      "desc": "从一份 JSON 配置生成终端风格「一直运行的」架构图/监控面板动画，并渲染为 mp4",
+      "url": "https://github.com/ythx-101/live-panel-skill",
+      "category": "diagram",
+      "tags": [
+        "架构图",
+        "监控面板",
+        "动画",
+        "mp4",
+        "数据可视化"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 862
+    },
+    {
+      "name": "FigGenie 顶会论文插图",
+      "desc": "按 OSDI/ICLR 等顶会规范画出版级论文配图 SVG：架构图、机制图与 Figure 1，可转可编辑 PPT",
+      "url": "https://github.com/Sleepy-Avacado/FigGenie-paper-diagram-skill",
+      "category": "diagram",
+      "tags": [
+        "论文配图",
+        "SVG",
+        "架构图",
+        "Figure 1",
+        "学术"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 378
+    },
+    {
+      "name": "短剧编剧审稿",
+      "desc": "以头部平台内容负责人的实战方法论预审短剧/漫剧剧本：选题判断、首集质检、改稿方向",
+      "url": "https://github.com/Vi7QY/screenwriter-skill",
+      "category": "methodology",
+      "tags": [
+        "短剧",
+        "剧本审稿",
+        "编剧",
+        "改稿",
+        "方法论"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 110
     }
   ],
   "categories": [
