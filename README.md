@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-16 18:33:14 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-17 19:12:33 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（638 个条目 / 20 个分类）
+## 📑 内容导航（644 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -111,6 +111,8 @@
   标签：PPT / 幻灯片 / 可编辑 / 演讲
 - [咨询级 PPT 制作](https://github.com/carnot-tech/jinba-consulting-pptx-skill) — 以咨询公司 slide-rules 规范为核心，20 种版式零件 + 机器校验 FAIL 0，产出经营会议级幻灯片  
   标签：PPT / 咨询风 / HTML / PDF / 幻灯片规范
+- [Presentation Skill 可编辑 PPTX](https://github.com/siril9/presentation-skill) — 从源数据构建可编辑 PowerPoint，模型管论证与 QA、技能管确定性渲染，覆盖科研/咨询/董事会等多场景  
+  标签：PPT / PPTX / 可编辑 / 科研汇报 / QA
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -440,6 +442,8 @@
   标签：数据可视化 / 麦肯锡 / SVG / 商务图表
 - [论文科研配图](https://github.com/ChenLiu-1996/figures4papers) — figures4papers 的 scientific-figure-making 子技能：论文级 matplotlib 科研图，复现 10+ 顶刊案例  
   标签：科研绘图 / matplotlib / 论文配图 / 数据可视化
+- [Designer Data Visualization](https://github.com/owl-listener/designer-skills) — 为数据挑选正确图表类型并设计可读、无障碍的编码：对比/趋势/占比/分布/关系全覆盖  
+  标签：数据可视化 / 图表选型 / 无障碍 / 配色 / 设计系统
 
 <a id="cat-设计-ui" name="cat-设计-ui"></a>
 
@@ -638,6 +642,8 @@
   标签：Remotion / 视频工厂 / 产品演示 / 字幕 / 程序化视频
 - [Ekko Remotion（代码驱动视频）](https://github.com/EKKOLearnAI/ekko-studio) — 把短视频创意变成可编辑、可渲染的 Remotion+React 项目：竖屏短视、产品演示、口播、字幕、配音、音效全流程  
   标签：Remotion / React 视频 / 短视频 / MP4
+- [Agentic Product Demo](https://github.com/alexwtlf/agentic-product-demo) — 用 Remotion 拍摄/动画/加字幕并可选配乐，产出落地页、文档、应用商店与社媒的产品演示片  
+  标签：Remotion / 产品演示 / 动效 / 标题卡 / 配乐
 
 <a id="cat-提示词-导演" name="cat-提示词-导演"></a>
 
@@ -862,6 +868,8 @@
   标签：视频理解 / 转录 / 抽帧 / 分析
 - [Video Caption Generator 视频字幕](https://github.com/ericosiu/ai-marketing-skills) — ericosiu/ai-marketing-skills 子技能：把视频自动生成可读、带品牌风格的字幕与标题卡  
   标签：字幕 / 视频 / 短视频 / 社媒
+- [即创视频字幕添加](https://github.com/bytedance/agentkit-samples) — 字节官方 agentkit 技能：为本地视频自动添加/嵌入字幕，覆盖加字幕、打字幕、字幕嵌入等场景  
+  标签：字幕 / 视频 / 字节官方 / 短视频 / 自动嵌入
 
 <a id="cat-ai-视频" name="cat-ai-视频"></a>
 
@@ -1134,6 +1142,8 @@
   标签：长文写作 / Article / 通讯 / 声线一致 / 去AI味
 - [躺平公文](https://github.com/larashero3-dotcom/lieflat-gongwen) — 102 万字真实公文样本蒸馏出 7 类公文风格可量化参数  
   标签：公文 / 中文写作 / 风格量化 / 政府文书
+- [PRP 技术文档撰写](https://github.com/Wirasm/prp) — 写易执行、难误读的开发者文档：README/RFC/教程/指南/参考，先立事实源再逐句核验符号与命令  
+  标签：技术文档 / README / RFC / 教程 / 事实核验
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -1330,6 +1340,8 @@
   标签：PRD / 产品需求 / 方法论 / 规格文档
 - [短剧编剧审稿](https://github.com/Vi7QY/screenwriter-skill) — 以头部平台内容负责人的实战方法论预审短剧/漫剧剧本：选题判断、首集质检、改稿方向  
   标签：短剧 / 剧本审稿 / 编剧 / 改稿 / 方法论
+- [Mindrally 技术写作](https://github.com/Mindrally/skills) — 写给开发者的深度教程与文档：直接切入技术内容，强调可运行代码与「为什么」的架构解释  
+  标签：技术写作 / 教程 / 开发者文档 / 代码例 / 方法论
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
