@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-17 19:12:33 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-18 18:06:53 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（644 个条目 / 20 个分类）
+## 📑 内容导航（650 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -327,6 +327,8 @@
   标签：手绘 / 插画 / 提示词 / 风格库
 - [像素艺术生成（codixel）](https://github.com/mankidev/codixel) — 教 Agent 画好像素艺术：静态像素图、动画游戏精灵与特效，附风格与技巧指引  
   标签：像素艺术 / 游戏资产 / 精灵动画 / 复古插画
+- [Sprite Gen 游戏素材生成](https://github.com/aldegad/sprite-gen) — 一句话生成游戏精灵图与透明动效：GPT/Grok 驱动，连字标、图生视频、调色板替换全流程  
+  标签：游戏素材 / Sprite / 图生视频 / GPT / Grok
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -579,6 +581,8 @@
   标签：前端 / UI 工程 / 可访问性 / 设计系统
 - [Stageshow 仿真产品 UI 演示](https://github.com/benjitaylor/skills) — 把一句产品描述变成像真产品的高保真 UI 插画与带光标的循环演示，做 hero / 功能卡 / 产品 walkthrough 一步到位  
   标签：UI 演示 / 产品 Mockup / React / 动画
+- [Superdesign 设计画布](https://github.com/superdesigndev/superdesign-skill) — 在 Superdesign 画布上设计 UI、幻灯片与海报，可跨多家顶尖模型对比视觉方案  
+  标签：UI 设计 / 设计系统 / 幻灯片 / 海报 / 多模型
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -644,6 +648,8 @@
   标签：Remotion / React 视频 / 短视频 / MP4
 - [Agentic Product Demo](https://github.com/alexwtlf/agentic-product-demo) — 用 Remotion 拍摄/动画/加字幕并可选配乐，产出落地页、文档、应用商店与社媒的产品演示片  
   标签：Remotion / 产品演示 / 动效 / 标题卡 / 配乐
+- [VVV 可复用视频模板](https://github.com/actionow-ai/vvv) — 做一次可编辑视频模板，反复套用生成个性化成片：支持抖音/小红书分享链接逆向复刻  
+  标签：视频模板 / 可编辑工程 / 复刻 / 婚礼影片 / 批量生成
 
 <a id="cat-提示词-导演" name="cat-提示词-导演"></a>
 
@@ -792,6 +798,8 @@
   标签：视频全流程 / Shorts / 证据门控 / 剪辑
 - [Bang Motion 电影感动效](https://github.com/bangtutorial/bang-motion) — 用 HTML+CSS+GSAP 做出像真视频一样的宣传片与动态排版，而非幻灯片，可渲染 MP4  
   标签：动效 / GSAP / 宣传片 / MP4 / 动态排版
+- [Cinematic Film 代码电影](https://github.com/Moh4696/cinematic-skill) — 纯代码生成旁白式电影长镜头：一条连续运镜扫过照片/卡片/地图，每个高光精准卡在旁白词上  
+  标签：电影感 / 纪录片 / 旁白 / 运镜 / 代码视频
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -870,6 +878,8 @@
   标签：字幕 / 视频 / 短视频 / 社媒
 - [即创视频字幕添加](https://github.com/bytedance/agentkit-samples) — 字节官方 agentkit 技能：为本地视频自动添加/嵌入字幕，覆盖加字幕、打字幕、字幕嵌入等场景  
   标签：字幕 / 视频 / 字节官方 / 短视频 / 自动嵌入
+- [YouTube Captions 字幕导出](https://github.com/artemchuikin/youtube-skills) — 读取任意公开 YouTube 视频的带时间戳字幕：引用/翻译/无障碍/导出 SRT、VTT  
+  标签：YouTube / 字幕 / SRT / VTT / 无障碍
 
 <a id="cat-ai-视频" name="cat-ai-视频"></a>
 
@@ -1342,6 +1352,8 @@
   标签：短剧 / 剧本审稿 / 编剧 / 改稿 / 方法论
 - [Mindrally 技术写作](https://github.com/Mindrally/skills) — 写给开发者的深度教程与文档：直接切入技术内容，强调可运行代码与「为什么」的架构解释  
   标签：技术写作 / 教程 / 开发者文档 / 代码例 / 方法论
+- [Open Steps 分步引导](https://github.com/kharmanskyi/open-steps) — 把「怎么做」变成可执行的引导流程：先自己尝试，再一次一个动作、用大白话带用户走完  
+  标签：分步引导 / 方法论 / 用户协作 / 教程写作 / Agent 工作流
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
