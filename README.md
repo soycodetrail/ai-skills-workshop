@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-18 18:06:53 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-19 18:15:07 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（650 个条目 / 20 个分类）
+## 📑 内容导航（658 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -329,6 +329,8 @@
   标签：像素艺术 / 游戏资产 / 精灵动画 / 复古插画
 - [Sprite Gen 游戏素材生成](https://github.com/aldegad/sprite-gen) — 一句话生成游戏精灵图与透明动效：GPT/Grok 驱动，连字标、图生视频、调色板替换全流程  
   标签：游戏素材 / Sprite / 图生视频 / GPT / Grok
+- [黑板粉笔技术架构图](https://github.com/chujianyun/awesome-gpt-image2-ppt-skills) — 一句话生成黑板板书质感的技术架构信息图：中心放射版式、粉笔手绘风格，16:9 直接用于 PPT  
+  标签：黑板粉笔 / 技术架构图 / AI 绘图 / PPT 配图 / 信息图
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -446,6 +448,8 @@
   标签：科研绘图 / matplotlib / 论文配图 / 数据可视化
 - [Designer Data Visualization](https://github.com/owl-listener/designer-skills) — 为数据挑选正确图表类型并设计可读、无障碍的编码：对比/趋势/占比/分布/关系全覆盖  
   标签：数据可视化 / 图表选型 / 无障碍 / 配色 / 设计系统
+- [Grafana Dashboarding 仪表盘编排](https://github.com/grafana/skills) — 用 HTTP API 编排生产级 Grafana 仪表盘：面板布局、变量、转换、注解一步到位，推送后自动校验  
+  标签：Grafana / 仪表盘 / 监控可视化 / HTTP API / 官方
 
 <a id="cat-设计-ui" name="cat-设计-ui"></a>
 
@@ -583,6 +587,8 @@
   标签：UI 演示 / 产品 Mockup / React / 动画
 - [Superdesign 设计画布](https://github.com/superdesigndev/superdesign-skill) — 在 Superdesign 画布上设计 UI、幻灯片与海报，可跨多家顶尖模型对比视觉方案  
   标签：UI 设计 / 设计系统 / 幻灯片 / 海报 / 多模型
+- [Teardown 交互机械拆解](https://github.com/elvarofficial/teardown) — 把真实机械做成可拆装的离线 3D 交互页面：点击零件、剖面视图、实时数据面板，还能自动录成 60fps 视频  
+  标签：3D 交互 / 机械拆解 / three.js / 工程演示 / 单文件 HTML
 
 <a id="cat-remotion" name="cat-remotion"></a>
 
@@ -703,6 +709,8 @@
   标签：视频导演 / 分镜 / 短视频 / 多模式
 - [Video Director 代码导演](https://github.com/win4r/video-director) — 把短片当代码来写：HTML/Canvas/SVG/Three.js/GSAP/Remotion 逐帧渲染成 MP4，自带两轮 QA 校验  
   标签：视频导演 / 代码动画 / 逐帧渲染 / QA 校验
+- [DirectorSKILL 电影级导演分镜](https://github.com/wuwangzhang1216/DirectorSKILL) — 把剧本/散文/素材拆成分镜表、走位调度与图生视频提示词：内置十余位导演风格视角  
+  标签：导演分镜 / 提示词 / 图生视频 / 镜头调度 / 影视
 
 <a id="cat-全链路" name="cat-全链路"></a>
 
@@ -800,6 +808,8 @@
   标签：动效 / GSAP / 宣传片 / MP4 / 动态排版
 - [Cinematic Film 代码电影](https://github.com/Moh4696/cinematic-skill) — 纯代码生成旁白式电影长镜头：一条连续运镜扫过照片/卡片/地图，每个高光精准卡在旁白词上  
   标签：电影感 / 纪录片 / 旁白 / 运镜 / 代码视频
+- [Explainroo 本地配音解说视频](https://github.com/vincentsch/explainroo) — 无需 API Key，本地生成带旁白的解说 MP4：Kokoro 配音 + Whisper 逐词时间戳 + Canvas 渲染  
+  标签：解说视频 / 本地配音 / Kokoro / Whisper / 零 API Key
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -1011,6 +1021,8 @@
   标签：动效 / Motion / 动画工作流 / 网页动画
 - [HyperFrames 动态 Reel](https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill) — 用 HyperFrames（HTML+GSAP+SVG+Canvas）生成 showreel 级、踩点同步的动态图形短片，120 BPM / 60 FPS 到 MP4  
   标签：HyperFrames / 动态图形 / 音乐可视化 / Reel
+- [Scenario AI 视频生成剪辑](https://github.com/scenario-labs/skills) — 通过 Scenario MCP 一条龙做文生视频、图生视频、音乐视频与视频编辑，含成本预估与角色一致性  
+  标签：Scenario / 文生视频 / 图生视频 / 数字人 / 官方
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -1154,6 +1166,8 @@
   标签：公文 / 中文写作 / 风格量化 / 政府文书
 - [PRP 技术文档撰写](https://github.com/Wirasm/prp) — 写易执行、难误读的开发者文档：README/RFC/教程/指南/参考，先立事实源再逐句核验符号与命令  
   标签：技术文档 / README / RFC / 教程 / 事实核验
+- [人文学科长篇写作伙伴](https://github.com/tizzy916/humanities-writing-companion) — 历史/哲学/文学/艺术的长篇论证写作全流程：从研究问题、文献地图到四层评审与对抗式审阅  
+  标签：人文社科 / 长篇写作 / 学术论证 / 文献地图 / 中英双语
 
 <a id="cat-去-ai-味" name="cat-去-ai-味"></a>
 
@@ -1231,6 +1245,8 @@
   标签：去 AI 味 / 说人话 / 中文 / 审稿
 - [AI 文案与去味编辑器](https://github.com/mikiarlo3/ai-copywriter) — 一套技能干两件事：写出能转化的标题/文案/CTA，再用维基「AI 写作特征」清单去除机器腔  
   标签：文案 / 去AI味 / 标题 / CTA / 营销
+- [Waza Write 中英润色去味](https://github.com/tw93/waza) — 中英双语写作润色引擎：起草、改写、本地化、去 AI 腔四合一，带标点闸门与 outcome 契约  
+  标签：中英双语 / 润色 / 去 AI 味 / 本地化 / 文案
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
