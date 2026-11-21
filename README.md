@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-21 17:15:48 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-21 19:09:33 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（666 个条目 / 20 个分类）
+## 📑 内容导航（674 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -113,6 +113,8 @@
   标签：PPT / 咨询风 / HTML / PDF / 幻灯片规范
 - [Presentation Skill 可编辑 PPTX](https://github.com/siril9/presentation-skill) — 从源数据构建可编辑 PowerPoint，模型管论证与 QA、技能管确定性渲染，覆盖科研/咨询/董事会等多场景  
   标签：PPT / PPTX / 可编辑 / 科研汇报 / QA
+- [Slidev 开发者演讲幻灯片](https://github.com/slidevjs/slidev) — 用 Markdown + Vue 组件写技术演讲稿： Live Code、语法高亮、动画、LaTeX/Mermaid，一键导出 PDF/PPTX，开发者 talk 首选  
+  标签：Slidev / Markdown 幻灯片 / 技术演讲 / Vue 组件 / PPTX 导出
 
 <a id="cat-动画-3d" name="cat-动画-3d"></a>
 
@@ -335,6 +337,8 @@
   标签：黑板粉笔 / 技术架构图 / AI 绘图 / PPT 配图 / 信息图
 - [Nano Banana Pro 图像生成手册](https://github.com/hoodini/ai-agents-skills) — 面向 Google gemini-3-pro-image-preview 的完整调用手册：Python/TypeScript/cURL 三套示例、搜索 grounding、多轮迭代编辑与角色一致性  
   标签：图像生成 / Gemini / Nano Banana / Search Grounding / Next.js
+- [Qwen-Image-2.1 生图提示词优化器](https://github.com/iamyoki/qwen-image-2.1-skill) — 专为通义千问 Qwen-Image-2.1 打造的生图提示词专家：把一句话打磨成高保真结构化提示词，强化文字渲染、空间布局与多图编辑  
+  标签：Qwen-Image / 通义生图 / 提示词优化 / 多图编辑 / inpainting
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -456,6 +460,8 @@
   标签：数据可视化 / 图表选型 / 无障碍 / 配色 / 设计系统
 - [Grafana Dashboarding 仪表盘编排](https://github.com/grafana/skills) — 用 HTTP API 编排生产级 Grafana 仪表盘：面板布局、变量、转换、注解一步到位，推送后自动校验  
   标签：Grafana / 仪表盘 / 监控可视化 / HTTP API / 官方
+- [Chart Designer 图表设计决策器](https://github.com/claude-office-skills/skills) — 先选对图表类型再写代码：决策树匹配数据关系，产出 ECharts/Chart.js 配置与色盲友好配色，避免「图表选错」的低级错误  
+  标签：图表选型 / ECharts / Chart.js / 色盲友好 / 数据可视化
 
 <a id="cat-设计-ui" name="cat-设计-ui"></a>
 
@@ -719,6 +725,8 @@
   标签：导演分镜 / 提示词 / 图生视频 / 镜头调度 / 影视
 - [超级峰的视频设计方法论](https://github.com/mileson/chaojifeng-video-design) — 不教单句提示词，而是先定「观众要理解什么」，再排主线、分镜、声画节奏与交付验收的导演手册型技能  
   标签：视频设计 / 分镜 / 声画节奏 / 导演方法论 / 风格包
+- [鱼亦乐导演式视频提示词](https://github.com/ttfake92-lab/skills) — 像导演一样把脚本/分镜/一句话拆成可直接生成的分段视频提示词：短视频档与电影精品档双档位，适配 Seedance/即梦/LibTV  
+  标签：视频提示词 / 导演式 / Seedance / 即梦 / 分镜
 
 <a id="cat-全链路" name="cat-全链路"></a>
 
@@ -855,6 +863,8 @@
   标签：视频译制 / 配音 / 字幕 / 多语言
 - [Qwen 视频翻译配音](https://github.com/QwenLM/Qwen-MM-Plugins) — Qwen-MM-Plugins 的 video-translation 子技能：说话人保持的跨语言视频翻译与字幕/配音  
   标签：视频翻译 / 配音 / 字幕 / 多模态
+- [ElevenLabs 官方配音翻译](https://github.com/elevenlabs/skills) — 用 ElevenLabs Dubbing v2 把音视频翻配成多语种且保留原说话人声纹：建项目→校对源转录→加目标语言→细化翻译→重新生成  
+  标签：ElevenLabs / 配音翻译 / 保留声纹 / 多语种本地化 / 官方
 
 <a id="cat-字幕-配音" name="cat-字幕-配音"></a>
 
@@ -1035,6 +1045,8 @@
   标签：Scenario / 文生视频 / 图生视频 / 数字人 / 官方
 - [SeeCut 网感口播精剪](https://github.com/YeJe-cpu/SeeCut) — 让 AI 真的「看」自己剪出的视频：素材理解→证据编排→渲染→两两对比自迭代最多 3 版再交付，把评委校准写进规范  
   标签：口播精剪 / 自迭代质检 / HyperFrames / 证据驱动 / 剪映草稿
+- [What If 科普动画生成器](https://github.com/kelano86/what-if-animation) — 一行主题进去、15-25 秒成片出来：What If 火柴人科普动画全套——七拍剧本、ElevenLabs 配音、逐帧 SVG 代码动画、音效母带  
+  标签：What If / 科普动画 / Remotion / SVG / 火柴人风格
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -1261,6 +1273,8 @@
   标签：中英双语 / 润色 / 去 AI 味 / 本地化 / 文案
 - [ASD-STE100 技术文档去 AI 味器](https://github.com/samber/cc-skills) — 把英文技术文档改写为航空级 ASD-STE100 简化技术英语并剥离 AI 腔，是唯一以国际标准（Issue 9，53 条规则）为骨架的 humanizer  
   标签：技术写作 / ASD-STE100 / 受控语言 / 去 AI 味 / 简化英语
+- [新闻公稿 AI 写作解毒剂](https://github.com/jamditis/claude-skills-journalism) — 专治新闻稿/公文的 AI 腔：禁用词表 + 替换表 + 10+ 新闻业专属句式反模式，配前后对照与发布前自检，让稿子像真人记者写的  
+  标签：去 AI 味 / 新闻写作 / 公文 / 禁用词表 / 发布前自检
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
@@ -1386,6 +1400,8 @@
   标签：分步引导 / 方法论 / 用户协作 / 教程写作 / Agent 工作流
 - [Unslop 评测驱动去 AI 味](https://github.com/theclaymethod/unslop) — 把评测套件本身当产品的去 AI 味技能：phrase/structure/silhouette 三层扫描 + 事实保全门禁 + CI 门禁 + 声音教学，工程化程度远超同类  
   标签：去 AI 味 / 评测驱动 / 事实保全 / 声音复刻 / CI 门禁
+- [ARA 科研严谨性六维评审](https://github.com/Orchestra-Research/AI-Research-SKILLs) — 给研究成果做 Level-2 语义评审：从证据相关性、可证伪性、范围校准、论证连贯、探索完整性、方法严谨六维打分，输出 Strong Accept→Reject 建议  
+  标签：科研评审 / 可证伪性 / 六维评分 / 同行评审 / 质量把关
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 

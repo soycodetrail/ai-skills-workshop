@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T17:15:48.225Z",
+  "updatedAt": "2026-11-21T19:09:33.082Z",
   "items": [
     {
       "name": "归藏 PPT",
@@ -10415,6 +10415,142 @@
       "bg": "",
       "tool": "video",
       "hot": 482
+    },
+    {
+      "name": "Slidev 开发者演讲幻灯片",
+      "desc": "用 Markdown + Vue 组件写技术演讲稿： Live Code、语法高亮、动画、LaTeX/Mermaid，一键导出 PDF/PPTX，开发者 talk 首选",
+      "url": "https://github.com/slidevjs/slidev",
+      "category": "ppt",
+      "tags": [
+        "Slidev",
+        "Markdown 幻灯片",
+        "技术演讲",
+        "Vue 组件",
+        "PPTX 导出"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 49591
+    },
+    {
+      "name": "Chart Designer 图表设计决策器",
+      "desc": "先选对图表类型再写代码：决策树匹配数据关系，产出 ECharts/Chart.js 配置与色盲友好配色，避免「图表选错」的低级错误",
+      "url": "https://github.com/claude-office-skills/skills",
+      "category": "dataviz",
+      "tags": [
+        "图表选型",
+        "ECharts",
+        "Chart.js",
+        "色盲友好",
+        "数据可视化"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 589
+    },
+    {
+      "name": "Qwen-Image-2.1 生图提示词优化器",
+      "desc": "专为通义千问 Qwen-Image-2.1 打造的生图提示词专家：把一句话打磨成高保真结构化提示词，强化文字渲染、空间布局与多图编辑",
+      "url": "https://github.com/iamyoki/qwen-image-2.1-skill",
+      "category": "image-gen",
+      "tags": [
+        "Qwen-Image",
+        "通义生图",
+        "提示词优化",
+        "多图编辑",
+        "inpainting"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "visual",
+      "hot": 214
+    },
+    {
+      "name": "ARA 科研严谨性六维评审",
+      "desc": "给研究成果做 Level-2 语义评审：从证据相关性、可证伪性、范围校准、论证连贯、探索完整性、方法严谨六维打分，输出 Strong Accept→Reject 建议",
+      "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+      "category": "methodology",
+      "tags": [
+        "科研评审",
+        "可证伪性",
+        "六维评分",
+        "同行评审",
+        "质量把关"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 14720
+    },
+    {
+      "name": "新闻公稿 AI 写作解毒剂",
+      "desc": "专治新闻稿/公文的 AI 腔：禁用词表 + 替换表 + 10+ 新闻业专属句式反模式，配前后对照与发布前自检，让稿子像真人记者写的",
+      "url": "https://github.com/jamditis/claude-skills-journalism",
+      "category": "humanizer",
+      "tags": [
+        "去 AI 味",
+        "新闻写作",
+        "公文",
+        "禁用词表",
+        "发布前自检"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "writing",
+      "hot": 458
+    },
+    {
+      "name": "ElevenLabs 官方配音翻译",
+      "desc": "用 ElevenLabs Dubbing v2 把音视频翻配成多语种且保留原说话人声纹：建项目→校对源转录→加目标语言→细化翻译→重新生成",
+      "url": "https://github.com/elevenlabs/skills",
+      "category": "dubbing",
+      "tags": [
+        "ElevenLabs",
+        "配音翻译",
+        "保留声纹",
+        "多语种本地化",
+        "官方"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 579
+    },
+    {
+      "name": "鱼亦乐导演式视频提示词",
+      "desc": "像导演一样把脚本/分镜/一句话拆成可直接生成的分段视频提示词：短视频档与电影精品档双档位，适配 Seedance/即梦/LibTV",
+      "url": "https://github.com/ttfake92-lab/skills",
+      "category": "prompting",
+      "tags": [
+        "视频提示词",
+        "导演式",
+        "Seedance",
+        "即梦",
+        "分镜"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 338
+    },
+    {
+      "name": "What If 科普动画生成器",
+      "desc": "一行主题进去、15-25 秒成片出来：What If 火柴人科普动画全套——七拍剧本、ElevenLabs 配音、逐帧 SVG 代码动画、音效母带",
+      "url": "https://github.com/kelano86/what-if-animation",
+      "category": "ai-video",
+      "tags": [
+        "What If",
+        "科普动画",
+        "Remotion",
+        "SVG",
+        "火柴人风格"
+      ],
+      "icon": "🎬",
+      "bg": "",
+      "tool": "video",
+      "hot": 379
     }
   ],
   "categories": [
