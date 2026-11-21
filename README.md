@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[AI 技能工坊](https://soycodetrail.top/skills)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-19 18:15:07 UTC
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-11-21 17:15:48 UTC
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（658 个条目 / 20 个分类）
+## 📑 内容导航（666 个条目 / 20 个分类）
 
 - [🎨 PPT 制作](#cat-ppt-制作)
 - [🎨 动画 3D](#cat-动画-3d)
@@ -216,6 +216,8 @@
   标签：动画复刻 / CSS / WebGL / 动效
 - [SVG 线条动画](https://github.com/JDhruv14/line-art-animation) — 用 SVG + TypeScript 绘制会走会跑的人物、街景与昼夜循环的钢笔线条动画，可导出视频  
   标签：线条动画 / SVG / 插画 / 手绘 / 逐帧
+- [Design Motion Principles 动效设计三透镜](https://github.com/kylezantos/design-motion-principles) — 把 Emil Kowalski、Jakub Krehel、Jhey Tompkins 三位设计师的动效方法论蒸馏成创建+审计双模式，自带反 AI 味动效检查表  
+  标签：动效设计 / UI 动画 / 设计审计 / 无障碍 / Framer Motion
 
 <a id="cat-图像生成" name="cat-图像生成"></a>
 
@@ -331,6 +333,8 @@
   标签：游戏素材 / Sprite / 图生视频 / GPT / Grok
 - [黑板粉笔技术架构图](https://github.com/chujianyun/awesome-gpt-image2-ppt-skills) — 一句话生成黑板板书质感的技术架构信息图：中心放射版式、粉笔手绘风格，16:9 直接用于 PPT  
   标签：黑板粉笔 / 技术架构图 / AI 绘图 / PPT 配图 / 信息图
+- [Nano Banana Pro 图像生成手册](https://github.com/hoodini/ai-agents-skills) — 面向 Google gemini-3-pro-image-preview 的完整调用手册：Python/TypeScript/cURL 三套示例、搜索 grounding、多轮迭代编辑与角色一致性  
+  标签：图像生成 / Gemini / Nano Banana / Search Grounding / Next.js
 
 <a id="cat-手绘图表" name="cat-手绘图表"></a>
 
@@ -411,6 +415,8 @@
   标签：架构图 / 监控面板 / 动画 / mp4 / 数据可视化
 - [FigGenie 顶会论文插图](https://github.com/Sleepy-Avacado/FigGenie-paper-diagram-skill) — 按 OSDI/ICLR 等顶会规范画出版级论文配图 SVG：架构图、机制图与 Figure 1，可转可编辑 PPT  
   标签：论文配图 / SVG / 架构图 / Figure 1 / 学术
+- [Anthropic Style Diagram 克劳德风架构图](https://github.com/rookie-ricardo/erduo-skills) — 用 SVG 画出 Anthropic/Claude 视觉语言的技术图，渲染脚本接管配色、主题、几何审计与 PNG 导出，作者逆向 Claude 网页绘图规范重建  
+  标签：架构图 / SVG / Anthropic 风格 / PNG 导出 / 技术配图
 
 <a id="cat-数据可视化" name="cat-数据可视化"></a>
 
@@ -711,6 +717,8 @@
   标签：视频导演 / 代码动画 / 逐帧渲染 / QA 校验
 - [DirectorSKILL 电影级导演分镜](https://github.com/wuwangzhang1216/DirectorSKILL) — 把剧本/散文/素材拆成分镜表、走位调度与图生视频提示词：内置十余位导演风格视角  
   标签：导演分镜 / 提示词 / 图生视频 / 镜头调度 / 影视
+- [超级峰的视频设计方法论](https://github.com/mileson/chaojifeng-video-design) — 不教单句提示词，而是先定「观众要理解什么」，再排主线、分镜、声画节奏与交付验收的导演手册型技能  
+  标签：视频设计 / 分镜 / 声画节奏 / 导演方法论 / 风格包
 
 <a id="cat-全链路" name="cat-全链路"></a>
 
@@ -810,6 +818,8 @@
   标签：电影感 / 纪录片 / 旁白 / 运镜 / 代码视频
 - [Explainroo 本地配音解说视频](https://github.com/vincentsch/explainroo) — 无需 API Key，本地生成带旁白的解说 MP4：Kokoro 配音 + Whisper 逐词时间戳 + Canvas 渲染  
   标签：解说视频 / 本地配音 / Kokoro / Whisper / 零 API Key
+- [cinecode 代码拍电影](https://github.com/sarpstar/cinecode) — 把 Claude Code 变成完整电影剧组：一句话需求走到 -14 LUFS 母带 MP4，当前 video 赛道热度最高的新技能之一  
+  标签：AI 电影 / 代码生成视频 / three.js / ffmpeg / 导演
 
 <a id="cat-配音翻译" name="cat-配音翻译"></a>
 
@@ -1023,6 +1033,8 @@
   标签：HyperFrames / 动态图形 / 音乐可视化 / Reel
 - [Scenario AI 视频生成剪辑](https://github.com/scenario-labs/skills) — 通过 Scenario MCP 一条龙做文生视频、图生视频、音乐视频与视频编辑，含成本预估与角色一致性  
   标签：Scenario / 文生视频 / 图生视频 / 数字人 / 官方
+- [SeeCut 网感口播精剪](https://github.com/YeJe-cpu/SeeCut) — 让 AI 真的「看」自己剪出的视频：素材理解→证据编排→渲染→两两对比自迭代最多 3 版再交付，把评委校准写进规范  
+  标签：口播精剪 / 自迭代质检 / HyperFrames / 证据驱动 / 剪映草稿
 
 <a id="cat-长篇创作" name="cat-长篇创作"></a>
 
@@ -1247,6 +1259,8 @@
   标签：文案 / 去AI味 / 标题 / CTA / 营销
 - [Waza Write 中英润色去味](https://github.com/tw93/waza) — 中英双语写作润色引擎：起草、改写、本地化、去 AI 腔四合一，带标点闸门与 outcome 契约  
   标签：中英双语 / 润色 / 去 AI 味 / 本地化 / 文案
+- [ASD-STE100 技术文档去 AI 味器](https://github.com/samber/cc-skills) — 把英文技术文档改写为航空级 ASD-STE100 简化技术英语并剥离 AI 腔，是唯一以国际标准（Issue 9，53 条规则）为骨架的 humanizer  
+  标签：技术写作 / ASD-STE100 / 受控语言 / 去 AI 味 / 简化英语
 
 <a id="cat-方法论" name="cat-方法论"></a>
 
@@ -1370,6 +1384,8 @@
   标签：技术写作 / 教程 / 开发者文档 / 代码例 / 方法论
 - [Open Steps 分步引导](https://github.com/kharmanskyi/open-steps) — 把「怎么做」变成可执行的引导流程：先自己尝试，再一次一个动作、用大白话带用户走完  
   标签：分步引导 / 方法论 / 用户协作 / 教程写作 / Agent 工作流
+- [Unslop 评测驱动去 AI 味](https://github.com/theclaymethod/unslop) — 把评测套件本身当产品的去 AI 味技能：phrase/structure/silhouette 三层扫描 + 事实保全门禁 + CI 门禁 + 声音教学，工程化程度远超同类  
+  标签：去 AI 味 / 评测驱动 / 事实保全 / 声音复刻 / CI 门禁
 
 <a id="cat-resume-build" name="cat-resume-build"></a>
 
